@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T20:00:22Z",
+  "generated_at": "2026-10-16T22:33:09Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -117,7 +117,7 @@
       ],
       "popularity": 93.23,
       "vote_average": 7.5,
-      "vote_count": 909,
+      "vote_count": 910,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -204,7 +204,7 @@
       ],
       "popularity": 157.4,
       "vote_average": 8.3,
-      "vote_count": 2620,
+      "vote_count": 2622,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -245,7 +245,7 @@
       ],
       "popularity": 75.03,
       "vote_average": 7.4,
-      "vote_count": 125,
+      "vote_count": 127,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -568,7 +568,7 @@
       ],
       "popularity": 96.58,
       "vote_average": 7.6,
-      "vote_count": 1273,
+      "vote_count": 1274,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -822,7 +822,7 @@
       ],
       "popularity": 107.18,
       "vote_average": 7.4,
-      "vote_count": 3676,
+      "vote_count": 3678,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1252,7 +1252,7 @@
       ],
       "popularity": 32.21,
       "vote_average": 7.8,
-      "vote_count": 2787,
+      "vote_count": 2788,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1274,7 +1274,7 @@
       ],
       "popularity": 20.8,
       "vote_average": 7.3,
-      "vote_count": 706,
+      "vote_count": 708,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1359,7 +1359,7 @@
       ],
       "popularity": 33.04,
       "vote_average": 6.9,
-      "vote_count": 1183,
+      "vote_count": 1184,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1578,7 +1578,7 @@
       ],
       "popularity": 58.35,
       "vote_average": 8.2,
-      "vote_count": 3825,
+      "vote_count": 3826,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1812,7 +1812,7 @@
       ],
       "popularity": 108.04,
       "vote_average": 7.7,
-      "vote_count": 4517,
+      "vote_count": 4518,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2068,7 +2068,7 @@
       ],
       "popularity": 34.85,
       "vote_average": 8.0,
-      "vote_count": 1116,
+      "vote_count": 1117,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2090,7 +2090,7 @@
       ],
       "popularity": 24.61,
       "vote_average": 6.6,
-      "vote_count": 1403,
+      "vote_count": 1404,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -3066,7 +3066,7 @@
       ],
       "popularity": 50.85,
       "vote_average": 7.8,
-      "vote_count": 3791,
+      "vote_count": 3793,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3277,7 +3277,7 @@
       ],
       "popularity": 31.41,
       "vote_average": 7.3,
-      "vote_count": 2508,
+      "vote_count": 2511,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3733,7 +3733,7 @@
       ],
       "popularity": 41.5,
       "vote_average": 6.8,
-      "vote_count": 2044,
+      "vote_count": 2045,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3798,7 +3798,7 @@
       ],
       "popularity": 22.88,
       "vote_average": 7.3,
-      "vote_count": 1541,
+      "vote_count": 1542,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -4036,7 +4036,7 @@
       ],
       "popularity": 14.41,
       "vote_average": 6.9,
-      "vote_count": 1404,
+      "vote_count": 1405,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -4123,7 +4123,7 @@
       ],
       "popularity": 14.32,
       "vote_average": 6.3,
-      "vote_count": 1660,
+      "vote_count": 1661,
       "physical_dates": {
         "GB": "2025-11-17"
       },
@@ -4298,7 +4298,7 @@
       ],
       "popularity": 82.19,
       "vote_average": 7.8,
-      "vote_count": 4822,
+      "vote_count": 4823,
       "physical_dates": {
         "GB": "2025-11-10"
       },
