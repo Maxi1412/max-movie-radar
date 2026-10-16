@@ -1,9 +1,9 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-10-16T11:21:22Z",
+  "schema_version": 2,
+  "generated_at": "2026-10-16T11:34:14Z",
   "status": "ready",
   "source": "TMDb",
-  "note": "Type 5 = physical; DVD format is not independently verified. Digital and theatrical dates are excluded.",
+  "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
   "coverage": {
     "countries": [
       "US",
@@ -11,14 +11,16 @@
       "ES"
     ],
     "release_type": 5,
-    "formats": "physical_media_unverified_dvd",
-    "lookback_days": 365
+    "formats": "dvd_bluray_uhd_unverified",
+    "lookback_days": 365,
+    "maximum_film_age_days": 900
   },
   "movies": [
     {
       "id": 1339588,
       "title": "Finding Emily",
       "year": "2026",
+      "first_release_date": "2026-04-18",
       "overview": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
       "original_language": "en",
       "poster_path": "/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
@@ -39,6 +41,7 @@
       "id": 1212763,
       "title": "Evil Dead Burn",
       "year": "2026",
+      "first_release_date": "2026-06-30",
       "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "original_language": "en",
       "poster_path": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
@@ -56,28 +59,30 @@
       "trailer_key": "RddZObTlmA8"
     },
     {
-      "id": 4488,
-      "title": "Friday the 13th",
-      "year": "1980",
-      "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+      "id": 1788854,
+      "title": "Rebirth of the Living Dead",
+      "year": "2026",
+      "first_release_date": "2026-10-08",
+      "overview": "Following the events of both \"Night of The Living Dead\" and \"Return of The Living Dead\", \"Rebirth of The Living Dead\" picks up nearly 50 years later in Los Angeles where \"Trioxin Trash\" is the new drug on the street. This \"ultimate high\" turns users into brain-craving Living Dead and it's up to a lone Scientist and a young couple to uncover the cure before it's too late.",
       "original_language": "en",
-      "poster_path": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
-      "backdrop_path": "/edVRp9npNwQwJtD05KyZlzp1J2p.jpg",
+      "poster_path": null,
+      "backdrop_path": null,
       "genre_names": [
         "Horror"
       ],
-      "popularity": 36.79,
-      "vote_average": 6.4,
-      "vote_count": 3506,
+      "popularity": 2.04,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
-        "GB": "2026-10-12"
+        "US": "2026-10-08"
       },
-      "trailer_key": "8nYuu5jpWVs"
+      "trailer_key": null
     },
     {
       "id": 1530349,
       "title": "Fragmentos",
       "year": "2025",
+      "first_release_date": "2025-09-26",
       "overview": "Diego decides to travel to Lanzarote with his wife Alba to try and save their marriage for the umpteenth time. A toxic relationship, with no sexual chemistry and constant arguments, amidst comings and goings with other people, not caring how much they hurt one another. Alba keeps her shell drawn tightly around herself, not realising that her attitude is the cause of their failed relationship.",
       "original_language": "es",
       "poster_path": "/4YhUuuw0pOzLtImHaXcYh84jvGY.jpg",
@@ -97,6 +102,7 @@
       "id": 1108427,
       "title": "Moana",
       "year": "2026",
+      "first_release_date": "2026-07-07",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "original_language": "en",
       "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
@@ -119,6 +125,7 @@
       "id": 1612018,
       "title": "Jackass: Best and Last",
       "year": "2026",
+      "first_release_date": "2026-06-15",
       "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
       "original_language": "en",
       "poster_path": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
@@ -137,30 +144,10 @@
       "trailer_key": "sNwzFhGwA94"
     },
     {
-      "id": 9894,
-      "title": "The Cable Guy",
-      "year": "1996",
-      "overview": "When recently single Steven moves into his new apartment, cable guy Chip comes to hook him up—and doesn't let go. Initially, Chip is just overzealous in his desire to be Steven's pal, but when Steven tries to end the 'friendship', Chip shows his dark side. He begins stalking Steven, who's left to fend for himself because no one else can believe Chip's capable of such behaviour.",
-      "original_language": "en",
-      "poster_path": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
-      "backdrop_path": "/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
-      "genre_names": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "popularity": 13.73,
-      "vote_average": 6.0,
-      "vote_count": 2789,
-      "physical_dates": {
-        "US": "2026-10-06"
-      },
-      "trailer_key": "rhhI_qYOacw"
-    },
-    {
       "id": 950028,
       "title": "The Invite",
       "year": "2026",
+      "first_release_date": "2026-01-24",
       "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "original_language": "en",
       "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
@@ -179,50 +166,10 @@
       "trailer_key": "nelkiuezJxg"
     },
     {
-      "id": 11368,
-      "title": "Blood Simple",
-      "year": "1985",
-      "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
-      "original_language": "en",
-      "poster_path": "/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
-      "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-      "genre_names": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "popularity": 14.39,
-      "vote_average": 7.2,
-      "vote_count": 1700,
-      "physical_dates": {
-        "GB": "2026-10-05"
-      },
-      "trailer_key": "CO54LvO26zs"
-    },
-    {
-      "id": 86829,
-      "title": "Inside Llewyn Davis",
-      "year": "2013",
-      "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
-      "original_language": "en",
-      "poster_path": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
-      "backdrop_path": "/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
-      "genre_names": [
-        "Drama",
-        "Music"
-      ],
-      "popularity": 12.29,
-      "vote_average": 7.2,
-      "vote_count": 3024,
-      "physical_dates": {
-        "GB": "2026-10-05"
-      },
-      "trailer_key": "9JvHEDJEguY"
-    },
-    {
       "id": 1768583,
       "title": "Lizzie Borden: The Hatchet House",
       "year": "2026",
+      "first_release_date": "2026-10-02",
       "overview": "Troubled gothic teenager Ellie feels isolated, angry, and betrayed by her fractured family. Seeking connection and understanding, she turns to the legend of Lizzie Borden, the infamous axe murderer of Fall River.",
       "original_language": "en",
       "poster_path": "/jRDchVX4ctFr0qUla8wsy6VIsb0.jpg",
@@ -239,30 +186,10 @@
       "trailer_key": "yJ7DY5eXQN0"
     },
     {
-      "id": 11826,
-      "title": "Sexy Beast",
-      "year": "2001",
-      "overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
-      "original_language": "en",
-      "poster_path": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
-      "backdrop_path": "/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
-      "genre_names": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "popularity": 8.51,
-      "vote_average": 7.0,
-      "vote_count": 961,
-      "physical_dates": {
-        "GB": "2026-09-28"
-      },
-      "trailer_key": "osexRaPM_Gc"
-    },
-    {
       "id": 1084244,
       "title": "Toy Story 5",
       "year": "2026",
+      "first_release_date": "2026-06-09",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "original_language": "en",
       "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
@@ -285,6 +212,7 @@
       "id": 1273221,
       "title": "Scary Movie",
       "year": "2026",
+      "first_release_date": "2026-06-03",
       "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
       "original_language": "en",
       "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
@@ -304,6 +232,7 @@
       "id": 1607127,
       "title": "One Last Shot",
       "year": "2026",
+      "first_release_date": "2026-09-22",
       "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
       "original_language": "en",
       "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
@@ -324,6 +253,7 @@
       "id": 1308767,
       "title": "Young Washington",
       "year": "2026",
+      "first_release_date": "2026-06-13",
       "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
       "original_language": "en",
       "poster_path": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
@@ -345,6 +275,7 @@
       "id": 1397485,
       "title": "Girls Like Girls",
       "year": "2026",
+      "first_release_date": "2026-06-09",
       "overview": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
       "original_language": "en",
       "poster_path": "/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
@@ -365,6 +296,7 @@
       "id": 855435,
       "title": "Faces of Death",
       "year": "2026",
+      "first_release_date": "2026-04-05",
       "overview": "A moderator on an internet video-sharing platform stumbles across a potential snuff film ring hidden in the depths of the site's content.",
       "original_language": "en",
       "poster_path": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
@@ -385,6 +317,7 @@
       "id": 1227877,
       "title": "I Love Boosters",
       "year": "2026",
+      "first_release_date": "2026-03-12",
       "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
       "original_language": "en",
       "poster_path": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
@@ -406,6 +339,7 @@
       "id": 1476682,
       "title": "Gail Daughtry and the Celebrity Sex Pass",
       "year": "2026",
+      "first_release_date": "2026-01-25",
       "overview": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
       "original_language": "en",
       "poster_path": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
@@ -425,6 +359,7 @@
       "id": 1220564,
       "title": "The Secret Agent",
       "year": "2025",
+      "first_release_date": "2025-05-18",
       "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
       "original_language": "pt",
       "poster_path": "/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
@@ -443,29 +378,10 @@
       "trailer_key": "9UfrzDKrhEc"
     },
     {
-      "id": 1700,
-      "title": "Misery",
-      "year": "1990",
-      "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
-      "original_language": "en",
-      "poster_path": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
-      "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
-      "genre_names": [
-        "Drama",
-        "Thriller"
-      ],
-      "popularity": 17.73,
-      "vote_average": 7.8,
-      "vote_count": 5475,
-      "physical_dates": {
-        "GB": "2026-09-21"
-      },
-      "trailer_key": "qM20YWFOGgY"
-    },
-    {
       "id": 1154538,
       "title": "Nirvanna the Band the Show the Movie",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-03-09",
       "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
       "original_language": "en",
       "poster_path": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
@@ -488,6 +404,7 @@
       "id": 1631192,
       "title": "The Other People",
       "year": "2025",
+      "first_release_date": "2025-03-22",
       "overview": "In a town plagued with sudden deaths and missing persons, a troubled eight-year-old girl befriends a boy that lives in the shadows, and her new stepmom learns why things that live in the dark don’t want to be seen.",
       "original_language": "en",
       "poster_path": "/qU9TnSJ5g6xn9upRT8z9az2O1Ee.jpg",
@@ -509,6 +426,7 @@
       "id": 1340102,
       "title": "Lion Fist",
       "year": "2026",
+      "first_release_date": "2026-09-10",
       "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
       "original_language": "en",
       "poster_path": "/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
@@ -528,6 +446,7 @@
       "id": 1541560,
       "title": "Stop! That! Train!",
       "year": "2026",
+      "first_release_date": "2026-05-18",
       "overview": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
       "original_language": "en",
       "poster_path": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
@@ -547,7 +466,8 @@
     {
       "id": 1263012,
       "title": "Dead Man's Wire",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-02",
       "overview": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
       "original_language": "en",
       "poster_path": "/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
@@ -566,9 +486,52 @@
       "trailer_key": "aHAwgnJL78Y"
     },
     {
+      "id": 1770598,
+      "title": "Spectrum is 20: The Death and Life of New Captain Scarlet",
+      "year": "2026",
+      "first_release_date": "2026-09-12",
+      "overview": "Featuring new interviews with key cast and crew, and drawing on a wealth of unseen archive materials, this comprehensive retrospective explores the genesis, production and legacy of the series like never before.",
+      "original_language": "en",
+      "poster_path": "/eNi5xEFxuli9JdhAHXBwTJYlbdO.jpg",
+      "backdrop_path": "/nuDQIylIF1UZJ2ZpRZh9vSP9HEA.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.81,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-09-12"
+      },
+      "trailer_key": null
+    },
+    {
+      "id": 1721401,
+      "title": "The Legend of Captain Scarlet",
+      "year": "2026",
+      "first_release_date": "2026-09-12",
+      "overview": "Inspired by the Super Space Theatre compilations of the 1980s. An exclusive new feature-length New Captain Scarlet movie experience.",
+      "original_language": "en",
+      "poster_path": "/zxSSByg09wNZX2qnpPZ5axirjcG.jpg",
+      "backdrop_path": "/clSqGzDvJXvvRKXCd940ewgfIhH.jpg",
+      "genre_names": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "popularity": 1.6,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-09-12"
+      },
+      "trailer_key": "Hch50AEfbeU"
+    },
+    {
       "id": 1315772,
       "title": "Minions & Monsters",
       "year": "2026",
+      "first_release_date": "2026-06-21",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "original_language": "en",
       "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
@@ -592,6 +555,7 @@
       "id": 1081003,
       "title": "Supergirl",
       "year": "2026",
+      "first_release_date": "2026-06-22",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "original_language": "en",
       "poster_path": "/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
@@ -613,6 +577,7 @@
       "id": 1560520,
       "title": "Batman: Knightfall Part 1: Knightfall",
       "year": "2026",
+      "first_release_date": "2026-06-23",
       "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
       "original_language": "en",
       "poster_path": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
@@ -634,7 +599,8 @@
     {
       "id": 1339713,
       "title": "Obsession",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-06",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "original_language": "en",
       "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
@@ -656,6 +622,7 @@
       "id": 1232569,
       "title": "Pinocchio: Unstrung",
       "year": "2026",
+      "first_release_date": "2026-04-11",
       "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
       "original_language": "en",
       "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
@@ -677,6 +644,7 @@
       "id": 1482547,
       "title": "Zip Wire",
       "year": "2026",
+      "first_release_date": "2026-08-31",
       "overview": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
       "original_language": "en",
       "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
@@ -694,31 +662,10 @@
       "trailer_key": "M9tHmu0wNHM"
     },
     {
-      "id": 913290,
-      "title": "Barbarian",
-      "year": "2022",
-      "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
-      "original_language": "en",
-      "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
-      "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
-      "genre_names": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "popularity": 21.18,
-      "vote_average": 6.9,
-      "vote_count": 3622,
-      "physical_dates": {
-        "GB": "2026-09-07",
-        "US": "2026-08-11"
-      },
-      "trailer_key": "Dr89pmKrqkI"
-    },
-    {
       "id": 1308972,
       "title": "Big Baby",
       "year": "2025",
+      "first_release_date": "2025-10-09",
       "overview": "A nightmare involving a maniac killer in a baby mask serves as inspiration for horror screenwriter Adam Lewis's new script. As more nightmares, visions, and real life terror being to challenge Adam's sanity, he finds himself in a desperate struggle to control his writing, his reality, and who will be Big Baby's next victim.",
       "original_language": "en",
       "poster_path": "/7psYxnfWGwNCJvGLFOYQ197lXW5.jpg",
@@ -735,48 +682,30 @@
       "trailer_key": "1K4Ggvz08pQ"
     },
     {
-      "id": 104931,
-      "title": "JLG/JLG: Self-Portrait in December",
-      "year": "1995",
-      "overview": "Director Jean-Luc Godard reflects in this movie about his place in film history, the interaction of film industry and film as art, as well as the act of creating art.",
+      "id": 1220338,
+      "title": "Scénarios",
+      "year": "2024",
+      "first_release_date": "2024-05-17",
+      "overview": "In French, \"scénario\" is cinema's name for how it tells stories. This is the title Jean-Luc Godard chose for his final film, which was literally completed the day before his self-death. The two segments of this film open with a series of identical sequences. The second segment then diverges and ends on a self-portrait of Jean-Luc Godard -his last images- sitting on his bed, bare-chested, he hides none of the wear on his body in the manner of Pigalle's sculpted portrait of Voltaire. \"Scénarios\" ends as it began, with a repetition, the figure of eternal return, the moment where time, which has been the great -if not unique- question of cinema, will have ceased to flow.",
       "original_language": "fr",
       "poster_path": "/7rOJA7MGKdL5ckSS4g6tb8i6H5s.jpg",
-      "backdrop_path": "/8fqKiVnv74TtWvDkjLpRDN45c0d.jpg",
+      "backdrop_path": "/akOY23z3MxB6Gd974hsxkGWu2XJ.jpg",
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.55,
-      "vote_average": 6.4,
-      "vote_count": 43,
+      "popularity": 2.67,
+      "vote_average": 9.0,
+      "vote_count": 1,
       "physical_dates": {
         "GB": "2026-09-07"
       },
-      "trailer_key": null
-    },
-    {
-      "id": 1764970,
-      "title": "Betrayal and Retribution - The Spawn of the Last House on the Left",
-      "year": "2026",
-      "overview": "A rape-and-revenge-themed supplementary feature to Wes Craven's \"The Last House on the Left\" with more than eleven interviews that map out the genre's connective tissue between the US and Italy.",
-      "original_language": "en",
-      "poster_path": "/6DFxedtRvPfCwcbU8T7i3nBvD8K.jpg",
-      "backdrop_path": "/1FRkX3yPyw19rzXwwZOLbITpOiL.jpg",
-      "genre_names": [
-        "Documentary",
-        "Horror"
-      ],
-      "popularity": 2.24,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "GB": "2026-09-07"
-      },
-      "trailer_key": null
+      "trailer_key": "FDNxDvNOxzo"
     },
     {
       "id": 1526519,
       "title": "Reversion",
       "year": "2025",
+      "first_release_date": "2025-11-07",
       "overview": "Mario sees his brother David's kidnapping. When David returns 19 days later with no memory, Mario suspects the returnee isn't really his brother. His investigation challenges his grip on reality.",
       "original_language": "es",
       "poster_path": "/ebjesXVbxvqWzYw9PqOXsTsgNfx.jpg",
@@ -794,30 +723,51 @@
       "trailer_key": "opwPUoi1YDw"
     },
     {
-      "id": 170,
-      "title": "28 Days Later",
-      "year": "2002",
-      "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+      "id": 1764956,
+      "title": "Remembering Wes Craven: His Life, Legacy and Nightmares",
+      "year": "2026",
+      "first_release_date": "2026-09-07",
+      "overview": "Feature-length portrait piece on the career of Wes Craven, including contributions from his closest collaborators.",
       "original_language": "en",
-      "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
-      "backdrop_path": "/rJP8rrfbWPYgpNqwHSHQ5wlBpIm.jpg",
+      "poster_path": "/nUEj9ElS8wUQjiO1wCYwmugcIvQ.jpg",
+      "backdrop_path": "/AsDi2oHlnP7cI3leZe4zi47FSSk.jpg",
       "genre_names": [
-        "Horror",
-        "Thriller",
-        "Science Fiction"
+        "Documentary",
+        "Horror"
       ],
-      "popularity": 24.77,
-      "vote_average": 7.2,
-      "vote_count": 8974,
+      "popularity": 2.03,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
-        "US": "2026-09-01"
+        "GB": "2026-09-07"
       },
-      "trailer_key": "mWEhfF27O0c"
+      "trailer_key": null
+    },
+    {
+      "id": 1287695,
+      "title": "Exposé du film annonce du film \"Scénario\"",
+      "year": "2024",
+      "first_release_date": "2024-05-17",
+      "overview": "In October 2021, Jean-Luc Godard presented his idea for Scénario, a 6 chapter feature film combining still and moving images, halfway between reading and seeing.",
+      "original_language": "fr",
+      "poster_path": "/wql3MxdlXlQFmpbo0Hp17olAwFy.jpg",
+      "backdrop_path": "/bfG1TUZQdB3wQhsZaOSLi9IirKb.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.68,
+      "vote_average": 6.5,
+      "vote_count": 2,
+      "physical_dates": {
+        "GB": "2026-09-07"
+      },
+      "trailer_key": null
     },
     {
       "id": 1275779,
       "title": "Disclosure Day",
       "year": "2026",
+      "first_release_date": "2026-06-02",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "original_language": "en",
       "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
@@ -838,6 +788,7 @@
       "id": 1228710,
       "title": "The Mandalorian and Grogu",
       "year": "2026",
+      "first_release_date": "2026-05-14",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "original_language": "en",
       "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
@@ -859,6 +810,7 @@
       "id": 1301421,
       "title": "The Sheep Detectives",
       "year": "2026",
+      "first_release_date": "2026-04-19",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "original_language": "en",
       "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
@@ -880,6 +832,7 @@
       "id": 1196573,
       "title": "She Rides Shotgun",
       "year": "2025",
+      "first_release_date": "2025-07-31",
       "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
       "original_language": "en",
       "poster_path": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
@@ -898,68 +851,10 @@
       "trailer_key": "U9OkHjOnQPg"
     },
     {
-      "id": 1079485,
-      "title": "Winnie-the-Pooh: Blood and Honey 2",
-      "year": "2024",
-      "overview": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
-      "original_language": "en",
-      "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
-      "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
-      "genre_names": [
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 18.98,
-      "vote_average": 5.8,
-      "vote_count": 507,
-      "physical_dates": {
-        "US": "2026-08-25"
-      },
-      "trailer_key": "dgIlZOv4M-c"
-    },
-    {
-      "id": 397243,
-      "title": "The Autopsy of Jane Doe",
-      "year": "2016",
-      "overview": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
-      "original_language": "en",
-      "poster_path": "/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
-      "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
-      "genre_names": [
-        "Horror",
-        "Mystery"
-      ],
-      "popularity": 14.32,
-      "vote_average": 6.8,
-      "vote_count": 4936,
-      "physical_dates": {
-        "US": "2026-08-25"
-      },
-      "trailer_key": "BNxsaFCzqxc"
-    },
-    {
-      "id": 980078,
-      "title": "Winnie the Pooh: Blood and Honey",
-      "year": "2023",
-      "overview": "After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food.",
-      "original_language": "en",
-      "poster_path": "/y3iPrVHicDBcx2N6eamv0jbHH6H.jpg",
-      "backdrop_path": "/jEybIB7yl3zgEdTHukaiR8b9yJp.jpg",
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 9.9,
-      "vote_average": 4.9,
-      "vote_count": 1621,
-      "physical_dates": {
-        "US": "2026-08-25"
-      },
-      "trailer_key": "dcpcwARBMJ4"
-    },
-    {
       "id": 1020414,
       "title": "Peter Pan's Neverland Nightmare",
       "year": "2025",
+      "first_release_date": "2025-01-13",
       "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
       "original_language": "en",
       "poster_path": "/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg",
@@ -980,7 +875,8 @@
     {
       "id": 1329471,
       "title": "Carolina Caroline",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-05",
       "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
       "original_language": "en",
       "poster_path": "/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
@@ -1000,9 +896,31 @@
       "trailer_key": "fNdC6SJ-TxY"
     },
     {
+      "id": 1178602,
+      "title": "Miroirs No. 3",
+      "year": "2025",
+      "first_release_date": "2025-05-17",
+      "overview": "After a car crash kills her boyfriend, piano student Laura is taken in by Betty, who witnessed the accident. Living with Betty's family brings comfort, but Laura starts questioning their intentions as time passes.",
+      "original_language": "de",
+      "poster_path": "/fcy6ZmdrwzW8TtiDY4ZxDEDk6yl.jpg",
+      "backdrop_path": "/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
+      "genre_names": [
+        "Drama",
+        "Mystery"
+      ],
+      "popularity": 4.66,
+      "vote_average": 6.6,
+      "vote_count": 57,
+      "physical_dates": {
+        "US": "2026-08-25"
+      },
+      "trailer_key": "PqNG8EWydW0"
+    },
+    {
       "id": 1399525,
       "title": "Rose of Nevada",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-08-29",
       "overview": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
       "original_language": "en",
       "poster_path": "/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
@@ -1025,6 +943,7 @@
       "id": 1124566,
       "title": "Sentimental Value",
       "year": "2025",
+      "first_release_date": "2025-05-21",
       "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "original_language": "no",
       "poster_path": "/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg",
@@ -1046,6 +965,7 @@
       "id": 1551003,
       "title": "R.L. Stine's Pumpkinhead",
       "year": "2025",
+      "first_release_date": "2025-10-17",
       "overview": "When his brother disappears and everyone forgets he existed, Sam must unravel the mystery before Finn is gone forever.",
       "original_language": "en",
       "poster_path": "/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg",
@@ -1066,6 +986,7 @@
       "id": 687163,
       "title": "Project Hail Mary",
       "year": "2026",
+      "first_release_date": "2026-03-09",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "original_language": "en",
       "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
@@ -1086,6 +1007,7 @@
       "id": 1430077,
       "title": "Hokum",
       "year": "2026",
+      "first_release_date": "2026-03-14",
       "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
       "original_language": "en",
       "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
@@ -1103,30 +1025,10 @@
       "trailer_key": "qU_i5e48KzQ"
     },
     {
-      "id": 75,
-      "title": "Mars Attacks!",
-      "year": "1996",
-      "overview": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
-      "original_language": "en",
-      "poster_path": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
-      "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
-      "genre_names": [
-        "Comedy",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "popularity": 9.79,
-      "vote_average": 6.4,
-      "vote_count": 6096,
-      "physical_dates": {
-        "US": "2026-08-11"
-      },
-      "trailer_key": "kTxmxlxg90E"
-    },
-    {
       "id": 936075,
       "title": "Michael",
       "year": "2026",
+      "first_release_date": "2026-04-10",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "original_language": "en",
       "poster_path": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
@@ -1148,6 +1050,7 @@
       "id": 1564494,
       "title": "Harbinger",
       "year": "2026",
+      "first_release_date": "2026-08-07",
       "overview": "Julia, sole survivor of late serial killer Decker, is lured back to the house she shared with him for a ghost hunting TV show. The crew discover the 'Harbinger' - a fairground fortune telling machine that reveals their fates one by one.",
       "original_language": "en",
       "poster_path": "/m448hhPUvLOX80m6Hqiwt2dHU3q.jpg",
@@ -1167,6 +1070,7 @@
       "id": 1314481,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
+      "first_release_date": "2026-04-20",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "original_language": "en",
       "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
@@ -1185,9 +1089,51 @@
       "trailer_key": "PMd1at7OwiE"
     },
     {
+      "id": 1752670,
+      "title": "Almost Missing",
+      "year": "2026",
+      "first_release_date": "2026-08-01",
+      "overview": "Rohan Sorensen and family go on a trip to Willow Creek California in search of Bigfoot. While exploring in the woods, things take an unexpected turn.",
+      "original_language": "en",
+      "poster_path": null,
+      "backdrop_path": null,
+      "genre_names": [
+        "Thriller"
+      ],
+      "popularity": 2.29,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2026-08-01"
+      },
+      "trailer_key": null
+    },
+    {
+      "id": 958752,
+      "title": "To the Journey: Looking Back at Star Trek: Voyager",
+      "year": "2024",
+      "first_release_date": "2024-11-07",
+      "overview": "The documentary explores the legacy of Star Trek: Voyager (1995).",
+      "original_language": "en",
+      "poster_path": "/6GcVaU0eJf2M5teSrQrACG8gYjq.jpg",
+      "backdrop_path": "/85flYKNsrA4Gfa0Dd10WAD7K9Q0.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.53,
+      "vote_average": 10.0,
+      "vote_count": 1,
+      "physical_dates": {
+        "GB": "2026-07-31",
+        "US": "2026-07-31"
+      },
+      "trailer_key": "jCeqPGDp6D4"
+    },
+    {
       "id": 1325734,
       "title": "The Drama",
       "year": "2026",
+      "first_release_date": "2026-03-17",
       "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
       "original_language": "en",
       "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
@@ -1207,92 +1153,51 @@
       "trailer_key": "0ZDzsH3XGFA"
     },
     {
-      "id": 345,
-      "title": "Eyes Wide Shut",
-      "year": "1999",
-      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "id": 1686144,
+      "title": "Survivors: The Spectre of Threads",
+      "year": "2025",
+      "first_release_date": "2025-08-30",
+      "overview": "The untold story of the film that traumatised a generation.",
       "original_language": "en",
-      "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-      "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "poster_path": "/e25hN9wIU1bhFam88kcPXB0wIsq.jpg",
+      "backdrop_path": "/iaH84USS3YsB7IAzo0HRO1UO64q.jpg",
       "genre_names": [
-        "Drama",
-        "Thriller",
-        "Mystery"
+        "Documentary"
       ],
-      "popularity": 38.95,
-      "vote_average": 7.5,
-      "vote_count": 7388,
+      "popularity": 1.86,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
-        "GB": "2026-07-27",
-        "US": "2025-11-25"
+        "GB": "2026-07-28"
       },
-      "trailer_key": "qku0sbMkFZo"
+      "trailer_key": "4U5Zb0fqimA"
     },
     {
-      "id": 4513,
-      "title": "30 Days of Night",
-      "year": "2007",
-      "overview": "This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town's husband-and-wife Sheriff team stand between the survivors and certain destruction.",
+      "id": 1525909,
+      "title": "Keeping Company",
+      "year": "2025",
+      "first_release_date": "2025-10-01",
+      "overview": "A diary.exe of her pixelf- isolation echoes through Robbie's webcam.",
       "original_language": "en",
-      "poster_path": "/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",
-      "backdrop_path": "/w8VDpCcKezdBbXJEWMHwttI35mU.jpg",
+      "poster_path": "/l1yxG7See9ENzPSFABzdFI1gh4t.jpg",
+      "backdrop_path": "/9dd5akfX4CpKAKyOiq7kC2eyNTY.jpg",
       "genre_names": [
         "Horror",
         "Thriller"
       ],
-      "popularity": 14.54,
-      "vote_average": 6.4,
-      "vote_count": 3201,
+      "popularity": 2.54,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
-        "GB": "2026-07-27"
+        "US": "2026-07-15"
       },
-      "trailer_key": "sNEsmw56cv0"
-    },
-    {
-      "id": 10409,
-      "title": "Strictly Ballroom",
-      "year": "1992",
-      "overview": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
-      "original_language": "en",
-      "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
-      "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
-      "genre_names": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "popularity": 5.85,
-      "vote_average": 6.6,
-      "vote_count": 398,
-      "physical_dates": {
-        "GB": "2026-07-27"
-      },
-      "trailer_key": "PLwfNOrIqSs"
-    },
-    {
-      "id": 1643,
-      "title": "Last Tango in Paris",
-      "year": "1972",
-      "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
-      "original_language": "it",
-      "poster_path": "/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
-      "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
-      "genre_names": [
-        "Drama",
-        "Romance"
-      ],
-      "popularity": 7.37,
-      "vote_average": 6.9,
-      "vote_count": 1388,
-      "physical_dates": {
-        "GB": "2026-07-17"
-      },
-      "trailer_key": "_0Vj-B6JVmQ"
+      "trailer_key": null
     },
     {
       "id": 1304313,
       "title": "Lee Cronin's The Mummy",
       "year": "2026",
+      "first_release_date": "2026-04-09",
       "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
       "original_language": "en",
       "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
@@ -1312,7 +1217,8 @@
     {
       "id": 1242332,
       "title": "Normal",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-08",
       "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
       "original_language": "en",
       "poster_path": "/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
@@ -1334,6 +1240,7 @@
       "id": 1331349,
       "title": "Two Pianos",
       "year": "2025",
+      "first_release_date": "2025-09-10",
       "overview": "Returning to France after a long exile, pianist Mathias Vogler reunites with his mentor, Elena, to prepare a concert. In a park, an encounter with a child who looks just like him will lead him to Claude, the woman he once loved.",
       "original_language": "fr",
       "poster_path": "/vdmbyk5iic557hCKs0F7gV6DMNh.jpg",
@@ -1352,9 +1259,28 @@
       "trailer_key": "wPsl4ObXXb8"
     },
     {
+      "id": 1745544,
+      "title": "Obsession Unleashed",
+      "year": "2026",
+      "first_release_date": "2026-07-14",
+      "overview": "Go behind the scenes with in-depth interviews featuring Curry Barker and the cast",
+      "original_language": "en",
+      "poster_path": "/nuPRxCnBgvGtsOY46BNdv5L5RET.jpg",
+      "backdrop_path": "/6vy8xE1HIILOdJew3S9PXZ0VDBB.jpg",
+      "genre_names": [],
+      "popularity": 3.15,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2026-07-14"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1287141,
       "title": "Pillion",
       "year": "2025",
+      "first_release_date": "2025-05-18",
       "overview": "Colin, a timid man, meets Ray, a confident biker gang leader, who initiates him into a submissive relationship, challenging Colin’s mundane existence and prompting personal growth through their unconventional dynamic.",
       "original_language": "en",
       "poster_path": "/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
@@ -1373,29 +1299,10 @@
       "trailer_key": "Gl8n5I-IIHU"
     },
     {
-      "id": 376570,
-      "title": "Hush",
-      "year": "2016",
-      "overview": "A deaf woman is stalked by a psychotic killer in her secluded home.",
-      "original_language": "en",
-      "poster_path": "/tyqD4C2vVKrvP3FkFK0GS9IWbTo.jpg",
-      "backdrop_path": "/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg",
-      "genre_names": [
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 11.2,
-      "vote_average": 6.7,
-      "vote_count": 4982,
-      "physical_dates": {
-        "GB": "2026-07-13"
-      },
-      "trailer_key": "asCMNUPggf4"
-    },
-    {
       "id": 1292695,
       "title": "They Will Kill You",
       "year": "2026",
+      "first_release_date": "2026-03-17",
       "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
       "original_language": "en",
       "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
@@ -1419,6 +1326,7 @@
       "id": 1110034,
       "title": "Kraken",
       "year": "2026",
+      "first_release_date": "2026-01-23",
       "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
       "original_language": "no",
       "poster_path": "/u8x0jvVCEpRyN8q5ORyJZzBZ2Ho.jpg",
@@ -1437,9 +1345,31 @@
       "trailer_key": "EUTatY1-oBI"
     },
     {
+      "id": 1716056,
+      "title": "The Odyssey: The Real Story",
+      "year": "2026",
+      "first_release_date": "2026-06-29",
+      "overview": "After the fall of Troy, warrior-king Odysseus begins a perilous voyage home, only to be thrown into a decade of wandering across a world ruled by gods and monsters. He outwits cyclopes, resists enchantresses, and descends into the realm of the dead, while his family fights to survive in his absence.",
+      "original_language": "en",
+      "poster_path": "/pncYfQjN9HjbXhFtwbCjgII1APj.jpg",
+      "backdrop_path": "/ilyYc1rLvk8BX8PmgKZ4zoL2KAi.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.14,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-07-06",
+        "US": "2026-06-29"
+      },
+      "trailer_key": "LM3Af64ytBc"
+    },
+    {
       "id": 1171145,
       "title": "Crime 101",
       "year": "2026",
+      "first_release_date": "2026-01-28",
       "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
       "original_language": "en",
       "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
@@ -1460,6 +1390,7 @@
       "id": 1456349,
       "title": "It Was Just an Accident",
       "year": "2025",
+      "first_release_date": "2025-05-20",
       "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
       "original_language": "fr",
       "poster_path": "/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
@@ -1479,51 +1410,30 @@
       "trailer_key": "9oHw2ubyWE4"
     },
     {
-      "id": 9268,
-      "title": "Eraser",
-      "year": "1996",
-      "overview": "Eraser, an elite federal marshal who \"erases\" the pasts of jeopardized informers and relocates them into safe anonymity, must protect a moving target who stands to uncover a conspiracy that could shift the balance of power in the world forever.",
+      "id": 1757198,
+      "title": "The Rashomon Effect",
+      "year": "2026",
+      "first_release_date": "2026-06-29",
+      "overview": "A video essay by critic Rachael Nisbet on the unorthodox narrative structure of Mario Bava's 'Four Times That Night'.",
       "original_language": "en",
-      "poster_path": "/1FUV5ZmEkbxvqwQW0az4tFFOSmo.jpg",
-      "backdrop_path": "/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+      "poster_path": null,
+      "backdrop_path": null,
       "genre_names": [
-        "Action",
-        "Mystery",
-        "Thriller"
+        "Documentary"
       ],
-      "popularity": 12.37,
-      "vote_average": 6.1,
-      "vote_count": 2133,
+      "popularity": 1.51,
+      "vote_average": 6.0,
+      "vote_count": 1,
       "physical_dates": {
         "GB": "2026-06-29"
       },
-      "trailer_key": "P3nrgwO3R-w"
-    },
-    {
-      "id": 9392,
-      "title": "The Descent",
-      "year": "2005",
-      "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
-      "original_language": "en",
-      "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
-      "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
-      "genre_names": [
-        "Adventure",
-        "Horror"
-      ],
-      "popularity": 11.18,
-      "vote_average": 7.0,
-      "vote_count": 4630,
-      "physical_dates": {
-        "GB": "2026-06-29",
-        "US": "2025-11-11"
-      },
-      "trailer_key": "_onLUDusszw"
+      "trailer_key": null
     },
     {
       "id": 975335,
       "title": "Magellan",
       "year": "2025",
+      "first_release_date": "2025-05-18",
       "overview": "At the dawn of the modern era, Portuguese explorer Ferdinand Magellan leads an expedition under the Spanish crown in search of the first westward route to the Spice Islands. He embarks on a perilous journey across the uncharted Pacific, where his fleet faces starvation, mutiny, and the psychological toll of endless seas. Upon reaching the shores of Cebu, Magellan is pulled into a fatal conflict with the natives by his drive to spread Catholicism, culminating in his tragic doom.",
       "original_language": "pt",
       "poster_path": "/pmFeUueU7BWLVnHrYI1FD7VnxtH.jpg",
@@ -1542,9 +1452,32 @@
       "trailer_key": "8h7rriQD1qc"
     },
     {
+      "id": 842859,
+      "title": "The Most Precious of Cargoes",
+      "year": "2024",
+      "first_release_date": "2024-05-24",
+      "overview": "Once upon a time, a poor woodcutter and his wife lived in a great forest. Cold, hunger, poverty, and a war raging all around them meant their lives were very hard.  One day, the woodcutter's wife rescues a baby. A baby girl thrown from one of the many trains that constantly pass through the forest. This baby, this \"most precious of cargoes\", will transform the lives of the poor woodcutter's wife and her husband, as well as those whose paths the child will cross—including the man who threw her from the train. And some will try to protect her, whatever the cost. Their story will reveal the worst and the best in the hearts of men.",
+      "original_language": "fr",
+      "poster_path": "/9bcxbzKTE0bPQCHw5AvXo3in57m.jpg",
+      "backdrop_path": "/oaYeZs1DMdyJC1Q2WJNBZ6uT6no.jpg",
+      "genre_names": [
+        "Animation",
+        "Drama",
+        "History"
+      ],
+      "popularity": 2.75,
+      "vote_average": 7.7,
+      "vote_count": 206,
+      "physical_dates": {
+        "US": "2026-06-23"
+      },
+      "trailer_key": "6gW-rrODeLs"
+    },
+    {
       "id": 1266127,
       "title": "Ready or Not: Here I Come",
       "year": "2026",
+      "first_release_date": "2026-03-13",
       "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
       "original_language": "en",
       "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
@@ -1566,6 +1499,7 @@
       "id": 1352624,
       "title": "The Mastermind",
       "year": "2025",
+      "first_release_date": "2025-05-23",
       "overview": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
       "original_language": "en",
       "poster_path": "/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
@@ -1586,6 +1520,7 @@
       "id": 1226863,
       "title": "The Super Mario Galaxy Movie",
       "year": "2026",
+      "first_release_date": "2026-03-28",
       "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "original_language": "en",
       "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
@@ -1609,6 +1544,7 @@
       "id": 1159559,
       "title": "Scream 7",
       "year": "2026",
+      "first_release_date": "2026-02-25",
       "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
       "original_language": "en",
       "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
@@ -1630,6 +1566,7 @@
       "id": 1455079,
       "title": "You, Me & Tuscany",
       "year": "2026",
+      "first_release_date": "2026-04-07",
       "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
       "original_language": "en",
       "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
@@ -1647,29 +1584,10 @@
       "trailer_key": "uYTMroh8pjI"
     },
     {
-      "id": 556574,
-      "title": "Hamilton",
-      "year": "2025",
-      "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
-      "original_language": "en",
-      "poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
-      "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
-      "genre_names": [
-        "History",
-        "Drama"
-      ],
-      "popularity": 9.77,
-      "vote_average": 7.8,
-      "vote_count": 167,
-      "physical_dates": {
-        "US": "2026-06-16"
-      },
-      "trailer_key": "0pvj1p1aaH8"
-    },
-    {
       "id": 1083884,
       "title": "Signal One",
       "year": "2026",
+      "first_release_date": "2026-05-13",
       "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
       "original_language": "en",
       "poster_path": "/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
@@ -1690,6 +1608,7 @@
       "id": 1639960,
       "title": "Frankenstein's Bride",
       "year": "2026",
+      "first_release_date": "2026-02-20",
       "overview": "On the day of Frankenstein’s Monster’s wedding, villagers riot and kill him. His bride escapes, vows revenge on the townsfolk responsible, and eventually resurrects the Monster – leading a trail of blood in her wake.",
       "original_language": "en",
       "poster_path": "/zmeOomyxOSs8w04Nv5OE4V7bv15.jpg",
@@ -1709,6 +1628,7 @@
       "id": 1418901,
       "title": "Mother's Pride",
       "year": "2026",
+      "first_release_date": "2026-03-06",
       "overview": "A comedy about a failing pub, a divided community and a grieving family whose lives are changed by brewing real ale and entering the Great British Beer Awards.",
       "original_language": "en",
       "poster_path": "/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
@@ -1729,6 +1649,7 @@
       "id": 1766958,
       "title": "Making Monsters",
       "year": "2026",
+      "first_release_date": "2026-06-15",
       "overview": "SFX and make-up designers Dave and Lou Elsey talk candidly about their inspirations, the joy of their work and their hopes for the future",
       "original_language": "en",
       "poster_path": "/sHDwOIgbkJihArJdtPIQOsswuKQ.jpg",
@@ -1745,9 +1666,31 @@
       "trailer_key": "rYcePVTiy9E"
     },
     {
+      "id": 1766942,
+      "title": "Off the Leash",
+      "year": "2026",
+      "first_release_date": "2026-06-15",
+      "overview": "A documentary film diving into Michael Gough’s unforgettable work in British horror, with film historian Jonathan Rigby.",
+      "original_language": "en",
+      "poster_path": "/sHDwOIgbkJihArJdtPIQOsswuKQ.jpg",
+      "backdrop_path": "/5XrQOtYnFquUafuFibuPLlJcdcq.jpg",
+      "genre_names": [
+        "Horror",
+        "Documentary"
+      ],
+      "popularity": 1.84,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-06-15"
+      },
+      "trailer_key": "rYcePVTiy9E"
+    },
+    {
       "id": 467905,
       "title": "How to Make a Killing",
       "year": "2026",
+      "first_release_date": "2026-02-14",
       "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
       "original_language": "en",
       "poster_path": "/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
@@ -1768,6 +1711,7 @@
       "id": 1287809,
       "title": "The Sheriff",
       "year": "2026",
+      "first_release_date": "2026-04-02",
       "overview": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
       "original_language": "en",
       "poster_path": "/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
@@ -1788,6 +1732,7 @@
       "id": 1327819,
       "title": "Hoppers",
       "year": "2026",
+      "first_release_date": "2026-02-24",
       "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
       "original_language": "en",
       "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
@@ -1808,9 +1753,30 @@
       "trailer_key": "PypDSyIRRSs"
     },
     {
+      "id": 1705276,
+      "title": "Learning, Studying… Always Perfecting: The Making of One Battle After Another",
+      "year": "2026",
+      "first_release_date": "2026-06-02",
+      "overview": "A behind-the-scenes documentary filmed during the production of Paul Thomas Anderson’s One Battle After Another, featuring candid moments from the cast and crew.",
+      "original_language": "en",
+      "poster_path": "/b1y72qIIUIpkprJijwVFV0n4Ik2.jpg",
+      "backdrop_path": "/i1IfBqShclryF7O0o8qOm90ERA4.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.02,
+      "vote_average": 8.0,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-06-02"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 83533,
       "title": "Avatar: Fire and Ash",
       "year": "2025",
+      "first_release_date": "2025-12-01",
       "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
       "original_language": "en",
       "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
@@ -1833,6 +1799,7 @@
       "id": 1299655,
       "title": "Blue Moon",
       "year": "2025",
+      "first_release_date": "2025-02-18",
       "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
       "original_language": "en",
       "poster_path": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
@@ -1850,30 +1817,10 @@
       "trailer_key": "qo7gRHip0lI"
     },
     {
-      "id": 9035,
-      "title": "Slither",
-      "year": "2006",
-      "overview": "A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.",
-      "original_language": "en",
-      "poster_path": "/zNlJvCY3Pz7SE09Lf4G7uPs5XFZ.jpg",
-      "backdrop_path": "/kUpD6EnpnQBi3mjYxmiM4xvuh8g.jpg",
-      "genre_names": [
-        "Horror",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "popularity": 6.66,
-      "vote_average": 6.5,
-      "vote_count": 1816,
-      "physical_dates": {
-        "GB": "2026-06-01"
-      },
-      "trailer_key": "2IBFP82BJ3I"
-    },
-    {
       "id": 1338972,
       "title": "Pitfall",
       "year": "2025",
+      "first_release_date": "2025-05-29",
       "overview": "After a young man is separated from his friends in the woods, he falls into a ten-foot deep pit of spikes, impaling him through his leg and leaving him trapped. He quickly learns that his fall was not an accident.",
       "original_language": "en",
       "poster_path": "/kIwc4DgHpAQwEKBB6bPEsCRHnNB.jpg",
@@ -1892,9 +1839,74 @@
       "trailer_key": "eIQzUWhsX4U"
     },
     {
+      "id": 1784313,
+      "title": "Killeidoscope",
+      "year": "2026",
+      "first_release_date": "2026-02-12",
+      "overview": "A tale of vengeance with twins Lenny and Lizzie, their abusive mother, the mysterious bird man, a doll named Gino and a serial murderer known as \"The Killeidoscope Killer\".",
+      "original_language": "en",
+      "poster_path": "/e6QkF8JZ1CZkPY6GwhXhFwiTqmi.jpg",
+      "backdrop_path": "/8iW89KuLLxfPSnmGhmEbYUCcqC8.jpg",
+      "genre_names": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "popularity": 3.44,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2026-06-01"
+      },
+      "trailer_key": "jmujs1k3EYw"
+    },
+    {
+      "id": 1641998,
+      "title": "The Land Demands Blood",
+      "year": "2026",
+      "first_release_date": "2026-06-01",
+      "overview": "Water, woods, rock, and drifted stream. Storms overhead, fields of salt water, wicked moor. Lightning strokes and standing stones, ground hard as iron and oak, granite swallowing tin and slate. This documentary special feature examines Hammer Films use of Cornwall as a setting and location for its films, exploring the \"new weird Britain\" of contemporary Cornish folk horror with filmmakers, playwrights, and historians, and drawing on creative work from the region.",
+      "original_language": "en",
+      "poster_path": "/vWRQPe6psxOz85ZGgfSLbi6QdIJ.jpg",
+      "backdrop_path": "/5XrQOtYnFquUafuFibuPLlJcdcq.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.03,
+      "vote_average": 9.0,
+      "vote_count": 1,
+      "physical_dates": {
+        "GB": "2026-06-01"
+      },
+      "trailer_key": "rYcePVTiy9E"
+    },
+    {
+      "id": 1431247,
+      "title": "Crybaby Bridge",
+      "year": "2026",
+      "first_release_date": "2026-03-24",
+      "overview": "After being bullied at school, a pregnant teen's family sets out to move from the city to the countryside, unexpectedly revealing a coveted secret of her past that threatens the fresh start they seek.",
+      "original_language": "en",
+      "poster_path": "/6b8V7tLg6l8tvh0LRCorIMSyvhd.jpg",
+      "backdrop_path": "/s5cM9XQ0WdOJJzKCmgNSJGtBHEZ.jpg",
+      "genre_names": [
+        "Thriller",
+        "Horror"
+      ],
+      "popularity": 1.63,
+      "vote_average": 4.8,
+      "vote_count": 4,
+      "physical_dates": {
+        "GB": "2026-06-01"
+      },
+      "trailer_key": "671uY7UWj4o"
+    },
+    {
       "id": 1160360,
       "title": "If I Had Legs I'd Kick You",
       "year": "2025",
+      "first_release_date": "2025-01-24",
       "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
       "original_language": "en",
       "poster_path": "/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
@@ -1913,7 +1925,8 @@
     {
       "id": 1307373,
       "title": "Wasteman",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-05",
       "overview": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
       "original_language": "en",
       "poster_path": "/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
@@ -1935,6 +1948,7 @@
       "id": 1375831,
       "title": "Diabolic",
       "year": "2025",
+      "first_release_date": "2025-10-04",
       "overview": "A woman's hope for a miracle cure turns into a nightmare when she confronts the vengeful spirit of a cursed witch, determined to claim her as a vessel for her evil power.",
       "original_language": "en",
       "poster_path": "/3qikoc12LQH6upkLZZlJY8wEZvN.jpg",
@@ -1951,52 +1965,10 @@
       "trailer_key": "Tu1O-w5Oodg"
     },
     {
-      "id": 7459,
-      "title": "Speed Racer",
-      "year": "2008",
-      "overview": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
-      "original_language": "en",
-      "poster_path": "/rVNpkV6ksY1hqjkun1WCTxqyK9v.jpg",
-      "backdrop_path": "/4CLeg52cRU2hBZk2O6bvsAf57sD.jpg",
-      "genre_names": [
-        "Family",
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "popularity": 10.46,
-      "vote_average": 6.4,
-      "vote_count": 1873,
-      "physical_dates": {
-        "US": "2026-05-19"
-      },
-      "trailer_key": "M_RpBi3W1Eo"
-    },
-    {
-      "id": 550,
-      "title": "Fight Club",
-      "year": "1999",
-      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
-      "original_language": "en",
-      "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
-      "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
-      "genre_names": [
-        "Drama",
-        "Thriller"
-      ],
-      "popularity": 40.26,
-      "vote_average": 8.4,
-      "vote_count": 33032,
-      "physical_dates": {
-        "GB": "2026-05-18",
-        "US": "2026-05-12"
-      },
-      "trailer_key": "dfeUzm6KF4g"
-    },
-    {
       "id": 1595325,
       "title": "The Anacondas",
       "year": "2025",
+      "first_release_date": "2025-12-19",
       "overview": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
       "original_language": "en",
       "poster_path": "/yphysF14qWFvrIbFVg3vEnbudwT.jpg",
@@ -2015,9 +1987,30 @@
       "trailer_key": "isictB6aypQ"
     },
     {
+      "id": 1694374,
+      "title": "A Brave Engineer: Buster Keaton's Last Ride",
+      "year": "2026",
+      "first_release_date": "2026-05-18",
+      "overview": "From 1920 to 1965, the great Buster Keaton made spectacular use of locomotives in his films. This video essay charts the course of his iconic cinematic career across the many tracks he rode along on screen: as a young man in the surge of his silent movie ascent in Our Hospitality, while making his masterpiece The General, and traversing the width of Canada on a railway speeder car as an old man in The Railrodder.",
+      "original_language": "en",
+      "poster_path": "/7mHLtysv9m36j108k5Ip0SGCyWY.jpg",
+      "backdrop_path": "/3RSW7YApFy9ajjc6osGBPQQHNkU.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.79,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-05-18"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1134463,
       "title": "Dreams",
       "year": "2025",
+      "first_release_date": "2025-02-15",
       "overview": "A powerful socialite and a promising ballet dancer begin a dangerous affair. When he secretly crosses the US-Mexico border, she takes desperate measures to protect their future together.",
       "original_language": "es",
       "poster_path": "/zJCOHBvy4O6nIslbbxJ8tICn53d.jpg",
@@ -2039,6 +2032,7 @@
       "id": 1297842,
       "title": "GOAT",
       "year": "2026",
+      "first_release_date": "2026-02-06",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "original_language": "en",
       "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
@@ -2057,31 +2051,10 @@
       "trailer_key": "kmY-rYS7yng"
     },
     {
-      "id": 12092,
-      "title": "Alice in Wonderland",
-      "year": "1951",
-      "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
-      "original_language": "en",
-      "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
-      "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
-      "genre_names": [
-        "Animation",
-        "Family",
-        "Fantasy",
-        "Adventure"
-      ],
-      "popularity": 27.41,
-      "vote_average": 7.2,
-      "vote_count": 6426,
-      "physical_dates": {
-        "US": "2026-05-05"
-      },
-      "trailer_key": "JY2rHymtNvc"
-    },
-    {
       "id": 1316092,
       "title": "“Wuthering Heights”",
       "year": "2026",
+      "first_release_date": "2026-01-28",
       "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
       "original_language": "en",
       "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
@@ -2103,6 +2076,7 @@
       "id": 1198994,
       "title": "Send Help",
       "year": "2026",
+      "first_release_date": "2026-01-21",
       "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
       "original_language": "en",
       "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
@@ -2124,7 +2098,8 @@
     {
       "id": 1400763,
       "title": "Touch Me",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-01-28",
       "overview": "Two codependent best friends become addicted to the heroin-like touch of an alien narcissist who may or may not be trying to take over the world.",
       "original_language": "en",
       "poster_path": "/drcloenCH7ZautM7hnd9r9WScNV.jpg",
@@ -2146,6 +2121,7 @@
       "id": 1422562,
       "title": "The Moment",
       "year": "2026",
+      "first_release_date": "2026-01-23",
       "overview": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
       "original_language": "en",
       "poster_path": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
@@ -2167,6 +2143,7 @@
       "id": 1242434,
       "title": "Highest 2 Lowest",
       "year": "2025",
+      "first_release_date": "2025-05-19",
       "overview": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
       "original_language": "en",
       "poster_path": "/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
@@ -2184,28 +2161,32 @@
       "trailer_key": "Sh8yqcozfn8"
     },
     {
-      "id": 821427,
-      "title": "The Novice",
-      "year": "2021",
-      "overview": "A college freshman joins her university's rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.",
+      "id": 1215020,
+      "title": "American Sweatshop",
+      "year": "2025",
+      "first_release_date": "2025-03-08",
+      "overview": "A content moderator is tasked with purging offensive media from the internet. When she witnesses a crime in a video, she is lured away from the safety of her keyboard as she obsessively seeks to hold someone accountable.",
       "original_language": "en",
-      "poster_path": "/dCujw00nVfBrIJc1osoR6HC92SV.jpg",
-      "backdrop_path": "/mZaTIYUrr738VmAJUoH89QkTC4y.jpg",
+      "poster_path": "/38OuhBN7yga2nJSP16VPSOJ2Mwz.jpg",
+      "backdrop_path": "/y8vFE8zsOJkUud6ea0uVaOVPo6y.jpg",
       "genre_names": [
+        "Thriller",
+        "Mystery",
         "Drama"
       ],
-      "popularity": 7.09,
-      "vote_average": 6.4,
-      "vote_count": 224,
+      "popularity": 4.94,
+      "vote_average": 5.6,
+      "vote_count": 99,
       "physical_dates": {
         "US": "2026-04-28"
       },
-      "trailer_key": "Z4zCPgMdbo0"
+      "trailer_key": "rirjAma12hA"
     },
     {
       "id": 1290821,
       "title": "Shelter",
       "year": "2026",
+      "first_release_date": "2026-01-28",
       "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
       "original_language": "en",
       "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
@@ -2226,7 +2207,8 @@
     {
       "id": 1119449,
       "title": "Good Luck, Have Fun, Don't Die",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-24",
       "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
       "original_language": "en",
       "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
@@ -2248,6 +2230,7 @@
       "id": 1272837,
       "title": "28 Years Later: The Bone Temple",
       "year": "2026",
+      "first_release_date": "2026-01-13",
       "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
       "original_language": "en",
       "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
@@ -2269,7 +2252,8 @@
     {
       "id": 1315303,
       "title": "Primate",
-      "year": "2026",
+      "year": "2025",
+      "first_release_date": "2025-09-18",
       "overview": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
       "original_language": "en",
       "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
@@ -2287,9 +2271,54 @@
       "trailer_key": "wo87F-va410"
     },
     {
+      "id": 467914,
+      "title": "The Land of Sometimes",
+      "year": "2026",
+      "first_release_date": "2026-01-18",
+      "overview": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
+      "original_language": "en",
+      "poster_path": "/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
+      "backdrop_path": "/nHP6HaHRZ8GHveLH5VVJSFFQ3S.jpg",
+      "genre_names": [
+        "Animation",
+        "Fantasy",
+        "Family",
+        "Adventure"
+      ],
+      "popularity": 6.09,
+      "vote_average": 6.1,
+      "vote_count": 5,
+      "physical_dates": {
+        "US": "2026-04-21"
+      },
+      "trailer_key": "5N1BzAo0uUs"
+    },
+    {
+      "id": 1477887,
+      "title": "House of Abraham",
+      "year": "2025",
+      "first_release_date": "2025-06-13",
+      "overview": "A woman looking for an end to her suffering, checks in to the House of Abraham, home to a mysterious cult that promises a way out. She soon discovers all is not what it seems and must plan an escape before it's too late.",
+      "original_language": "en",
+      "poster_path": "/jsueWYCf6O3UoZnWgsSny05P9kZ.jpg",
+      "backdrop_path": "/q9AAEccb4N88fRtTSjGsJKOt8sV.jpg",
+      "genre_names": [
+        "Horror",
+        "Thriller"
+      ],
+      "popularity": 2.26,
+      "vote_average": 9.5,
+      "vote_count": 3,
+      "physical_dates": {
+        "US": "2026-04-21"
+      },
+      "trailer_key": "k5Nw4BMAL-I"
+    },
+    {
       "id": 1033148,
       "title": "Die My Love",
       "year": "2025",
+      "first_release_date": "2025-05-17",
       "overview": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
       "original_language": "en",
       "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
@@ -2309,6 +2338,7 @@
       "id": 870360,
       "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
       "year": "2024",
+      "first_release_date": "2024-06-11",
       "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
       "original_language": "en",
       "poster_path": "/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
@@ -2329,29 +2359,52 @@
       "trailer_key": "rfavar8cEPs"
     },
     {
-      "id": 8047,
-      "title": "Matador",
-      "year": "1986",
-      "overview": "A conflicted youth confesses to crimes he didn't commit while a man and woman aroused by death become obsessed with each other.",
-      "original_language": "es",
-      "poster_path": "/gdqyLupS8sQ8qQRuHutiaNAKyz3.jpg",
-      "backdrop_path": "/sZPmrn6XRGoR8mtMCrASfEwn3gA.jpg",
+      "id": 1393143,
+      "title": "Adopted",
+      "year": "2024",
+      "first_release_date": "2024-12-20",
+      "overview": "A couple's hopes of adopting the perfect child unravel as their new son reveals a dark side, bringing terror into their lives.",
+      "original_language": "en",
+      "poster_path": "/1Lcpx4rXxnmc82DpjkUurZTIZ3z.jpg",
+      "backdrop_path": "/3QX5oB89oK5tyuRkKre2EAg2BZa.jpg",
       "genre_names": [
-        "Drama",
-        "Thriller"
+        "Thriller",
+        "TV Movie"
       ],
-      "popularity": 3.3,
-      "vote_average": 6.7,
-      "vote_count": 308,
+      "popularity": 1.62,
+      "vote_average": 6.0,
+      "vote_count": 12,
       "physical_dates": {
         "GB": "2026-04-20"
       },
-      "trailer_key": "K4sMuwHX0CQ"
+      "trailer_key": "CILgaro5s5c"
+    },
+    {
+      "id": 1630401,
+      "title": "Nobody Here: The Story of Vaporwave",
+      "year": "2026",
+      "first_release_date": "2026-04-20",
+      "overview": "‘Nobody Here’ traces the story of Vaporwave and its evolution into the internet’s most aesthetic and celebrated micro-genre — from its origins in obscure online communities to its emergence in the mainstream consciousness.",
+      "original_language": "en",
+      "poster_path": "/pqKABcZzA4oGEi7YidAoRKBVKdb.jpg",
+      "backdrop_path": "/5WH6mNxL0Yb80GZIyXSRhKd6tEB.jpg",
+      "genre_names": [
+        "Music",
+        "Documentary"
+      ],
+      "popularity": 1.52,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-04-20"
+      },
+      "trailer_key": "ggAoXmso0Zc"
     },
     {
       "id": 1677139,
       "title": "¡Toma castaña!",
       "year": "2026",
+      "first_release_date": "2026-04-17",
       "overview": "",
       "original_language": "es",
       "poster_path": "/3272XqwnHqQClOiQNPQG8bvU4uF.jpg",
@@ -2371,6 +2424,7 @@
       "id": 1049942,
       "title": "Bambi: The Reckoning",
       "year": "2025",
+      "first_release_date": "2025-07-04",
       "overview": "After a mother and son get in a car wreck, they soon become hunted by Bambi, a mutated grief-stricken deer on a deadly rampage seeking revenge for the death of his mother and wife.",
       "original_language": "en",
       "poster_path": "/ojtgTXIg32VAVLJhB453BVloxen.jpg",
@@ -2393,6 +2447,7 @@
       "id": 1236153,
       "title": "Mercy",
       "year": "2026",
+      "first_release_date": "2026-01-19",
       "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
       "original_language": "en",
       "poster_path": "/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
@@ -2415,6 +2470,7 @@
       "id": 1641319,
       "title": "Sniper: No Nation",
       "year": "2026",
+      "first_release_date": "2026-03-13",
       "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
       "original_language": "en",
       "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
@@ -2432,30 +2488,10 @@
       "trailer_key": "-smVu1cxPm8"
     },
     {
-      "id": 3767,
-      "title": "Gilda",
-      "year": "1946",
-      "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
-      "original_language": "en",
-      "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
-      "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
-      "genre_names": [
-        "Romance",
-        "Drama",
-        "Thriller"
-      ],
-      "popularity": 7.85,
-      "vote_average": 7.5,
-      "vote_count": 683,
-      "physical_dates": {
-        "US": "2026-04-07"
-      },
-      "trailer_key": "9hTdgygrlOg"
-    },
-    {
       "id": 1317288,
       "title": "Marty Supreme",
       "year": "2025",
+      "first_release_date": "2025-10-06",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
       "original_language": "en",
       "poster_path": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
@@ -2476,6 +2512,7 @@
       "id": 991494,
       "title": "The SpongeBob Movie: Search for SquarePants",
       "year": "2025",
+      "first_release_date": "2025-10-26",
       "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
       "original_language": "en",
       "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
@@ -2499,6 +2536,7 @@
       "id": 1205656,
       "title": "Hallow Road",
       "year": "2025",
+      "first_release_date": "2025-03-07",
       "overview": "Two parents enter a race against time when they receive a distressing late-night phone call from their daughter after she caused a tragic car accident.",
       "original_language": "en",
       "poster_path": "/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
@@ -2520,6 +2558,7 @@
       "id": 1387382,
       "title": "Hunting Season",
       "year": "2025",
+      "first_release_date": "2025-12-03",
       "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
       "original_language": "en",
       "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
@@ -2538,29 +2577,51 @@
       "trailer_key": "O7vKuVadFmo"
     },
     {
-      "id": 11906,
-      "title": "Suspiria",
-      "year": "1977",
-      "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-      "original_language": "it",
-      "poster_path": "/f4EJQrq5bKCqJK6I5moST9kur2p.jpg",
-      "backdrop_path": "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
+      "id": 1243479,
+      "title": "Castration Movie Anthology I. Traps",
+      "year": "2024",
+      "first_release_date": "2024-06-02",
+      "overview": "Michaela 'Traps' Sinclair is a trans sex worker trying to get by in Vancouver while also mentoring her recently-out friend Adeline and making an attempt at pursuing actual motherhood. Meanwhile, lowly production assistant Turner finds himself dangerously spiraling into inceldom as his current relationship implodes.",
+      "original_language": "en",
+      "poster_path": "/fuEOWhlPl2INV6pNSMVr6uZdy0l.jpg",
+      "backdrop_path": "/tNr9eqcf5PGTXWoJYJj3SlNRXfR.jpg",
       "genre_names": [
-        "Horror",
-        "Mystery"
+        "Comedy",
+        "Drama"
       ],
-      "popularity": 16.36,
-      "vote_average": 7.5,
-      "vote_count": 3287,
+      "popularity": 2.25,
+      "vote_average": 7.3,
+      "vote_count": 12,
       "physical_dates": {
-        "GB": "2026-03-30"
+        "US": "2026-03-28"
       },
-      "trailer_key": "x_FfT98QJks"
+      "trailer_key": "OI0SwQ80a4I"
+    },
+    {
+      "id": 1653832,
+      "title": "GT40: The Road to Spa",
+      "year": "2026",
+      "first_release_date": "2026-03-23",
+      "overview": "With exclusive behind-the-scenes access, take a front-row seat to one of the most gruelling classic endurance races in the world as the sport’s most fearless drivers push themselves to the limit for the Spa 6 Hours. On a battleground infamous for its unpredictable weather, dramatic elevation changes, and unforgiving corners, who will defy the odds to cement their place in racing history?",
+      "original_language": "en",
+      "poster_path": "/9ZgsJhJCPLyZBKnaJM5BnFEjBfJ.jpg",
+      "backdrop_path": "/vjXwXdSFnRSvqhFI2k9J7A0LWLw.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.21,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-03-23"
+      },
+      "trailer_key": "HWAK2n-XYsQ"
     },
     {
       "id": 680493,
       "title": "Return to Silent Hill",
       "year": "2026",
+      "first_release_date": "2026-01-21",
       "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
       "original_language": "en",
       "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
@@ -2581,6 +2642,7 @@
       "id": 1234731,
       "title": "Anaconda",
       "year": "2025",
+      "first_release_date": "2025-12-13",
       "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
       "original_language": "en",
       "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
@@ -2599,9 +2661,51 @@
       "trailer_key": "LFLyvzIZjK4"
     },
     {
+      "id": 1026532,
+      "title": "The Hermit",
+      "year": "2025",
+      "first_release_date": "2025-02-13",
+      "overview": "Dragged on a vacation to the woods, teenagers Lisa and Eric fight for their lives against an unstoppable cannibal pig farmer.",
+      "original_language": "en",
+      "poster_path": "/rkh1tPoW0JhBtQppHv8JQqI4kzC.jpg",
+      "backdrop_path": "/eXZ3hJVEkR1pbuvueSSNekO5tcz.jpg",
+      "genre_names": [
+        "Horror",
+        "Thriller"
+      ],
+      "popularity": 1.83,
+      "vote_average": 5.1,
+      "vote_count": 7,
+      "physical_dates": {
+        "GB": "2026-03-16"
+      },
+      "trailer_key": "MVyGbOQxc80"
+    },
+    {
+      "id": 1718892,
+      "title": "PooBrain",
+      "year": "2026",
+      "first_release_date": "2026-03-11",
+      "overview": "A fragmented documentary portrait of Sammy, an adult with undiagnosed autism growing up in Jersey. Through cut-up interviews, island landscapes and black-and-white experimental sequences, PooBrain explores family, stigma, illness, friendship and the quiet ache of being misunderstood.",
+      "original_language": "en",
+      "poster_path": "/rpHDx8NojJMeNKhczNJjAxnU7zx.jpg",
+      "backdrop_path": "/jgPPVfgMtHUOIMDH5Gx7fGWlESf.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.83,
+      "vote_average": 10.0,
+      "vote_count": 1,
+      "physical_dates": {
+        "GB": "2026-03-11"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1297311,
       "title": "Quantum Supremacy",
       "year": "2026",
+      "first_release_date": "2026-02-16",
       "overview": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
       "original_language": "en",
       "poster_path": "/oU9td2mvEu04rLGlynziVmNo16b.jpg",
@@ -2624,6 +2728,7 @@
       "id": 682012,
       "title": "Little Amélie or the Character of Rain",
       "year": "2025",
+      "first_release_date": "2025-05-20",
       "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
       "original_language": "fr",
       "poster_path": "/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
@@ -2642,31 +2747,32 @@
       "trailer_key": "VRDBXP9QQwg"
     },
     {
-      "id": 467938,
-      "title": "Revenge",
-      "year": "2017",
-      "overview": "Jen's romantic getaway with her wealthy married boyfriend is disrupted when his friends arrive for an impromptu hunting trip. Tension mounts at the house until the situation culminates in an unexpected way.",
-      "original_language": "fr",
-      "poster_path": "/dWXjUGwpwGWWevcnpPuf5QGpKMw.jpg",
-      "backdrop_path": "/31HKH7MpovHT4bTvMpnwbWl1d1G.jpg",
+      "id": 916588,
+      "title": "Mars",
+      "year": "2024",
+      "first_release_date": "2024-06-06",
+      "overview": "A ragtag group of misfits embark on a wild space adventure to Mars, only to discover they’ve been bamboozled by a billionaire.",
+      "original_language": "en",
+      "poster_path": "/rJdT3kiG2q0CAnPNKkldIG7McqG.jpg",
+      "backdrop_path": "/nm5mDFAs7DxP3urVWBwK9QNYUAU.jpg",
       "genre_names": [
-        "Action",
-        "Horror",
-        "Thriller",
-        "Drama"
+        "Animation",
+        "Comedy",
+        "Science Fiction"
       ],
-      "popularity": 7.64,
-      "vote_average": 6.5,
-      "vote_count": 2197,
+      "popularity": 2.97,
+      "vote_average": 4.8,
+      "vote_count": 4,
       "physical_dates": {
-        "ES": "2026-03-10"
+        "US": "2026-03-10"
       },
-      "trailer_key": "5eCMmHa3NYM"
+      "trailer_key": null
     },
     {
       "id": 1084242,
       "title": "Zootopia 2",
       "year": "2025",
+      "first_release_date": "2025-11-13",
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
       "original_language": "en",
       "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
@@ -2690,6 +2796,7 @@
       "id": 798645,
       "title": "The Running Man",
       "year": "2025",
+      "first_release_date": "2025-11-03",
       "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
       "original_language": "en",
       "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
@@ -2711,6 +2818,7 @@
       "id": 858024,
       "title": "Hamnet",
       "year": "2025",
+      "first_release_date": "2025-08-29",
       "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "original_language": "en",
       "poster_path": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
@@ -2731,6 +2839,7 @@
       "id": 1206008,
       "title": "Ella McCay",
       "year": "2025",
+      "first_release_date": "2025-12-09",
       "overview": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
       "original_language": "en",
       "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
@@ -2748,9 +2857,31 @@
       "trailer_key": "vRE6Iobir8k"
     },
     {
+      "id": 1306400,
+      "title": "Merrily We Roll Along",
+      "year": "2025",
+      "first_release_date": "2025-10-12",
+      "overview": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. (A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.)",
+      "original_language": "en",
+      "poster_path": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+      "backdrop_path": "/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+      "genre_names": [
+        "Comedy",
+        "Music"
+      ],
+      "popularity": 3.46,
+      "vote_average": 6.9,
+      "vote_count": 25,
+      "physical_dates": {
+        "US": "2026-03-03"
+      },
+      "trailer_key": "Ams0ROhWX0w"
+    },
+    {
       "id": 801937,
       "title": "Silent Night, Deadly Night",
       "year": "2025",
+      "first_release_date": "2025-09-21",
       "overview": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
       "original_language": "en",
       "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
@@ -2769,9 +2900,51 @@
       "trailer_key": "qcpcOUW0nbo"
     },
     {
+      "id": 1478289,
+      "title": "Bulk",
+      "year": "2025",
+      "first_release_date": "2025-08-14",
+      "overview": "When an over zealous scientist pushes his experiments with string theory too far, his brane explodes. That's \"brane\", not \"brain\", meaning someone has to sort out the mess he has created. Corey Harlan is sent in – kicking and screaming – to find the heart of the brane and its creator.",
+      "original_language": "en",
+      "poster_path": "/n4MIvrIYrZdbQ1uPMulwjSGT4PI.jpg",
+      "backdrop_path": "/82zca4u4ZX8OYBrlixNJQtSJ9V0.jpg",
+      "genre_names": [
+        "Action",
+        "Science Fiction"
+      ],
+      "popularity": 1.67,
+      "vote_average": 5.0,
+      "vote_count": 3,
+      "physical_dates": {
+        "GB": "2026-03-02"
+      },
+      "trailer_key": "5F08mdXiWMA"
+    },
+    {
+      "id": 1647396,
+      "title": "Castration Movie Documentary Anthology i. You Had To Be There",
+      "year": "2026",
+      "first_release_date": "2026-03-01",
+      "overview": "Over the course of nearly two years, Louise Weard and her loved ones test the limits of filmmaking, friendship and sanity as they try to finish shooting her seven-hour epic: The Untitled Louise Weard Castration Movie.",
+      "original_language": "en",
+      "poster_path": "/sAkxL4t7y12re4Io0ZsKrwNigaI.jpg",
+      "backdrop_path": "/5cde1fB2GAfaHZJUb7X9mjnvHzf.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.93,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2026-03-01"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1284120,
       "title": "The Ugly Stepsister",
       "year": "2025",
+      "first_release_date": "2025-01-23",
       "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, Agnes, and she will go to any length to catch the Prince’s eye.",
       "original_language": "no",
       "poster_path": "/rayAREIKtSinuov10GvrZHyXfXH.jpg",
@@ -2793,6 +2966,7 @@
       "id": 1288246,
       "title": "The Huntsman",
       "year": "2026",
+      "first_release_date": "2026-02-06",
       "overview": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
       "original_language": "en",
       "poster_path": "/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
@@ -2810,9 +2984,50 @@
       "trailer_key": "0qUlVQq5XOE"
     },
     {
+      "id": 1636939,
+      "title": "Deep Dive",
+      "year": "2026",
+      "first_release_date": "2026-02-15",
+      "overview": "Take an exclusive look behind the scenes of The War Between the Land and the Sea.",
+      "original_language": "en",
+      "poster_path": "/mnWveUrGAufO67ITvMPxwRQ7VWf.jpg",
+      "backdrop_path": "/uJbtrNAvOtOzwTgeeU8WDxrV3Su.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.18,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-02-23"
+      },
+      "trailer_key": null
+    },
+    {
+      "id": 1597306,
+      "title": "Anastacia - #NTK25 Live in Concert",
+      "year": "2026",
+      "first_release_date": "2026-02-20",
+      "overview": "#NTK25 –Live in Concert was recorded during Anastacia's acclaimed NOT THAT KIND tour in 2025 – pure power, soul and voice.",
+      "original_language": "en",
+      "poster_path": "/xVMlUa5lW6TYv9Q1sKkKkiBkPLm.jpg",
+      "backdrop_path": "/ztNMCyxlTa7KtVWAaG2HmNITYzE.jpg",
+      "genre_names": [
+        "Music"
+      ],
+      "popularity": 1.73,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "GB": "2026-02-20"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1242898,
       "title": "Predator: Badlands",
       "year": "2025",
+      "first_release_date": "2025-10-27",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "original_language": "en",
       "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
@@ -2834,6 +3049,7 @@
       "id": 1208348,
       "title": "Rental Family",
       "year": "2025",
+      "first_release_date": "2025-09-06",
       "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
       "original_language": "en",
       "poster_path": "/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
@@ -2854,6 +3070,7 @@
       "id": 1327862,
       "title": "Regretting You",
       "year": "2025",
+      "first_release_date": "2025-10-12",
       "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
       "original_language": "en",
       "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
@@ -2874,6 +3091,7 @@
       "id": 1223601,
       "title": "Sisu: Road to Revenge",
       "year": "2025",
+      "first_release_date": "2025-09-21",
       "overview": "Returning to the house where his family was brutally murdered during the war, \"the man who refuses to die\" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
       "original_language": "fi",
       "poster_path": "/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
@@ -2895,6 +3113,7 @@
       "id": 1253000,
       "title": "Deathstalker",
       "year": "2025",
+      "first_release_date": "2025-08-15",
       "overview": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
       "original_language": "en",
       "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
@@ -2916,6 +3135,7 @@
       "id": 1228246,
       "title": "Five Nights at Freddy's 2",
       "year": "2025",
+      "first_release_date": "2025-12-03",
       "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
       "original_language": "en",
       "poster_path": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
@@ -2936,6 +3156,7 @@
       "id": 1422096,
       "title": "Good Boy",
       "year": "2025",
+      "first_release_date": "2025-03-08",
       "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
       "original_language": "en",
       "poster_path": "/daInKxjoRNLFWIus64fHAy91V0k.jpg",
@@ -2954,7 +3175,8 @@
     {
       "id": 1198984,
       "title": "We Bury the Dead",
-      "year": "2026",
+      "year": "2024",
+      "first_release_date": "2024-11-01",
       "overview": "After a catastrophic military disaster reanimates the dead, Ava searches for her missing husband amidst an increasingly hostile world.",
       "original_language": "en",
       "poster_path": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
@@ -2972,9 +3194,30 @@
       "trailer_key": "YmPyNvrzF0A"
     },
     {
+      "id": 1339166,
+      "title": "Shaman",
+      "year": "2024",
+      "first_release_date": "2024-10-25",
+      "overview": "A Missionary converting an Indigenous Community in a remote Ecuadorian volcano must come to terms with her own Faith when her son is possessed by dark forces older than her own religion.",
+      "original_language": "en",
+      "poster_path": "/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg",
+      "backdrop_path": "/kWm4HxanOhRWfW9PzigkUXulwdG.jpg",
+      "genre_names": [
+        "Horror"
+      ],
+      "popularity": 2.54,
+      "vote_average": 5.7,
+      "vote_count": 53,
+      "physical_dates": {
+        "GB": "2026-02-16"
+      },
+      "trailer_key": "hQITvMvJW1M"
+    },
+    {
       "id": 1637631,
       "title": "Seal: Purpose",
       "year": "2026",
+      "first_release_date": "2026-02-13",
       "overview": "The Grammy Award-winning British soul icon performs a celebratory concert at The Venetian in Las Vegas three decades after the release of his self-titled album Seal and eponymous follow up Seal II. Joined by longtime producer Trevor Horn, he performs a set highlighted by classic chart-topping anthems Crazy, Future Love Paradise, Killer and Kiss From a Rose, as well as a few surprises. Directed by Keirda Bahruth (Hardcore Devo) and with intimate interviews interspersed throughout, it’s a stunning film that shows this extraordinary artist at the top of his performance game.",
       "original_language": "en",
       "poster_path": "/iFkwKxApuixIvZQs2f0SXTi0GlM.jpg",
@@ -2995,6 +3238,7 @@
       "id": 701387,
       "title": "Bugonia",
       "year": "2025",
+      "first_release_date": "2025-08-28",
       "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
       "original_language": "en",
       "poster_path": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
@@ -3014,28 +3258,10 @@
       "trailer_key": "7VBigr-JHB0"
     },
     {
-      "id": 404,
-      "title": "The Straight Story",
-      "year": "1999",
-      "overview": "Retired farmer and widower Alvin Straight learns one day that his estranged brother Lyle has suffered a severe stroke. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
-      "original_language": "en",
-      "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
-      "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
-      "genre_names": [
-        "Drama"
-      ],
-      "popularity": 10.17,
-      "vote_average": 7.7,
-      "vote_count": 1898,
-      "physical_dates": {
-        "GB": "2026-02-09"
-      },
-      "trailer_key": "lcMyFckt_Hs"
-    },
-    {
       "id": 420074,
       "title": "Shark Terror",
       "year": "2025",
+      "first_release_date": "2025-07-11",
       "overview": "After falling overboard during a cruise, a young woman washes ashore – injured, stranded, and stalked by sharks – as her desperate mother races to find her.",
       "original_language": "en",
       "poster_path": "/hPRoBl2iaE2RIIFkUfwgXWSuBy9.jpg",
@@ -3053,9 +3279,31 @@
       "trailer_key": "C9x1ZZDUGVY"
     },
     {
+      "id": 1391385,
+      "title": "Uppercut",
+      "year": "2025",
+      "first_release_date": "2025-01-23",
+      "overview": "When Elliott, a tough ex-boxing champion, accepts the challenge to train Toni, the two mismatched characters form an unlikely alliance. Their sparring and Elliott's keen insights show the resilient young fighter that real strength comes from the challenges you overcome when life throws its biggest punches your way.",
+      "original_language": "en",
+      "poster_path": "/zv4jdLV7wuQGwhwAOeD7qzd8eSF.jpg",
+      "backdrop_path": "/gxiAac3FWYJXiBmK5eGhu1OGBsD.jpg",
+      "genre_names": [
+        "Drama",
+        "Thriller"
+      ],
+      "popularity": 1.44,
+      "vote_average": 5.0,
+      "vote_count": 18,
+      "physical_dates": {
+        "GB": "2026-02-09"
+      },
+      "trailer_key": "nK_xwhC1Amo"
+    },
+    {
       "id": 1449400,
       "title": "Reckless",
       "year": "2026",
+      "first_release_date": "2026-02-07",
       "overview": "A former convict on parole must outwit the police to get his share of an old heist.",
       "original_language": "en",
       "poster_path": "/76jjEatL53KYooIrDQK9wsk4rm1.jpg",
@@ -3078,6 +3326,7 @@
       "id": 1249508,
       "title": "Grizzly Night",
       "year": "2026",
+      "first_release_date": "2026-01-30",
       "overview": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one—but two—fatal grizzly bear attacks.",
       "original_language": "en",
       "poster_path": "/3ppOwa6PEtGsIiDPdZHUbEqgIY7.jpg",
@@ -3096,31 +3345,31 @@
       "trailer_key": "K9QiCL3W-q8"
     },
     {
-      "id": 1832,
-      "title": "Dogma",
-      "year": "1999",
-      "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
+      "id": 1379413,
+      "title": "Frontier Crucible",
+      "year": "2025",
+      "first_release_date": "2025-12-05",
+      "overview": "In 1870s Arizona Territory, a desperately needed wagon full of medical supplies falls victim to an Apache attack. The only man who can guide it through is Merrick Beckford, but in order to get there, he’ll need to enlist the help of a trio of dangerous outlaws hellbent on survival. When they accidentally kill an Apache scout, all bets are off, and survival is the name of the game.",
       "original_language": "en",
-      "poster_path": "/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg",
-      "backdrop_path": "/nljRWpjfmqh5qYxcblFoazU5eYY.jpg",
+      "poster_path": "/aRdbTNiklT1xsv6mk30ZXnkt0A1.jpg",
+      "backdrop_path": "/8zaOztqN9Xu1WNRdKfpN5zmthL2.jpg",
       "genre_names": [
-        "Fantasy",
-        "Comedy",
-        "Adventure"
+        "Western",
+        "Thriller"
       ],
-      "popularity": 6.74,
-      "vote_average": 6.9,
-      "vote_count": 2998,
+      "popularity": 2.19,
+      "vote_average": 6.8,
+      "vote_count": 16,
       "physical_dates": {
-        "GB": "2026-02-02",
-        "US": "2025-12-09"
+        "GB": "2026-02-02"
       },
-      "trailer_key": "rwSRribTgdA"
+      "trailer_key": "ATWWvQjibks"
     },
     {
       "id": 1054867,
       "title": "One Battle After Another",
       "year": "2025",
+      "first_release_date": "2025-09-08",
       "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
       "original_language": "en",
       "poster_path": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
@@ -3143,6 +3392,7 @@
       "id": 977294,
       "title": "Tin Soldier",
       "year": "2025",
+      "first_release_date": "2025-05-08",
       "overview": "An ex-special forces operative seeks revenge against a cult leader who has corrupted his former comrades, the Shinjas. This leader, known as The Bokushi, promises veterans a purpose and protection, but is revealed to be a destructive influence. The ex-soldier, Nash Cavanaugh, joins forces with military operative Emmanuel Ashburn to infiltrate the Bokushi's fortress and expose his reign of terror.",
       "original_language": "en",
       "poster_path": "/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
@@ -3163,6 +3413,7 @@
       "id": 1296504,
       "title": "Stand Your Ground",
       "year": "2025",
+      "first_release_date": "2025-05-09",
       "overview": "Former Special Forces operative, Jack Johnson, uses the Stand Your Ground law to seek vengeance for his wife’s murder, igniting a brutal war against a local crime lord’s family and ending in an explosive showdown.",
       "original_language": "en",
       "poster_path": "/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg",
@@ -3184,6 +3435,7 @@
       "id": 967941,
       "title": "Wicked: For Good",
       "year": "2025",
+      "first_release_date": "2025-11-04",
       "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba must unite one last time with honesty and empathy to fulfill their shared destiny and change the fate of Oz forever.",
       "original_language": "en",
       "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
@@ -3205,6 +3457,7 @@
       "id": 1288072,
       "title": "Keeper",
       "year": "2025",
+      "first_release_date": "2025-11-12",
       "overview": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated and in the presence of an unspeakable evil that reveals the cabin's horrifying secrets.",
       "original_language": "en",
       "poster_path": "/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
@@ -3225,6 +3478,7 @@
       "id": 1257009,
       "title": "Primitive War",
       "year": "2025",
+      "first_release_date": "2025-06-30",
       "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
       "original_language": "en",
       "poster_path": "/noujgznyJIaurEinZhcSVzTmkLo.jpg",
@@ -3244,48 +3498,10 @@
       "trailer_key": "zDRI8KlNGoY"
     },
     {
-      "id": 1129188,
-      "title": "The Optimist",
-      "year": "2026",
-      "overview": "Herbert Heller keeps his experience as a teenage boy surviving in Auschwitz hidden from his family. Until he meets Abby, a young teenager whose own brush with pain and death inspires him to open up as well, leading the two of them to exchange their stories as a meaningful and healing friendship is born.",
-      "original_language": "en",
-      "poster_path": "/kQvgYd8GaYkoovQZmE8IkbAMg2d.jpg",
-      "backdrop_path": "/d162vjYEHGEGw2XqxH487bnEkfG.jpg",
-      "genre_names": [
-        "Drama"
-      ],
-      "popularity": 3.12,
-      "vote_average": 6.8,
-      "vote_count": 4,
-      "physical_dates": {
-        "GB": "2026-01-19"
-      },
-      "trailer_key": "ObMuxnC-SUk"
-    },
-    {
-      "id": 1365,
-      "title": "Monster's Ball",
-      "year": "2001",
-      "overview": "A prison guard begins a tentative romance with the unsuspecting widow of a man whose execution he presided over.",
-      "original_language": "en",
-      "poster_path": "/rQeufx98gKH4CCeVw57KT1Fd0gr.jpg",
-      "backdrop_path": "/2lZYvShWuVThLM6Oo8zfakdBMqw.jpg",
-      "genre_names": [
-        "Drama",
-        "Romance"
-      ],
-      "popularity": 16.3,
-      "vote_average": 6.8,
-      "vote_count": 1131,
-      "physical_dates": {
-        "GB": "2026-01-12"
-      },
-      "trailer_key": "s7W-zEsFjMM"
-    },
-    {
       "id": 986097,
       "title": "HIM",
       "year": "2025",
+      "first_release_date": "2025-09-17",
       "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
       "original_language": "en",
       "poster_path": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
@@ -3308,6 +3524,7 @@
       "id": 533533,
       "title": "TRON: Ares",
       "year": "2025",
+      "first_release_date": "2025-10-06",
       "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
       "original_language": "en",
       "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
@@ -3328,7 +3545,8 @@
     {
       "id": 937941,
       "title": "Shelby Oaks",
-      "year": "2025",
+      "year": "2024",
+      "first_release_date": "2024-07-20",
       "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
       "original_language": "en",
       "poster_path": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
@@ -3350,6 +3568,7 @@
       "id": 507244,
       "title": "Afterburn",
       "year": "2025",
+      "first_release_date": "2025-08-20",
       "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
       "original_language": "en",
       "poster_path": "/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
@@ -3371,6 +3590,7 @@
       "id": 1386827,
       "title": "Coyotes",
       "year": "2025",
+      "first_release_date": "2025-09-20",
       "overview": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
       "original_language": "en",
       "poster_path": "/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
@@ -3388,29 +3608,31 @@
       "trailer_key": "DENZQmZZ1ok"
     },
     {
-      "id": 1087593,
-      "title": "Another End",
-      "year": "2024",
-      "overview": "In a future where consciousness can be transferred, Sal is urged by his sister to try a breakthrough technology that implants the memories and personality of the dead into the living. After the passing of his wife, Sal must decide how far he's willing to go to reconnect with the past.",
+      "id": 1481851,
+      "title": "Good Night, and Good Luck",
+      "year": "2025",
+      "first_release_date": "2025-06-07",
+      "overview": "Livestreamed from the penultimate show at the Winter Garden Theatre in New York City, this stage adaptation of George Clooney's 2005 film follows the story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s.",
       "original_language": "en",
-      "poster_path": "/fuWWd7pQYGv21av3HonQg6oCkZL.jpg",
-      "backdrop_path": "/jxvkfgYvAHn0ps874wgCirRfCyT.jpg",
+      "poster_path": "/fINjqjQNWYr7g9nVawzPDenxVO3.jpg",
+      "backdrop_path": "/oXUAgmFAZ389OoYJkJhA9vxK96y.jpg",
       "genre_names": [
-        "Science Fiction",
-        "Drama"
+        "Drama",
+        "History"
       ],
-      "popularity": 4.31,
-      "vote_average": 6.7,
-      "vote_count": 73,
+      "popularity": 2.42,
+      "vote_average": 7.0,
+      "vote_count": 14,
       "physical_dates": {
-        "GB": "2026-01-05"
+        "US": "2025-12-30"
       },
-      "trailer_key": "Thhz5SeT6Tk"
+      "trailer_key": "BoY-o7sCg7k"
     },
     {
       "id": 1174240,
       "title": "Vampire Zombies...from Space!",
-      "year": "2026",
+      "year": "2024",
+      "first_release_date": "2024-10-04",
       "overview": "From the depths of space, Dracula has devised his most dastardly plan yet; turning the residents of the small town of Marlow into his personal army of vampire zombies! A motley crew consisting of a grizzled detective, a rookie cop, a chain-smoking greaser, and a determined young woman band together to save the world from — (see title).",
       "original_language": "en",
       "poster_path": "/g7uQT3jpdCaxcK9jn3cJY1Tfryq.jpg",
@@ -3432,6 +3654,7 @@
       "id": 604079,
       "title": "The Long Walk",
       "year": "2025",
+      "first_release_date": "2025-09-08",
       "overview": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
       "original_language": "en",
       "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
@@ -3453,6 +3676,7 @@
       "id": 1197137,
       "title": "Black Phone 2",
       "year": "2025",
+      "first_release_date": "2025-09-20",
       "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
       "original_language": "en",
       "poster_path": "/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg",
@@ -3473,6 +3697,7 @@
       "id": 1241921,
       "title": "A Big Bold Beautiful Journey",
       "year": "2025",
+      "first_release_date": "2025-09-11",
       "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
       "original_language": "en",
       "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
@@ -3491,9 +3716,30 @@
       "trailer_key": "xdKP22EaAuU"
     },
     {
+      "id": 1601090,
+      "title": "What is an Ocean… Reconnecting the Cast and Crew of Cloud Atlas",
+      "year": "2025",
+      "first_release_date": "2025-12-23",
+      "overview": "A unique feature-length retrospective documentary bringing together the directors, author David Mitchell, and key cast and crew - including Tom Hanks, Hugh Grant, and Susan Sarandon - to share new reflections and untold stories from the making of Cloud Atlas. The film celebrates the artistry, collaboration, and enduring impact of the Wachowskis and Tom Tykwer's visionary production.",
+      "original_language": "en",
+      "poster_path": "/tw7aQ17lYfZ7Vmi7lNaWIPW0V9F.jpg",
+      "backdrop_path": null,
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.9,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-23"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1246049,
       "title": "Dracula",
       "year": "2025",
+      "first_release_date": "2025-07-30",
       "overview": "In late 15th-century Eastern Europe, Prince Vlad II’s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
       "original_language": "fr",
       "poster_path": "/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
@@ -3512,9 +3758,31 @@
       "trailer_key": "hverb7siYJ8"
     },
     {
+      "id": 1330747,
+      "title": "Odyssey",
+      "year": "2025",
+      "first_release_date": "2025-03-09",
+      "overview": "Natasha Flynn, a coke-fueled London estate agent, hides her crumbling life behind luxury. When loan sharks offer cash to hide a kidnapped agent, she's dragged into London's seedy underworld, leading to a bloody, chaotic showdown.",
+      "original_language": "en",
+      "poster_path": "/4kx1Umb1IYdhNCNJmvtRQNjp2wB.jpg",
+      "backdrop_path": "/zmuX9eLqFsdvAMsvvPy9OHu5TPR.jpg",
+      "genre_names": [
+        "Thriller",
+        "Crime"
+      ],
+      "popularity": 1.59,
+      "vote_average": 5.6,
+      "vote_count": 13,
+      "physical_dates": {
+        "GB": "2025-12-22"
+      },
+      "trailer_key": "GVnLyQ9q15w"
+    },
+    {
       "id": 1285965,
       "title": "Dangerous Animals",
       "year": "2025",
+      "first_release_date": "2025-05-17",
       "overview": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
       "original_language": "en",
       "poster_path": "/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
@@ -3532,48 +3800,10 @@
       "trailer_key": "WR2btzjmmuc"
     },
     {
-      "id": 4995,
-      "title": "Boogie Nights",
-      "year": "1997",
-      "overview": "In 1977, an idealistic porn producer and his promising protege try to catch up with the end of an era before their never-ending party collides with cold, hard reality.",
-      "original_language": "en",
-      "poster_path": "/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
-      "backdrop_path": "/ArpTzQZHWh4UVsgUvV6S7WjTq1n.jpg",
-      "genre_names": [
-        "Drama",
-        "Comedy"
-      ],
-      "popularity": 21.28,
-      "vote_average": 7.6,
-      "vote_count": 3734,
-      "physical_dates": {
-        "GB": "2025-12-15"
-      },
-      "trailer_key": "6__jTfyCMsc"
-    },
-    {
-      "id": 21484,
-      "title": "Possession",
-      "year": "1981",
-      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-      "original_language": "en",
-      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 11.13,
-      "vote_average": 7.3,
-      "vote_count": 1473,
-      "physical_dates": {
-        "GB": "2025-12-15"
-      },
-      "trailer_key": "aLXW-oVbTxE"
-    },
-    {
       "id": 1679022,
       "title": "Taken",
       "year": "2025",
+      "first_release_date": "2025-12-13",
       "overview": "A newly wealthy man is kidnapped and held for days. Under pressure, he must decide how long he can keep his secret.",
       "original_language": "es",
       "poster_path": "/iRmhcTjWu5RuC4m6kJSF6RAgJWS.jpg",
@@ -3590,74 +3820,10 @@
       "trailer_key": null
     },
     {
-      "id": 546554,
-      "title": "Knives Out",
-      "year": "2019",
-      "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
-      "original_language": "en",
-      "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
-      "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
-      "genre_names": [
-        "Comedy",
-        "Crime",
-        "Mystery"
-      ],
-      "popularity": 39.14,
-      "vote_average": 7.8,
-      "vote_count": 14634,
-      "physical_dates": {
-        "US": "2025-12-09"
-      },
-      "trailer_key": "qOg3AoRc4nI"
-    },
-    {
-      "id": 11688,
-      "title": "The Emperor's New Groove",
-      "year": "2000",
-      "overview": "When the self‑absorbed Emperor Kuzco is accidentally transformed into a llama, he must rely on a humble villager to survive the jungle and reclaim his throne.",
-      "original_language": "en",
-      "poster_path": "/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
-      "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
-      "genre_names": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "popularity": 33.54,
-      "vote_average": 7.6,
-      "vote_count": 7505,
-      "physical_dates": {
-        "US": "2025-12-09"
-      },
-      "trailer_key": "Hjvy8vc39kw"
-    },
-    {
-      "id": 1359,
-      "title": "American Psycho",
-      "year": "2000",
-      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
-      "original_language": "en",
-      "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-      "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
-      "genre_names": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "popularity": 28.52,
-      "vote_average": 7.4,
-      "vote_count": 12862,
-      "physical_dates": {
-        "US": "2025-12-09"
-      },
-      "trailer_key": "81mibtQWWBg"
-    },
-    {
       "id": 1235746,
       "title": "Dead of Winter",
       "year": "2025",
+      "first_release_date": "2025-08-08",
       "overview": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope.",
       "original_language": "en",
       "poster_path": "/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
@@ -3678,6 +3844,7 @@
       "id": 1193824,
       "title": "Rabbit Trap",
       "year": "2025",
+      "first_release_date": "2025-01-24",
       "overview": "When a musician and her husband move to a remote house in Wales, the music they make disturbs local ancient folk magic, bringing a nameless child to their door intent on infiltrating their lives.",
       "original_language": "en",
       "poster_path": "/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
@@ -3698,29 +3865,30 @@
       "trailer_key": "Vj7UAYV6ihs"
     },
     {
-      "id": 25,
-      "title": "Jarhead",
-      "year": "2005",
-      "overview": "Jarhead is a film about a US Marine Anthony Swofford’s experience in the Gulf War. After putting up with an arduous boot camp, Swofford and his unit are sent to the Persian Gulf where they are eager to fight, but are forced to stay back from the action. Swofford struggles with the possibility of his girlfriend cheating on him, and as his mental state deteriorates, his desire to kill increases.",
+      "id": 1626944,
+      "title": "On a Mission from God: The Story of the Blues Brothers",
+      "year": "2025",
+      "first_release_date": "2025-12-09",
+      "overview": "A documentary that explores the turbulent, high-budget production of the 1980 musical-comedy classic The Blues Brothers, examining its chaotic shoot, legendary musical guest appearances, and lasting cultural legacy.",
       "original_language": "en",
-      "poster_path": "/6vdj47RAWOUZBkeQmqToeZ7eaio.jpg",
-      "backdrop_path": "/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
+      "poster_path": "/tiQoojOwhfOPOCf3Zzkls1ZeuJh.jpg",
+      "backdrop_path": "/cTxWyTMT7DGr33H9tSPexV20BJV.jpg",
       "genre_names": [
-        "Drama",
-        "War"
+        "Documentary"
       ],
-      "popularity": 7.11,
-      "vote_average": 6.7,
-      "vote_count": 3305,
+      "popularity": 1.91,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
-        "GB": "2025-12-08"
+        "US": "2025-12-09"
       },
-      "trailer_key": "-aBP-c28_1M"
+      "trailer_key": null
     },
     {
       "id": 1519168,
       "title": "The Jester 2",
       "year": "2025",
+      "first_release_date": "2025-09-15",
       "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
       "original_language": "en",
       "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
@@ -3739,72 +3907,10 @@
       "trailer_key": "7ogVp-d-CdE"
     },
     {
-      "id": 2061,
-      "title": "Pusher",
-      "year": "1996",
-      "overview": "A drug pusher grows increasingly desperate after a botched deal leaves him with a large debt to a ruthless drug lord.",
-      "original_language": "da",
-      "poster_path": "/9Myfvq4e2BySE5aosX8UzV9cUME.jpg",
-      "backdrop_path": "/1ZJlf0fxLRRrAn39guNvJi4e7Im.jpg",
-      "genre_names": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "popularity": 4.22,
-      "vote_average": 7.0,
-      "vote_count": 934,
-      "physical_dates": {
-        "GB": "2025-12-08"
-      },
-      "trailer_key": "AEIwMsqee-A"
-    },
-    {
-      "id": 11330,
-      "title": "Pusher 3",
-      "year": "2005",
-      "overview": "Milo is aging, he is planning his daughter's 25th birthday, and his shipment of heroin turns out to be 10,000 pills of ecstasy. When Milo tries to sell the pills anyway, all Hell breaks loose and his only chance is to ask for help from his ex-henchman and old friend Radovan.",
-      "original_language": "da",
-      "poster_path": "/kLBQtXaKv9LDh7ie4yIvgrv5TmD.jpg",
-      "backdrop_path": "/mRqM7jaTPCdzRELR5sjOMgiDDwo.jpg",
-      "genre_names": [
-        "Action",
-        "Thriller",
-        "Crime"
-      ],
-      "popularity": 4.18,
-      "vote_average": 7.2,
-      "vote_count": 459,
-      "physical_dates": {
-        "GB": "2025-12-08"
-      },
-      "trailer_key": "d99iy7uHe8Q"
-    },
-    {
-      "id": 11328,
-      "title": "Pusher II",
-      "year": "2004",
-      "overview": "Tonny is released from prison - again. This time he has his mind set on changing his broken down life, but that is easier said than done.",
-      "original_language": "da",
-      "poster_path": "/qxvyw5NZBphzWliVdSzn7gSxUel.jpg",
-      "backdrop_path": "/2MG8bwkkvypszwWa2oLlSmcgqJl.jpg",
-      "genre_names": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "popularity": 3.73,
-      "vote_average": 7.2,
-      "vote_count": 567,
-      "physical_dates": {
-        "GB": "2025-12-08"
-      },
-      "trailer_key": "BcFcDPWysEE"
-    },
-    {
       "id": 798580,
       "title": "The Creeps",
       "year": "2025",
+      "first_release_date": "2025-04-11",
       "overview": "When a mysterious gateway between dimensions unleashes a horde of nasty little creatures into Vuokatti Ski Resort, Zach and his friends’ dream holiday takes a turn for the terrifying. What was supposed to be an epic party—filled with sex, drugs, rock ’n’ roll, and Hollywood legend Christopher Lambert—spirals into pure chaos as the Creeps run wild. Now, Zach must rise to the occasion, battle the pint-sized terrors, and prove that being a hero isn’t so different from the ‘80s movies he worships.",
       "original_language": "fi",
       "poster_path": "/9LU1uvxf0BZxfPGX0oInpYxZX0.jpg",
@@ -3823,53 +3929,10 @@
       "trailer_key": "mUVqIOVwywM"
     },
     {
-      "id": 15018,
-      "title": "Thriller: A Cruel Picture",
-      "year": "1973",
-      "overview": "Madeleine, rendered mute after being sexually assaulted as a youth, accepts a lift from a wealthy and sadistic pimp who soon enslaves her into his prostitution racket. Despite her limited means, Madeleine embarks on a bloody road to revenge against her captors.",
-      "original_language": "sv",
-      "poster_path": "/pMYgdygJZ6oBpnC3dWrluevlZOt.jpg",
-      "backdrop_path": "/8YMq728a1ElZq6tmM0ZI3RrwoOi.jpg",
-      "genre_names": [
-        "Action",
-        "Thriller",
-        "Crime",
-        "Horror",
-        "Drama"
-      ],
-      "popularity": 3.88,
-      "vote_average": 6.3,
-      "vote_count": 224,
-      "physical_dates": {
-        "GB": "2025-12-01"
-      },
-      "trailer_key": "Lt8mpuYPcRY"
-    },
-    {
-      "id": 983015,
-      "title": "Kina & Yuk",
-      "year": "2023",
-      "overview": "Kina & Yuk are two Arctic foxes, ready to start a family. But the climate is warmer, and the food is more and more rare. Kina & Yuk are obliged to venture far and far away.",
-      "original_language": "fr",
-      "poster_path": "/9hJJnhVHtvlM9ChmFTRFvoot125.jpg",
-      "backdrop_path": "/9486WpZvT9BBlamLWUUOHWCO9r5.jpg",
-      "genre_names": [
-        "Family",
-        "Adventure",
-        "Documentary"
-      ],
-      "popularity": 3.1,
-      "vote_average": 6.8,
-      "vote_count": 28,
-      "physical_dates": {
-        "GB": "2025-12-01"
-      },
-      "trailer_key": "LQMRkZDnla4"
-    },
-    {
       "id": 1038392,
       "title": "The Conjuring: Last Rites",
       "year": "2025",
+      "first_release_date": "2025-09-02",
       "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
       "original_language": "en",
       "poster_path": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
@@ -3889,6 +3952,7 @@
       "id": 1280282,
       "title": "Gabby's Dollhouse: The Movie",
       "year": "2025",
+      "first_release_date": "2025-09-13",
       "overview": "When her beloved dollhouse is accidentally claimed by an eccentric cat lady during a road trip to Cat Francisco, Gabby embarks on a real-world adventure to reunite the Gabby Cats and rescue her most prized possession before it is too late.",
       "original_language": "en",
       "poster_path": "/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
@@ -3912,6 +3976,7 @@
       "id": 1242011,
       "title": "Together",
       "year": "2025",
+      "first_release_date": "2025-01-26",
       "overview": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
       "original_language": "en",
       "poster_path": "/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
@@ -3933,6 +3998,7 @@
       "id": 1182387,
       "title": "Armor",
       "year": "2024",
+      "first_release_date": "2024-10-30",
       "overview": "Armored truck security guard James Brody is working with his son Casey transporting millions of dollars between banks when a team of thieves led by Rook orchestrate a takeover of their truck to seize the riches. Following a violent car chase, Rook soon has the armored truck surrounded and James and Casey find themselves cornered onto a decrepit bridge.",
       "original_language": "en",
       "poster_path": "/fYq9ap0wVM6K0LFvRwH5siM4dfU.jpg",
@@ -3954,6 +4020,7 @@
       "id": 1547915,
       "title": "Tidings for the Season",
       "year": "2025",
+      "first_release_date": "2025-11-16",
       "overview": "A local newscaster’s life changes when he meets a 10-year-old fan — and his single mother — during the holidays.",
       "original_language": "en",
       "poster_path": "/8B59ieVpMESoKNircV4GyvdJ48U.jpg",
@@ -3972,29 +4039,32 @@
       "trailer_key": "uBBu1OBruTM"
     },
     {
-      "id": 949423,
-      "title": "Pearl",
-      "year": "2022",
-      "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+      "id": 911926,
+      "title": "Love Me Dead",
+      "year": "2024",
+      "first_release_date": "2024-10-19",
+      "overview": "Issac, a young reclusive mortician who inherited his stepfather's mortuary business, meets a friendly waitress, Cassi. The two create an instant connection and after a night of terror, they pursue a revenge murder together.",
       "original_language": "en",
-      "poster_path": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
-      "backdrop_path": "/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
+      "poster_path": "/n1HisUuEhl3NJsO157CI6qo1URV.jpg",
+      "backdrop_path": "/pl6L2GRpIv5NmRpGNm1kGiKqrKd.jpg",
       "genre_names": [
-        "Horror",
-        "Drama"
+        "Thriller",
+        "Romance",
+        "Horror"
       ],
-      "popularity": 23.05,
-      "vote_average": 7.2,
-      "vote_count": 2796,
+      "popularity": 3.19,
+      "vote_average": 5.9,
+      "vote_count": 11,
       "physical_dates": {
-        "GB": "2025-11-17"
+        "US": "2025-11-20"
       },
-      "trailer_key": "L5PW5r3pEOg"
+      "trailer_key": "nBP86U-t_sg"
     },
     {
       "id": 1023922,
       "title": "MaXXXine",
       "year": "2024",
+      "first_release_date": "2024-06-24",
       "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
       "original_language": "en",
       "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
@@ -4011,31 +4081,10 @@
       "trailer_key": "qGxKjwAnn5I"
     },
     {
-      "id": 338969,
-      "title": "The Toxic Avenger Unrated",
-      "year": "2025",
-      "overview": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
-      "original_language": "en",
-      "poster_path": "/cCWojb6N9UcTzNVtS4bOM3vQ30x.jpg",
-      "backdrop_path": "/qo7WRoSXkpgvmc9TgaklzrsukLW.jpg",
-      "genre_names": [
-        "Action",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "popularity": 9.58,
-      "vote_average": 6.0,
-      "vote_count": 457,
-      "physical_dates": {
-        "GB": "2025-11-17",
-        "US": "2025-10-28"
-      },
-      "trailer_key": "BO3tPsmx8_8"
-    },
-    {
       "id": 1245993,
       "title": "Caught Stealing",
       "year": "2025",
+      "first_release_date": "2025-08-07",
       "overview": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
       "original_language": "en",
       "poster_path": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
@@ -4057,6 +4106,7 @@
       "id": 1035259,
       "title": "The Naked Gun",
       "year": "2025",
+      "first_release_date": "2025-07-22",
       "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
       "original_language": "en",
       "poster_path": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
@@ -4079,6 +4129,7 @@
       "id": 1125257,
       "title": "Freakier Friday",
       "year": "2025",
+      "first_release_date": "2025-08-05",
       "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
       "original_language": "en",
       "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
@@ -4097,30 +4148,10 @@
       "trailer_key": "IyJzhtJEtoU"
     },
     {
-      "id": 8871,
-      "title": "How the Grinch Stole Christmas",
-      "year": "2000",
-      "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
-      "original_language": "en",
-      "poster_path": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
-      "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
-      "genre_names": [
-        "Family",
-        "Comedy",
-        "Fantasy"
-      ],
-      "popularity": 18.22,
-      "vote_average": 6.8,
-      "vote_count": 8501,
-      "physical_dates": {
-        "US": "2025-11-11"
-      },
-      "trailer_key": "UnyPPS1Z-Vs"
-    },
-    {
       "id": 1289936,
       "title": "Downton Abbey: The Grand Finale",
       "year": "2025",
+      "first_release_date": "2025-09-03",
       "overview": "When Mary finds herself at the center of a public scandal and the family faces financial strife, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future.",
       "original_language": "en",
       "poster_path": "/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
@@ -4141,6 +4172,7 @@
       "id": 1100998,
       "title": "SuperKlaus",
       "year": "2024",
+      "first_release_date": "2024-10-06",
       "overview": "Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas.",
       "original_language": "en",
       "poster_path": "/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg",
@@ -4160,30 +4192,53 @@
       "trailer_key": "SA1aHAc7bo0"
     },
     {
-      "id": 3536,
-      "title": "U-571",
-      "year": "2000",
-      "overview": "In the midst of World War II, the battle under the sea rages and the Nazis have the upper hand as the Allies are unable to crack their war codes. However, after a wrecked U-boat sends out an SOS signal, the Allies realise this is their chance to seize the 'enigma coding machine'.",
+      "id": 1031962,
+      "title": "What We Hide",
+      "year": "2025",
+      "first_release_date": "2025-02-08",
+      "overview": "After their mother suffers a fatal overdose, two sisters fear being separated by the foster system and decide to hide her body. But when their lie risks being exposed, they must decide how far they’re willing to go to keep their secret.",
       "original_language": "en",
-      "poster_path": "/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg",
-      "backdrop_path": "/2W1AA5qZXJrR7MJXUgqj49JsLYy.jpg",
+      "poster_path": "/cQDHU06FsBqNv0r3n3Il3q8jPxY.jpg",
+      "backdrop_path": "/fPSFcnG6onc8NGb246PWcASIlGz.jpg",
       "genre_names": [
-        "War",
-        "Action",
-        "Adventure"
+        "Drama",
+        "Thriller",
+        "Mystery"
       ],
-      "popularity": 6.45,
-      "vote_average": 6.6,
-      "vote_count": 1425,
+      "popularity": 4.14,
+      "vote_average": 6.4,
+      "vote_count": 41,
       "physical_dates": {
         "US": "2025-11-11"
       },
-      "trailer_key": "LvcbGleQjJ4"
+      "trailer_key": "RBeJRgyqA4k"
+    },
+    {
+      "id": 975225,
+      "title": "Spinal Tap II: The End Continues",
+      "year": "2025",
+      "first_release_date": "2025-09-09",
+      "overview": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
+      "original_language": "en",
+      "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+      "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
+      "genre_names": [
+        "Comedy",
+        "Music"
+      ],
+      "popularity": 3.75,
+      "vote_average": 6.1,
+      "vote_count": 102,
+      "physical_dates": {
+        "US": "2025-11-11"
+      },
+      "trailer_key": "1ryx-eRSwSs"
     },
     {
       "id": 911430,
       "title": "F1",
       "year": "2025",
+      "first_release_date": "2025-06-16",
       "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
       "original_language": "en",
       "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
@@ -4204,6 +4259,7 @@
       "id": 1328803,
       "title": "Prisoner of War",
       "year": "2025",
+      "first_release_date": "2025-09-19",
       "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
       "original_language": "en",
       "poster_path": "/uHNuUIdF35dRSLQQ5Ej0aOhmvB3.jpg",
@@ -4223,52 +4279,71 @@
       "trailer_key": "mKFL8CMoCVk"
     },
     {
-      "id": 776503,
-      "title": "CODA",
-      "year": "2021",
-      "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+      "id": 1751459,
+      "title": "Live At Lightspace, Leeds 11-09-25",
+      "year": "2025",
+      "first_release_date": "2025-11-09",
+      "overview": "An official bootleg of Shearling's 2025 European tour live at Lightspace, Leeds (September 11th), recorded by The Factory Roof (Annya McCabe).",
       "original_language": "en",
-      "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
-      "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+      "poster_path": "/6sa7Lqt6tLuRZs118a8rAiltanl.jpg",
+      "backdrop_path": null,
       "genre_names": [
-        "Drama",
-        "Music",
-        "Romance"
+        "Music"
       ],
-      "popularity": 13.18,
-      "vote_average": 7.9,
-      "vote_count": 2749,
+      "popularity": 2.84,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-11-09"
+      },
+      "trailer_key": null
+    },
+    {
+      "id": 1574349,
+      "title": "Harry Chapin - Cat’s in the Cradle: The Song That Changed Our Lives",
+      "year": "2025",
+      "first_release_date": "2025-11-04",
+      "overview": "The documentary \"Cat's In the Cradle: The Song that Changed Our Lives \" explores the legacy of Harry Chapin's iconic song, 50 years after its release. With insights from Billy Joel, Pat Benatar, Dee Snider, Judy Collins, and more, the film reflects on the song's enduring impact and universal themes of fatherhood, time, and the relationships that shape our lives.",
+      "original_language": "en",
+      "poster_path": "/ejMDTm7Flpsn3w8Rl7GrXf6bXSS.jpg",
+      "backdrop_path": "/rcYkirniQkH8imW0tQHEbVWVukX.jpg",
+      "genre_names": [
+        "Documentary",
+        "Music"
+      ],
+      "popularity": 1.7,
+      "vote_average": 0.0,
+      "vote_count": 0,
       "physical_dates": {
         "US": "2025-11-04"
       },
-      "trailer_key": "0pmfrE1YL4I"
+      "trailer_key": "L5whknVuyKQ"
     },
     {
-      "id": 13151,
-      "title": "Scooby-Doo on Zombie Island",
-      "year": "1998",
-      "overview": "After going their separate ways, Scooby-Doo, Shaggy, Velma, Daphne, and Fred reunite to investigate the ghost of Moonscar the pirate on a haunted bayou island, but it turns out the swashbuckler's spirit isn't the only creepy character on the island. The sleuths also meet up with cat creatures and zombies... and it looks like for the first time in their lives, these ghouls might actually be real.",
+      "id": 1265717,
+      "title": "Familiar Touch",
+      "year": "2024",
+      "first_release_date": "2024-09-03",
+      "overview": "An octogenarian woman transitions to life in assisted living as she contends with her conflicting relationship to herself and her caregivers amidst her shifting memory, age identity, and desires.",
       "original_language": "en",
-      "poster_path": "/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg",
-      "backdrop_path": "/jiWfL7ilvshB5i9wUhVRZZNJb5l.jpg",
+      "poster_path": "/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
+      "backdrop_path": "/sq2IW3AbdiH8J3JqHUIErAPRn86.jpg",
       "genre_names": [
-        "Animation",
-        "Mystery",
-        "Family",
-        "Horror"
+        "Drama"
       ],
-      "popularity": 15.25,
-      "vote_average": 7.7,
-      "vote_count": 891,
+      "popularity": 5.54,
+      "vote_average": 6.4,
+      "vote_count": 32,
       "physical_dates": {
-        "US": "2025-10-28"
+        "US": "2025-10-29"
       },
-      "trailer_key": "u4knjyqFAs4"
+      "trailer_key": "NY7qpocVWZE"
     },
     {
       "id": 1088166,
       "title": "Relay",
-      "year": "2025",
+      "year": "2024",
+      "first_release_date": "2024-08-09",
       "overview": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
       "original_language": "en",
       "poster_path": "/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
@@ -4287,31 +4362,10 @@
       "trailer_key": "Hhkoa2LWImA"
     },
     {
-      "id": 43855,
-      "title": "The Mad Miss Manton",
-      "year": "1938",
-      "overview": "When the murdered body discovered by beautiful, vivacious socialite Melsa Manton disappears, police and press label her a prankster until she and her group of friends prove them wrong.",
-      "original_language": "en",
-      "poster_path": "/mqxNe28kUMwgm0wC74zboq9uuXE.jpg",
-      "backdrop_path": "/dwJ09UVx0pM6RvorXajciSzqUck.jpg",
-      "genre_names": [
-        "Comedy",
-        "Crime",
-        "Mystery",
-        "Romance"
-      ],
-      "popularity": 4.75,
-      "vote_average": 6.4,
-      "vote_count": 45,
-      "physical_dates": {
-        "US": "2025-10-28"
-      },
-      "trailer_key": "LGI3Itbb7lk"
-    },
-    {
       "id": 1061474,
       "title": "Superman",
       "year": "2025",
+      "first_release_date": "2025-06-19",
       "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
       "original_language": "en",
       "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
@@ -4333,6 +4387,7 @@
       "id": 1151031,
       "title": "Bring Her Back",
       "year": "2025",
+      "first_release_date": "2025-05-15",
       "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
       "original_language": "en",
       "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
@@ -4352,6 +4407,7 @@
       "id": 1086260,
       "title": "The Astronaut",
       "year": "2025",
+      "first_release_date": "2025-03-07",
       "overview": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
       "original_language": "en",
       "poster_path": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
@@ -4370,30 +4426,10 @@
       "trailer_key": "cF3gdVOT6gQ"
     },
     {
-      "id": 59,
-      "title": "A History of Violence",
-      "year": "2005",
-      "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
-      "original_language": "en",
-      "poster_path": "/ptJKY9WGDUUL064ge3jW78zBX0t.jpg",
-      "backdrop_path": "/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
-      "genre_names": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "popularity": 9.51,
-      "vote_average": 7.2,
-      "vote_count": 3918,
-      "physical_dates": {
-        "GB": "2025-10-27"
-      },
-      "trailer_key": "jsEcDGKh56U"
-    },
-    {
       "id": 1159939,
       "title": "The Partisan",
-      "year": "2025",
+      "year": "2024",
+      "first_release_date": "2024-09-27",
       "overview": "A Polish spy working for the British during World War II is betrayed and compromised in Warsaw, leaving her no other choice but to descend into a dangerous world of treachery and deception in order to survive.",
       "original_language": "en",
       "poster_path": "/a6AMhzCY0vlnO9KSbawvGg7c2y.jpg",
@@ -4412,30 +4448,10 @@
       "trailer_key": "oIx0i0rqAAs"
     },
     {
-      "id": 27551,
-      "title": "The Barbarians",
-      "year": "1987",
-      "overview": "Orphaned brothers Kutchek and Gore are adopted by a tribe led by Canary the owner of a powerful jewel. The evil Kadar wants both Canary and the jewel. Attacking the tribe he kidnaps Canary but the stone eludes him. The brothers are taken to be trained as gladiators and years later have grown to be VERY big. They escape and set off on a quest to find the jewel and rescue Canary.",
-      "original_language": "en",
-      "poster_path": "/dYr9p8YOOw5gERVpg8cJHA5PsnY.jpg",
-      "backdrop_path": "/z2aPUvFw6Ge8huY9YYC60icToGV.jpg",
-      "genre_names": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ],
-      "popularity": 3.46,
-      "vote_average": 5.4,
-      "vote_count": 159,
-      "physical_dates": {
-        "GB": "2025-10-27"
-      },
-      "trailer_key": "QqLsIQ-6rGU"
-    },
-    {
       "id": 1503900,
       "title": "Die'ced: Reloaded",
       "year": "2025",
+      "first_release_date": "2025-08-08",
       "overview": "Benny escapes an asylum on Halloween, masked as a scarecrow and hungry for blood. In 1980s Seattle, the hunt is on - and no one is safe.",
       "original_language": "en",
       "poster_path": "/haFDZfpKszHq7DXvuQd5Zz7shQW.jpg",
@@ -4455,7 +4471,8 @@
     {
       "id": 1318933,
       "title": "Chain Reactions",
-      "year": "2025",
+      "year": "2024",
+      "first_release_date": "2024-08-29",
       "overview": "Fifty years after Tobe Hooper’s THE TEXAS CHAIN SAW MASSACRE shocked the world and forever changed the face of global cinema and popular culture, CHAIN REACTIONS charts the film’s profound impact and lasting influence on five great artists through early memories, sensory experiences, and childhood trauma.",
       "original_language": "en",
       "poster_path": "/ifPpCzrcdxYgszMtvEvs627NBBt.jpg",
@@ -4476,6 +4493,7 @@
       "id": 1477953,
       "title": "Jurassic Reborn",
       "year": "2025",
+      "first_release_date": "2025-06-24",
       "overview": "When cutting-edge research leads to the creation of living dinosaurs, a team of scientists on a secluded island must risk their lives and confront the now-growing creatures to prevent the animals from escaping and attacking the mainland.",
       "original_language": "en",
       "poster_path": "/epZChWdhnWKMjqYIFZIAVZkCogd.jpg",
@@ -4498,6 +4516,7 @@
       "id": 648878,
       "title": "Eddington",
       "year": "2025",
+      "first_release_date": "2025-05-16",
       "overview": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
       "original_language": "en",
       "poster_path": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
@@ -4519,6 +4538,7 @@
       "id": 936108,
       "title": "Smurfs",
       "year": "2025",
+      "first_release_date": "2025-06-28",
       "overview": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
       "original_language": "en",
       "poster_path": "/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
@@ -4537,51 +4557,10 @@
       "trailer_key": "_N7kNc4-ZUg"
     },
     {
-      "id": 36685,
-      "title": "The Rocky Horror Picture Show",
-      "year": "1975",
-      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-      "original_language": "en",
-      "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "backdrop_path": "/54aVU7tnvDKkX6ibzFg6ke03BV.jpg",
-      "genre_names": [
-        "Comedy",
-        "Science Fiction",
-        "Horror"
-      ],
-      "popularity": 11.85,
-      "vote_average": 7.4,
-      "vote_count": 3274,
-      "physical_dates": {
-        "GB": "2025-10-20"
-      },
-      "trailer_key": "4plqh6obZW4"
-    },
-    {
-      "id": 979660,
-      "title": "Freaky Tales",
-      "year": "2025",
-      "overview": "In 1987 Oakland, a mysterious force guides The Town's underdogs in four interconnected tales: teen punks defend their turf against Nazi skinheads, a rap duo battles for hip-hop immortality, a weary henchman gets a shot at redemption, and an NBA All-Star settles the score.",
-      "original_language": "en",
-      "poster_path": "/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
-      "backdrop_path": "/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
-      "genre_names": [
-        "Action",
-        "Crime",
-        "Comedy"
-      ],
-      "popularity": 11.12,
-      "vote_average": 6.3,
-      "vote_count": 274,
-      "physical_dates": {
-        "GB": "2025-10-20"
-      },
-      "trailer_key": "NSPLdUUAl6U"
-    },
-    {
       "id": 1103437,
       "title": "Please Don't Feed the Children",
-      "year": "2025",
+      "year": "2024",
+      "first_release_date": "2024-10-10",
       "overview": "After a viral outbreak ravaged the country’s adult population, a group of orphans heads south in search of a new life, only to find themselves at the mercy of a deranged woman harboring a dangerous secret.",
       "original_language": "en",
       "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
@@ -4602,6 +4581,7 @@
       "id": 1244531,
       "title": "Beast of War",
       "year": "2025",
+      "first_release_date": "2025-08-15",
       "overview": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark.",
       "original_language": "en",
       "poster_path": "/jYEiIKFaWg81O01nOuuX1tOHeTK.jpg",
