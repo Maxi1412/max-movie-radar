@@ -1,6 +1,6 @@
 ## TV Shows and episode alerts (v1.2)
 
-The PWA includes a separate **TV Shows** tab. It imports current/returning television shows plus selected favourites and Big Bang universe shows from TMDb on the same GitHub schedule as the films. TV episodes are dated by **original air date**, not DVD release or regional streaming-platform availability. Each series provides its latest two numbered seasons. Track individual episodes, mark all aired episodes watched, and follow a series for in-app alerts on newly aired episodes as the server feed changes.
+The PWA includes a separate **TV Shows** tab. It imports current/returning television shows plus selected favourites and Big Bang universe shows from TMDb on the same GitHub schedule as the films. TV episodes are dated by **original air date**, not DVD release or regional streaming-platform availability. Each series provides episode tracking from its latest two numbered seasons, capped at the 54 most recently dated episodes to keep the PWA responsive. Track individual episodes, mark all aired episodes watched, and follow a series for in-app alerts on newly aired episodes as the server feed changes.
 
 Alerts are **in-app only**. They appear the next time the site opens/refreshes; there is no background phone push notification service. Follows, watched history and alerts are stored only in localStorage on that device. Curated universe links are editorial, not a generic automated spin-off graph. The public catalog is a curated/trending subset rather than an exhaustive TMDb search.
 

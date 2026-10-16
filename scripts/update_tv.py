@@ -17,6 +17,7 @@ OUTPUT = pathlib.Path(__file__).resolve().parents[1] / 'data' / 'tv.json'
 REGION_LANGUAGES = {'en', 'es', 'fr', 'de', 'it', 'pt', 'nl', 'sv', 'no', 'da', 'pl', 'fi', 'ca'}
 MAX_SHOWS = 110
 MAX_SEARCH = 170
+MAX_EPISODES_PER_SHOW = 54  # Recent episode tracking; avoids giant daily-soap schedules.
 LOOKBACK_DAYS = 540
 LOOKAHEAD_DAYS = 90
 CURATED = (
@@ -84,9 +85,7 @@ def clean_episodes(season: dict, today: dt.date) -> list[dict]:
             'key': episode_key(e),
             'name': str(e.get('name') or f'Episode {en}'),
             'air_date': air.isoformat(),
-            'overview': str(e.get('overview') or '')[:600],
-            'still_path': e.get('still_path'),
-            'runtime': e.get('runtime'),
+            'overview': str(e.get('overview') or '')[:230],
         })
     return sorted(rows, key=lambda e: (e['season_number'], e['episode_number']))
 
@@ -109,6 +108,12 @@ def build_show(detail: dict, token: str, today: dt.date, franchise: str = '') ->
         if e['key'] not in seen:
             unique.append(e)
             seen.add(e['key'])
+    # Retain only recent episodes across the latest two seasons; weekly shows
+    # remain complete, while long-running daily programmes no longer balloon
+    # the catalog into several megabytes.
+    unique = sorted(unique, key=lambda e: (e['air_date'], e['season_number'], e['episode_number']),
+                    reverse=True)[:MAX_EPISODES_PER_SHOW]
+    unique.sort(key=lambda e: (e['season_number'], e['episode_number']))
     aired = [e for e in unique if e['air_date'] <= today.isoformat()]
     future = [e for e in unique if e['air_date'] > today.isoformat()]
     last_aired = max((e['air_date'] for e in aired), default='')
@@ -118,7 +123,7 @@ def build_show(detail: dict, token: str, today: dt.date, franchise: str = '') ->
         'original_name': str(detail.get('original_name') or ''),
         'first_air_date': str(detail.get('first_air_date') or '')[:10],
         'status': str(detail.get('status') or ''),
-        'overview': str(detail.get('overview') or '')[:1000],
+        'overview': str(detail.get('overview') or '')[:750],
         'poster_path': detail.get('poster_path'),
         'backdrop_path': detail.get('backdrop_path'),
         'original_language': detail.get('original_language'),
@@ -178,6 +183,10 @@ def build_catalog(token: str, today: dt.date | None = None) -> dict:
         if detail.get('original_language') not in REGION_LANGUAGES:
             continue
         if detail.get('adult') is True:
+            continue
+        if ident not in curated_ids and any(g.get('id') in (10763, 10764, 10767)
+                                           for g in detail.get('genres') or []):
+            # Skip news, reality and talk shows; prioritize narrative series.
             continue
         if ident not in curated_ids:
             date = str(detail.get('last_air_date') or '')[:10]

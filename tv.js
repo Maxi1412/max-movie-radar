@@ -162,7 +162,7 @@
       '<h2>'+esc(show.name)+'</h2><p>'+esc(show.overview||'No description supplied.')+'</p>'+
       '<div class="tv-detail-meta">'+esc(show.first_air_date.slice(0,4))+' · '+esc(show.status||'')+' · '+esc(show.networks.join(', '))+'</div>'+
       '<div class="tv-detail-actions"><button class="tv-btn tv-primary" data-follow="'+show.id+'">'+(r?.following?'♥ Following':'♡ Follow series')+'</button>'+
-      '<button class="tv-btn" id="tv-mark-aired">✓ Mark all aired episodes watched</button>'+
+      '<button class="tv-btn" id="tv-mark-aired">✓ Mark listed aired episodes watched</button>'+
       '<a class="tv-btn" target="_blank" rel="noopener noreferrer" href="https://www.themoviedb.org/tv/'+show.id+'">View TMDb ↗</a></div></div></div>'+
       (connections.length?'<div class="tv-relatives"><b>Big Bang universe · Related series</b><div>'+connections.map(s=>'<button class="tv-link" data-related="'+s.id+'">'+esc(s.name)+'</button>').join('')+'</div></div>':'')+
       '<div class="tv-episode-header"><h3>Episode tracker</h3><label>Season <select id="tv-season">'+options.map(n=>'<option value="'+n+'" '+(n===selected?'selected':'')+'>Season '+n+'</option>').join('')+'</select></label></div>'+
