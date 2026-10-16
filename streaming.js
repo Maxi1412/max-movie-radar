@@ -40,7 +40,7 @@
   function providerList(x){return state.region==='ALL'
     ? Object.values(x.providers||{}).flat()
     : x.providers?.[state.region]||[]}
-  function matchingProvider(x){return state.provider==='all'||providerList(x).some(p=>p.id===Number(state.provider))}
+  function matchingProvider(x){return state.provider==='all'||providerList(x).some(p=>p.name.toLocaleLowerCase()===state.provider)}
   function currentItems(){
     const search=state.q.trim().toLocaleLowerCase();
     const incoming=state.mode==='saved'
@@ -60,7 +60,8 @@
       if(state.region!=='ALL'&&!(x.providers?.[state.region]||[]).length)continue;
       if(state.media!=='all'&&state.media!==x.media_type)continue;
       for(const p of providerList(x)){
-        const row=count.get(p.id)||{id:p.id,name:p.name,n:0};row.n++;count.set(p.id,row);
+        const label=p.name.toLocaleLowerCase();
+        const row=count.get(label)||{value:label,name:p.name,n:0};row.n++;count.set(label,row);
       }
     }
     return [...count.values()].sort((a,b)=>b.n-a.n||a.name.localeCompare(b.name));
@@ -69,8 +70,8 @@
     const el=$('stream-provider'), old=state.provider;
     const services=usedServices();
     el.innerHTML='<option value="all">All streaming platforms</option>'+
-      services.map(p=>'<option value="'+p.id+'">'+esc(p.name)+' ('+p.n+')</option>').join('');
-    if(old!=='all'&&!services.some(s=>String(s.id)===old))state.provider='all';
+      services.map(p=>'<option value="'+esc(p.value)+'">'+esc(p.name)+' ('+p.n+')</option>').join('');
+    if(old!=='all'&&!services.some(s=>s.value===old))state.provider='all';
     el.value=state.provider;
   }
   function providerNames(x){
