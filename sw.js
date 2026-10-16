@@ -1,5 +1,5 @@
 /* Cache the app shell, but always prefer the network for release data. */
-const VERSION='maxradar-shell-v1';
+const VERSION='maxradar-shell-v2';
 const SHELL=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('maxradar-')&&key!==VERSION).map(key=>caches.delete(key)))),self.clients.claim()]));});

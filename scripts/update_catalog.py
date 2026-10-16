@@ -25,6 +25,7 @@ API = 'https://api.themoviedb.org/3'
 REGIONS = ('US', 'GB', 'ES')
 LANGUAGES = {'en', 'es', 'fr', 'de', 'it', 'pt', 'nl', 'sv', 'no', 'da', 'pl', 'fi', 'ca'}
 LOOKBACK_DAYS = 365
+MAX_PREMIERE_AGE_DAYS = 900  # Reject classic-film reissues; original movie must be recent.
 DISCOVER_PAGES_PER_REGION = 7
 MAX_DETAILS = 300
 OUTPUT = pathlib.Path(__file__).resolve().parents[1] / 'data' / 'releases.json'
@@ -57,6 +58,29 @@ def fetch_json(path: str, token: str, **params: Any) -> dict:
                 raise
             time.sleep(min(30, 2 ** (attempt + 1)))
     raise RuntimeError('TMDb retry limit exceeded')
+
+
+def parse_date(value: Any) -> dt.date | None:
+    try:
+        return dt.date.fromisoformat(str(value or '')[:10])
+    except ValueError:
+        return None
+
+
+def first_film_release(details: dict) -> dt.date | None:
+    """Original movie premiere, NOT a 2026 physical reissue of an older film.
+
+    TMDb primary release_date is combined with earliest nonphysical release
+    worldwide; a wrongly updated primary date cannot mask an older theatrical
+    record. If no evidence exists, do not advertise the film as new.
+    """
+    dates = [parse_date(details.get('release_date'))]
+    for region in (details.get('release_dates') or {}).get('results') or []:
+        for entry in region.get('release_dates') or []:
+            if entry.get('type') in (1, 2, 3, 4, 6):
+                dates.append(parse_date(entry.get('release_date')))
+    valid = [d for d in dates if d is not None]
+    return min(valid) if valid else None
 
 
 def extract_physical_dates(details: dict, earliest: str, today: str) -> dict[str, str]:
@@ -92,6 +116,7 @@ def pick_trailer(details: dict) -> str | None:
 def create_catalog(token: str, today: dt.date | None = None) -> dict:
     today = today or dt.datetime.now(dt.timezone.utc).date()
     earliest = (today - dt.timedelta(days=LOOKBACK_DAYS)).isoformat()
+    earliest_premiere = today - dt.timedelta(days=MAX_PREMIERE_AGE_DAYS)
     newest = today.isoformat()
 
     genre_data = fetch_json('/genre/movie/list', token, language='en-US')
@@ -104,6 +129,7 @@ def create_catalog(token: str, today: dt.date | None = None) -> dict:
                 'region': region,
                 'with_release_type': 5,
                 'release_date.gte': earliest,
+                'primary_release_date.gte': earliest_premiere.isoformat(),
                 'release_date.lte': newest,
                 'include_adult': 'false',
                 'sort_by': 'popularity.desc',
@@ -134,17 +160,25 @@ def create_catalog(token: str, today: dt.date | None = None) -> dict:
     for number, entry in enumerate(ranked, 1):
         base = entry['movie']
         detail = fetch_json(f'/movie/{base["id"]}', token, language='en-US', append_to_response='release_dates,videos')
+        first_release = first_film_release(detail)
+        # Release-type 5 may be a new Blu-ray edition of a 1999 film.
+        # Only include movies whose FIRST premiere is within the last 900 days.
+        if not first_release or first_release < earliest_premiere or first_release > today:
+            continue
         dates = extract_physical_dates(detail, earliest, newest)
+        # Invalid source metadata should not put a disc release before its film premiere.
+        dates = {region: day for region, day in dates.items()
+                 if dt.date.fromisoformat(day) >= first_release - dt.timedelta(days=14)}
         if not dates:
             continue
         title = detail.get('title') or base.get('title') or ''
         if not title:
             continue
-        premiered = str(detail.get('release_date') or base.get('release_date') or '')[:4]
         movies.append({
             'id': base['id'],
             'title': title,
-            'year': premiered if premiered.isdigit() else '',
+            'year': str(first_release.year),
+            'first_release_date': first_release.isoformat(),
             'overview': detail.get('overview') or base.get('overview') or '',
             'original_language': detail.get('original_language') or base.get('original_language'),
             'poster_path': detail.get('poster_path') or base.get('poster_path'),
@@ -164,12 +198,12 @@ def create_catalog(token: str, today: dt.date | None = None) -> dict:
     if not movies:
         raise ValueError('TMDb returned no validated physical releases; refusing to replace existing catalog')
     return {
-        'schema_version': 1,
+        'schema_version': 2,
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds').replace('+00:00', 'Z'),
         'status': 'ready',
         'source': 'TMDb',
-        'note': 'Type 5 = physical; DVD format is not independently verified. Digital and theatrical dates are excluded.',
-        'coverage': {'countries': list(REGIONS), 'release_type': 5, 'formats': 'physical_media_unverified_dvd', 'lookback_days': LOOKBACK_DAYS},
+        'note': 'Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.',
+        'coverage': {'countries': list(REGIONS), 'release_type': 5, 'formats': 'dvd_bluray_uhd_unverified', 'lookback_days': LOOKBACK_DAYS, 'maximum_film_age_days': MAX_PREMIERE_AGE_DAYS},
         'movies': movies,
     }
 
