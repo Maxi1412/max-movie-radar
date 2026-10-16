@@ -31,6 +31,7 @@ jobs:
         run: |
           node --check app.js
           node --check tv.js
+          node --check streaming.js
           node --check sw.js
       - name: Refresh movies and TV episodes from TMDb
         env:
@@ -38,16 +39,17 @@ jobs:
         run: |
           python scripts/update_catalog.py
           python scripts/update_tv.py
+          python scripts/update_streaming.py
       - name: Publish updated catalog to repository
         run: |
-          if git diff --quiet -- data/releases.json data/tv.json; then
+          if git diff --quiet -- data/releases.json data/tv.json data/streaming.json; then
             echo "Catalog unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/releases.json data/tv.json
-          git commit -m "Refresh movie releases and TV episode listings"
+          git add data/releases.json data/tv.json data/streaming.json
+          git commit -m "Refresh movies, TV episodes and streaming availability"
           git push
       - name: Configure Pages
         uses: actions/configure-pages@v5

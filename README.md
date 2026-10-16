@@ -1,3 +1,13 @@
+## Streaming discovery (version 1.3)
+
+New **Streaming** tab covers current TMDb/JustWatch-reported availability in the **United States (US), United Kingdom (GB), Spain (ES), and Australia (AU)**. Australia supports regional Stan listings; Hulu is mainly US. Providers are read dynamically from TMDb and filtered by returned service IDs rather than hardcoded. Netflix, Prime Video, Disney+, Hulu, Stan, Apple TV, and many other provider listings can be selected where available. Provider data is supplied by **JustWatch** via **TMDb**, and requires attribution.
+
+The separate tab supports Movies / TV Series, regional and provider filters, search, Likes, Streaming Saved and provider-change alerts for saved titles. Alerts mean **newly detected by the local catalog**, not verified first-service-arrival dates. Streaming subscriptions, free and ad-supported providers are included; rental/purchase-only services are excluded. Availability is only a best-effort country-dependent snapshot.
+
+Saved and liked streaming titles are stored on this device in browser localStorage, separately from DVD movie watchlists and TV episode tracking, avoiding incorrectly labelling a streaming-only title as physically released. The app refreshes its published static streaming feed when opened; GitHub Actions regenerates that feed twice daily. TMDb **does not provide trustworthy exact service debut dates** or guarantee every episode is available in a particular region.
+
+Streaming files: `streaming.js`, `streaming.css`, `scripts/update_streaming.py`, `scripts/test_streaming.py`, `data/streaming.json`. Existing private TMDb secret is reused.
+
 ## TV Shows and episode alerts (v1.2)
 
 The PWA includes a separate **TV Shows** tab. It imports current/returning television shows plus selected favourites and Big Bang universe shows from TMDb on the same GitHub schedule as the films. TV episodes are dated by **original air date**, not DVD release or regional streaming-platform availability. Each series provides episode tracking from its latest two numbered seasons, capped at the 54 most recently dated episodes to keep the PWA responsive. Track individual episodes, mark all aired episodes watched, and follow a series for in-app alerts on newly aired episodes as the server feed changes.
