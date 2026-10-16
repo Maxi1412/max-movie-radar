@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T14:08:57Z",
+  "generated_at": "2026-10-16T16:25:57Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -222,7 +222,7 @@
       ],
       "popularity": 80.72,
       "vote_average": 6.3,
-      "vote_count": 2030,
+      "vote_count": 2032,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -611,7 +611,7 @@
       ],
       "popularity": 132.09,
       "vote_average": 8.2,
-      "vote_count": 6135,
+      "vote_count": 6141,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -778,7 +778,7 @@
       ],
       "popularity": 107.18,
       "vote_average": 7.4,
-      "vote_count": 3673,
+      "vote_count": 3676,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1145,7 +1145,7 @@
       ],
       "popularity": 41.67,
       "vote_average": 6.9,
-      "vote_count": 1955,
+      "vote_count": 1956,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1534,7 +1534,7 @@
       ],
       "popularity": 58.35,
       "vote_average": 8.2,
-      "vote_count": 3824,
+      "vote_count": 3825,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1746,7 +1746,7 @@
       ],
       "popularity": 63.23,
       "vote_average": 8.1,
-      "vote_count": 2437,
+      "vote_count": 2439,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -1788,7 +1788,7 @@
       ],
       "popularity": 108.04,
       "vote_average": 7.7,
-      "vote_count": 4514,
+      "vote_count": 4517,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2570,7 +2570,7 @@
       ],
       "popularity": 20.76,
       "vote_average": 7.4,
-      "vote_count": 472,
+      "vote_count": 473,
       "physical_dates": {
         "GB": "2026-03-30"
       },
@@ -2829,7 +2829,7 @@
       ],
       "popularity": 39.04,
       "vote_average": 7.7,
-      "vote_count": 1687,
+      "vote_count": 1688,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -4074,7 +4074,7 @@
       ],
       "popularity": 14.32,
       "vote_average": 6.3,
-      "vote_count": 1659,
+      "vote_count": 1660,
       "physical_dates": {
         "GB": "2025-11-17"
       },
@@ -4249,7 +4249,7 @@
       ],
       "popularity": 82.19,
       "vote_average": 7.8,
-      "vote_count": 4820,
+      "vote_count": 4822,
       "physical_dates": {
         "GB": "2025-11-10"
       },
