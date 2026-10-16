@@ -1,6 +1,16 @@
+## TV Shows and episode alerts (v1.2)
+
+The PWA includes a separate **TV Shows** tab. It imports current/returning television shows plus selected favourites and Big Bang universe shows from TMDb on the same GitHub schedule as the films. TV episodes are dated by **original air date**, not DVD release or regional streaming-platform availability. Each series provides its latest two numbered seasons. Track individual episodes, mark all aired episodes watched, and follow a series for in-app alerts on newly aired episodes as the server feed changes.
+
+Alerts are **in-app only**. They appear the next time the site opens/refreshes; there is no background phone push notification service. Follows, watched history and alerts are stored only in localStorage on that device. Curated universe links are editorial, not a generic automated spin-off graph. The public catalog is a curated/trending subset rather than an exhaustive TMDb search.
+
+### Poster matching QA (v1.2)
+
+Movie titles and artwork originate from one TMDb movie ID. The fallback title graphic is displayed only if there is no valid poster or the poster image fails to load, avoiding a previously overlaid title/fallback obscuring the actual poster. TMDb poster and translation contributions themselves cannot be guaranteed correct without title-by-title human review.
+
 # MAX Movie Radar — GitHub Pages PWA
 
-A mobile-friendly movie dashboard tracking **recent original movies newly available on physical home media (DVD, Blu-ray, 4K UHD)** in **USA, United Kingdom and Spain**, with TMDb artwork, ratings, trailers, genres, search, date and market filters, watchlist, collection tracking and local backup import/export.
+A mobile-friendly movie and TV-series dashboard tracking **recent original movies newly available on physical home media (DVD, Blu-ray, 4K UHD)** in **USA, United Kingdom and Spain**, with TMDb artwork, ratings, trailers, genres, search, date and market filters, watchlist, collection tracking and local backup import/export.
 
 ## Important precision: physical is not DVD-only
 
@@ -39,7 +49,10 @@ GitHub docs: https://docs.github.com/en/pages/getting-started-with-github-pages/
 
 - `index.html`, `styles.css`, `app.js`: responsive frontend.
 - `sw.js`, `manifest.webmanifest`, `assets/`: installable PWA and offline shell.
-- `.github/workflows/refresh.yml`: scheduled/manual updater plus GitHub Pages deployment.
+- `.github/workflows/refresh.yml`: scheduled/manual movie and TV updater plus GitHub Pages deployment.
+- `tv.js`, `tv.css`: separate TV dashboard, following and episode tracker.
+- `scripts/update_tv.py`, `scripts/test_tv.py`: TMDb series/episode updates and QA tests.
+- `data/tv.json`: scheduled and aired TV episodes (original air dates).
 - `scripts/update_catalog.py`: verified physical release catalog builder.
 - `scripts/test_catalog.py`: unit tests for physical release filtering, classic-film reissue exclusion, original premiere detection, and future-date rejection.
 - `data/releases.json`: published catalog, initially blank until the API token is configured.

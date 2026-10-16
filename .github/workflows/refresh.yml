@@ -27,20 +27,22 @@ jobs:
           python-version: '3.13'
       - name: Validate catalog updater
         run: python -m unittest discover -s scripts -p 'test_*.py' -v
-      - name: Fetch physical release dates and movie artwork
+      - name: Refresh movies and TV episodes from TMDb
         env:
           TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
-        run: python scripts/update_catalog.py
+        run: |
+          python scripts/update_catalog.py
+          python scripts/update_tv.py
       - name: Publish updated catalog to repository
         run: |
-          if git diff --quiet -- data/releases.json; then
+          if git diff --quiet -- data/releases.json data/tv.json; then
             echo "Catalog unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/releases.json
-          git commit -m "Refresh physical movie release catalog"
+          git add data/releases.json data/tv.json
+          git commit -m "Refresh movie releases and TV episode listings"
           git push
       - name: Configure Pages
         uses: actions/configure-pages@v5

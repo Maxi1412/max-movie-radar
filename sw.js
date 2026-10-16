@@ -1,6 +1,6 @@
 /* Cache the app shell, but always prefer the network for release data. */
-const VERSION='maxradar-shell-v2';
-const SHELL=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
+const VERSION='maxradar-shell-v3-tv';
+const SHELL=['./','./index.html','./styles.css','./app.js','./tv.css','./tv.js','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('maxradar-')&&key!==VERSION).map(key=>caches.delete(key)))),self.clients.claim()]));});
 self.addEventListener('fetch',event=>{const req=event.request;if(req.method!=='GET'||new URL(req.url).origin!==self.location.origin)return;const url=new URL(req.url);if(url.pathname.endsWith('/data/releases.json')){event.respondWith(fetch(req).then(async response=>{if(response.ok){const cache=await caches.open(VERSION);await cache.put('./data/releases.json',response.clone());}return response;}).catch(async()=>await(await caches.open(VERSION)).match('./data/releases.json')||Response.error()));return;}event.respondWith(fetch(req).then(response=>{if(response.ok&&SHELL.some(path=>new URL(path,self.registration.scope).pathname===url.pathname)){const copy=response.clone();event.waitUntil(caches.open(VERSION).then(c=>c.put(req,copy)));}return response;}).catch(()=>caches.match(req).then(hit=>hit||caches.match('./index.html'))));});

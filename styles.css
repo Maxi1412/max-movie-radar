@@ -16,3 +16,7 @@ dialog{color:var(--text);border:1px solid #3a4254;background:#101624;border-radi
 /* Keep movie artwork above its visible fallback, never behind it. */
 .poster-frame>img{position:absolute;inset:0;z-index:1}
 .poster-frame>.poster-flag,.poster-frame>.poster-rating{z-index:2}
+
+/* Poster QA: never draw placeholder title on top of a successful matching movie poster. */
+.poster-frame .poster-fallback{display:none}
+.poster-frame:not(:has(img)) .poster-fallback,.poster-frame:has(img[style*="display: none"]) .poster-fallback{display:flex}
