@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "source": "TMDb",
+  "status": "needs_setup",
+  "note": "Connect a TMDB_READ_ACCESS_TOKEN GitHub Actions secret, then run the Refresh movie catalog workflow. No fake release dates are shown.",
+  "coverage": {"countries": ["US", "GB", "ES"], "release_type": 5, "formats": "physical_media_unverified_dvd"},
+  "movies": []
+}
