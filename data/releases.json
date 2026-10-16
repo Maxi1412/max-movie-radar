@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T14:03:04Z",
+  "generated_at": "2026-10-16T14:08:57Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -3666,7 +3666,7 @@
       ],
       "popularity": 41.5,
       "vote_average": 6.8,
-      "vote_count": 2043,
+      "vote_count": 2044,
       "physical_dates": {
         "US": "2025-12-23"
       },
