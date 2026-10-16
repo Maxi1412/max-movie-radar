@@ -32,6 +32,7 @@ jobs:
           node --check app.js
           node --check tv.js
           node --check streaming.js
+          node --check library.js
           node --check sw.js
       - name: Refresh movies and TV episodes from TMDb
         env:

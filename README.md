@@ -1,3 +1,11 @@
+## Media Library UI and future NAS integration (v1.4)
+
+An additional top-level **Media Library** tab provides cinematic cover browsing, Movies and TV Show sub-collections, filters, genres, movie and series detail views, TV seasons/episodes and watched controls. It reuses existing saved movie / tracked TV flags from the installed app **without assuming that those files are on the NAS**. The On NAS badge is reserved for private indexed media. The new interface retains the established premium styling and stores viewing preferences/progress locally.
+
+The playback chooser defaults to **VLC on Android**, allows other installed apps and in-browser HTML5 playback, and can remember the device's preferred player. **Playback is not live yet**; Play requires a private NAS adapter and a short-lived authenticated stream URL. Chrome Android intent links, app choices and codec compatibility are subject to device tests. External VLC progress cannot be read automatically from a plain browser PWA. A local sanitized index JSON can be previewed, but it is not automatically synchronized to the Synology.
+
+**Video Station/DS video is a UI reference only, NOT a required media engine.** Codex must first inspect the already-existing movie and TV indexes on Synology and extend/reuse them before scanning or installing anything new. Future integration is defined in [NAS Media Library handoff](docs/NAS_MEDIA_LIBRARY_HANDOFF.md) and [GitHub integration checklist](https://github.com/Maxi1412/max-movie-radar/issues/1). No NAS addresses, logins, raw files, or private inventory should ever enter the public repository.
+
 ## Streaming discovery (version 1.3)
 
 New **Streaming** tab covers current TMDb/JustWatch-reported availability in the **United States (US), United Kingdom (GB), Spain (ES), and Australia (AU)**. Australia supports regional Stan listings; Hulu is mainly US. Providers are read dynamically from TMDb and filtered by returned service IDs rather than hardcoded. Netflix, Prime Video, Disney+, Hulu, Stan, Apple TV, and many other provider listings can be selected where available. Provider data is supplied by **JustWatch** via **TMDb**, and requires attribution.

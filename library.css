@@ -1,0 +1,109 @@
+/* Private Media Library — deep navy and cinematic gold, compatible with existing MAX styles. */
+body.library-mode main>:not(#lib-section){display:none!important}
+body.library-mode #lib-section{display:block!important}
+.lib-section{padding:0 0 55px}
+.lib-section button,.lib-dialog button{cursor:pointer}
+.lib-eyebrow{font:800 10px/1.4 'Outfit',sans-serif;letter-spacing:2px;text-transform:uppercase;color:var(--gold,#edc679)}
+.lib-intro{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin:39px 0 22px}
+.lib-intro h1{font:800 clamp(38px,5vw,66px)/1.05 'Outfit',sans-serif;letter-spacing:-2.1px;margin:12px 0}
+.lib-intro h1 span{color:var(--gold)}
+.lib-intro p{color:#9eacc4;line-height:1.65;font-size:13px;max-width:720px}
+.lib-intro-actions{padding:0 0 7px}
+.lib-button{padding:12px 15px;border:1px solid #4a5368;border-radius:9px;background:#1e2738;color:#f4f6fb;font-weight:800;font-size:12px;white-space:nowrap;display:inline-flex;justify-content:center;align-items:center;gap:7px;text-decoration:none}
+.lib-button:hover{border-color:#dabb83;background:#2c3447}
+.lib-primary{background:var(--gold);color:#101421;border-color:var(--gold)}
+.lib-primary:hover{background:#f7d89b;color:#101421}
+.lib-light{color:#d7b36b}
+.lib-feature{position:relative;overflow:hidden;border:1px solid #37455b;border-radius:19px;min-height:345px;background-position:center 36%;background-size:cover;background-color:#1b2638;box-shadow:0 24px 70px #0006}
+.lib-feature:before{position:absolute;content:'';inset:0;background:radial-gradient(ellipse at 80% 45%,#213e5c88,transparent 55%),linear-gradient(90deg,#0c1420 8%,#101827e8 35%,#12182660 76%,#14172440)}
+.lib-feature-copy{position:relative;z-index:1;padding:50px 45px;max-width:720px}
+.lib-feature-copy h2{font:800 clamp(28px,3.9vw,50px)/1.12 'Outfit',sans-serif;letter-spacing:-1.8px;margin:23px 0 14px;text-wrap:balance}
+.lib-feature-copy p{line-height:1.6;color:#c3ccdc;max-width:490px;font-size:13px;margin:0 0 26px}
+.lib-stat-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:18px 0}
+.lib-stat-strip>div{border:1px solid #303a4c;border-radius:12px;background:#171f2e;padding:15px 16px;display:flex;flex-direction:column;gap:4px}
+.lib-stat-strip strong{font:800 27px 'Outfit',sans-serif;color:#e2bf80}
+.lib-stat-strip small{font-size:10px;color:#9daec5}
+.lib-connection{background:#1b2334;border:1px solid #3b4658;border-radius:10px;padding:12px 15px;display:flex;align-items:center;gap:9px;color:#a9b9cd;font-size:11px;margin:16px 0 29px}
+.lib-dot{height:7px;width:7px;border-radius:50%;background:#d2a765}
+.lib-connection button{border:0;background:transparent;color:#e1c385;text-decoration:underline;cursor:pointer;font-size:11px;margin-left:auto}
+.lib-rail{margin:31px 0 26px}
+.lib-rail h3{font:800 19px 'Outfit',sans-serif;margin:0 0 13px}
+.lib-rail-track{display:flex;align-items:start;gap:16px;overflow-x:auto;scroll-snap-type:x proximity;padding:0 0 13px;scrollbar-color:#64738c transparent}
+.lib-rail .lib-card{flex:0 0 160px;scroll-snap-align:start}
+.lib-card{min-width:0;cursor:pointer;outline-offset:4px}
+.lib-poster{position:relative;overflow:hidden;aspect-ratio:2/3;border-radius:12px;border:1px solid #38445a;background:linear-gradient(130deg,#2e3850,#172135 70%,#51404c);box-shadow:0 12px 27px #0006;transition:transform .2s,border-color .2s}
+.lib-card:hover .lib-poster{transform:translateY(-5px);border-color:#ddbb76}
+.lib-poster img{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1}
+.lib-fallback{display:flex;align-items:center;justify-content:center;text-align:center;position:absolute;inset:0;padding:13px;font:800 18px/1.25 'Outfit',sans-serif;color:#e8cf9c;word-break:break-word}
+.lib-kind{position:absolute;z-index:2;top:9px;left:9px;border:1px solid #ffffff75;border-radius:6px;background:#0c1327e6;color:#faf4e9;letter-spacing:.5px;padding:4px 6px;font-size:9px;font-weight:800}
+.lib-progress{position:absolute;z-index:3;bottom:0;left:0;right:0;height:5px;background:#121b2d}
+.lib-progress i{display:block;height:100%;background:#e5bc70}
+.lib-card>strong{font:800 13px/1.35 'Outfit',sans-serif;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:9px 2px 4px}
+.lib-meta{color:#98a7bd;font-size:10px;margin:0 2px}
+.lib-badges{display:flex;gap:5px;flex-wrap:wrap;margin:7px 2px}
+.lib-status{border:1px solid #56637a;color:#b8c8da;border-radius:5px;font-size:9px;padding:3px 5px;line-height:1.15}
+.lib-status.lib-on-nas{color:#a8e1cc;border-color:#377b68;background:#203f39}
+.lib-status.lib-watched{color:#e4ca9a;border-color:#8b7651}
+.lib-browser{margin-top:34px;padding-top:24px;border-top:1px solid #333b50}
+.lib-headline h2{font:800 25px 'Outfit',sans-serif;letter-spacing:-.6px;margin:7px 0 23px}
+.lib-headline h2 small{font-size:12px;color:#e1bd7c;margin-left:6px}
+.lib-toolbar{background:#141b2b;border:1px solid #303b52;border-radius:12px;padding:14px;display:flex;align-items:end;gap:10px;flex-wrap:wrap;margin:0 0 21px}
+.lib-filters{display:flex;gap:5px;flex-wrap:wrap;flex:1 1 100%}
+.lib-filters button{background:transparent;border:1px solid #424d65;border-radius:7px;color:#aab8d0;padding:9px 12px;font-size:11px;font-weight:800}
+.lib-filters button.active,.lib-filters button:hover{background:#e1bc7a;border-color:#e1bc7a;color:#111827}
+.lib-toolbar label{display:flex;flex-direction:column;gap:6px;color:#aebbd0;font-size:10px;flex:1;min-width:165px}
+.lib-toolbar select,.lib-toolbar input,.lib-player-choice select{background:#0f1726;border:1px solid #435069;color:#f3f5fa;padding:10px 11px;border-radius:8px;min-height:41px;font-size:12px;width:100%}
+.lib-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:24px 17px}
+.lib-empty{color:#b7c3d7;border:1px dashed #48536a;background:#181f2e;border-radius:14px;text-align:center;padding:50px 24px;line-height:1.7;font-size:13px}
+.lib-bottom-note{font-size:11px;color:#94a5be;margin:34px 0 0;line-height:1.7}
+.lib-dialog{width:min(870px,calc(100% - 25px));max-height:89vh;overflow:auto;background:#111a2a;color:#f4f5f9;border:1px solid #3d485c;border-radius:18px;box-shadow:0 28px 100px #000c;padding:30px}
+.lib-dialog::backdrop{background:#020712cc;backdrop-filter:blur(5px)}
+.lib-close{position:sticky;top:-15px;float:right;z-index:6;margin:-14px -16px 4px 14px;width:35px;height:35px;border-radius:50%;background:#1b2a42;color:white;border:1px solid #67728a;font-size:23px;display:grid;place-items:center}
+.lib-detail-head{display:flex;gap:23px;align-items:start;margin:5px 0 23px}
+.lib-detail-head>img{width:165px;aspect-ratio:2/3;object-fit:cover;border-radius:10px;border:1px solid #59677a;flex-shrink:0}
+.lib-detail-head h2{font:800 clamp(26px,4vw,42px)/1.1 'Outfit',sans-serif;margin:8px 0 9px;letter-spacing:-1px}
+.lib-detail-meta{font-size:12px;color:#e2c28b;line-height:1.6}
+.lib-description{color:#b4c1d3;font-size:13px;line-height:1.65}
+.lib-detail-buttons{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0}
+.lib-seasons{border-top:1px solid #3a4558;margin-top:20px;padding-top:15px}
+.lib-seasons-head{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.lib-seasons-head h3{font:800 19px 'Outfit',sans-serif}
+.lib-seasons select{margin-left:7px;background:#1e293b;color:#f6f7fa;border:1px solid #54627c;border-radius:7px;padding:8px}
+.lib-episode{border-top:1px solid #303b50;display:flex;align-items:center;gap:13px;padding:14px 0}
+.lib-episode>b{font-size:11px;color:#e1bd7a;min-width:59px}
+.lib-episode>div{min-width:0;flex:1}
+.lib-episode strong{font-size:12px;display:block;margin-bottom:6px}
+.lib-episode small{font-size:10px;color:#9eafc7;display:block}
+.lib-action{background:#27344a;border:1px solid #52617a;border-radius:7px;color:#f2f4f9;padding:9px 10px;font-size:10px;font-weight:750;white-space:nowrap}
+.lib-honesty,.lib-muted{color:#a9b8d0;font-size:12px;line-height:1.7}
+.lib-honesty{border-top:1px solid #374257;padding-top:15px}
+.lib-player-choice{max-width:580px}
+.lib-player-choice h2{font:800 26px 'Outfit',sans-serif;margin:9px 0}
+.lib-player-choice>p{color:#b9c7db;font-size:12px;line-height:1.7}
+.lib-player-choice label{display:flex;flex-direction:column;gap:8px;color:#d7e0eb;font-size:12px;margin:18px 0}
+.lib-player-choice .lib-check{flex-direction:row;align-items:center;gap:10px}
+.lib-check input{width:16px;height:16px}
+.lib-video-dialog{width:min(1040px,calc(100% - 24px))}
+.lib-video-dialog h2{font-size:18px;margin:0 0 15px}
+.lib-video-dialog video{display:block;width:100%;max-height:65vh;background:black}
+.lib-toast{position:fixed;bottom:25px;left:50%;z-index:90;transform:translateX(-50%);background:#223149;border:1px solid #d8b777;color:#fff2da;border-radius:10px;padding:12px 16px;max-width:min(90vw,520px);box-shadow:0 16px 50px #0009;font-size:12px}
+body.library-mode .nav{min-width:0}
+@media(max-width:1180px){.lib-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media(max-width:900px){.lib-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.lib-intro{align-items:start;flex-direction:column}}
+@media(max-width:650px){
+ .lib-section{padding-bottom:35px}.lib-intro{margin:25px 0 18px}.lib-intro h1{font-size:40px;letter-spacing:-1.5px}
+ .lib-feature{min-height:295px;border-radius:15px}.lib-feature-copy{padding:37px 22px}
+ .lib-feature-copy h2{font-size:30px;letter-spacing:-1px}.lib-feature-copy p{font-size:12px}
+ .lib-stat-strip{grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}
+ .lib-stat-strip>div{padding:11px 7px;min-width:0}.lib-stat-strip strong{font-size:21px}.lib-stat-strip small{font-size:9px}
+ .lib-rail h3{font-size:18px}.lib-rail .lib-card{flex-basis:125px}
+ .lib-connection{flex-wrap:wrap}.lib-connection button{margin-left:0}
+ .lib-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:19px 12px}
+ .lib-filters{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.lib-filters button{flex-shrink:0}
+ .lib-toolbar label{min-width:130px}.lib-dialog{padding:19px}
+ .lib-detail-head{display:block}.lib-detail-head>img{width:102px;float:left;margin:0 15px 13px 0}
+ .lib-detail-buttons{clear:both}.lib-episode{gap:7px}.lib-episode>b{min-width:48px;font-size:9px}
+ .lib-episode small{font-size:9px}.lib-action{font-size:9px;padding:7px 8px}
+}
+@media(max-width:950px){.header .nav{max-width:100%;overflow-x:auto;gap:12px;scrollbar-width:none}.header .nav::-webkit-scrollbar{display:none}.header .nav-item{flex-shrink:0}}
+@media(max-width:620px){.header .nav{justify-content:flex-start;gap:12px;overscroll-behavior-x:contain}.header .nav-item{font-size:11px;padding:0 7px}}

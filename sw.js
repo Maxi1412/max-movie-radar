@@ -1,6 +1,6 @@
 /* MAX Movie Radar — offline shell and latest fetched catalog snapshots. */
-const VERSION='maxradar-shell-v4-streaming';
-const SHELL=['./','./index.html','./styles.css','./app.js','./tv.css','./tv.js','./streaming.css','./streaming.js',
+const VERSION='maxradar-shell-v5-library';
+const SHELL=['./','./index.html','./styles.css','./app.js','./tv.css','./tv.js','./streaming.css','./streaming.js','./library.css','./library.js',
   './manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(VERSION).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(Promise.all([
