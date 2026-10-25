@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T09:54:54Z",
+  "generated_at": "2026-10-25T19:45:00Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -32,7 +32,7 @@
       ],
       "popularity": 54.3,
       "vote_average": 5.0,
-      "vote_count": 181,
+      "vote_count": 183,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -54,7 +54,7 @@
       ],
       "popularity": 37.44,
       "vote_average": 7.1,
-      "vote_count": 2269,
+      "vote_count": 2276,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -75,7 +75,7 @@
       ],
       "popularity": 19.82,
       "vote_average": 6.4,
-      "vote_count": 224,
+      "vote_count": 226,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -97,7 +97,7 @@
       ],
       "popularity": 16.38,
       "vote_average": 6.4,
-      "vote_count": 662,
+      "vote_count": 664,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -184,28 +184,6 @@
       "trailer_key": null
     },
     {
-      "id": 1226230,
-      "title": "Bunker Heights",
-      "year": "2026",
-      "first_release_date": "2026-10-13",
-      "overview": "Citizens of a troubled city must navigate through an unforeseen crisis that threatens every walk of life.",
-      "original_language": "en",
-      "poster_path": "/w7dTed9KJ6CqIzsyH27ZxrQgcPL.jpg",
-      "backdrop_path": "/gLgz6MJRrdDq9ATO5qBexSnlxKZ.jpg",
-      "genre_names": [
-        "Crime",
-        "Horror",
-        "Comedy"
-      ],
-      "popularity": 2.29,
-      "vote_average": 4.5,
-      "vote_count": 2,
-      "physical_dates": {
-        "US": "2026-10-13"
-      },
-      "trailer_key": "DlbdqKPwx1k"
-    },
-    {
       "id": 1212763,
       "title": "Evil Dead Burn",
       "year": "2026",
@@ -219,7 +197,7 @@
       ],
       "popularity": 37.68,
       "vote_average": 7.6,
-      "vote_count": 1808,
+      "vote_count": 1814,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -307,7 +285,7 @@
       ],
       "popularity": 43.55,
       "vote_average": 7.2,
-      "vote_count": 867,
+      "vote_count": 871,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -372,7 +350,7 @@
       ],
       "popularity": 122.77,
       "vote_average": 8.3,
-      "vote_count": 2705,
+      "vote_count": 2707,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -393,7 +371,7 @@
       ],
       "popularity": 53.18,
       "vote_average": 7.4,
-      "vote_count": 142,
+      "vote_count": 143,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -413,7 +391,7 @@
       ],
       "popularity": 50.29,
       "vote_average": 6.3,
-      "vote_count": 2075,
+      "vote_count": 2077,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -478,7 +456,7 @@
       ],
       "popularity": 12.72,
       "vote_average": 7.7,
-      "vote_count": 136,
+      "vote_count": 137,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -541,7 +519,7 @@
       ],
       "popularity": 12.54,
       "vote_average": 7.1,
-      "vote_count": 932,
+      "vote_count": 934,
       "physical_dates": {
         "GB": "2026-09-21"
       },
@@ -715,7 +693,7 @@
       ],
       "popularity": 96.23,
       "vote_average": 7.6,
-      "vote_count": 1320,
+      "vote_count": 1322,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -737,7 +715,7 @@
       ],
       "popularity": 45.73,
       "vote_average": 6.6,
-      "vote_count": 2645,
+      "vote_count": 2648,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -773,10 +751,11 @@
       "first_release_date": "2026-05-23",
       "overview": "Five young models go to an Airbnb in the woods for a full moon that comes once every five hundred years. What starts off as the perfect girl's trip quickly becomes a nightmare as a pack of ancient werewolves are awoken by the new moon...",
       "original_language": "en",
-      "poster_path": "/2RfOxPqODvCRkd7saARt3AK4jeC.jpg",
+      "poster_path": "/tu9qEMYs4u84BqHnjbJ7Pb95Igu.jpg",
       "backdrop_path": "/tznkUuSZ2cMDYpyIb0Y44ODjN7M.jpg",
       "genre_names": [
-        "Horror"
+        "Horror",
+        "Comedy"
       ],
       "popularity": 3.09,
       "vote_average": 4.0,
@@ -784,7 +763,7 @@
       "physical_dates": {
         "US": "2026-09-08"
       },
-      "trailer_key": null
+      "trailer_key": "6g_pbbiXAD4"
     },
     {
       "id": 1232569,
@@ -802,7 +781,7 @@
       ],
       "popularity": 158.49,
       "vote_average": 6.5,
-      "vote_count": 143,
+      "vote_count": 145,
       "physical_dates": {
         "GB": "2026-09-07"
       },
@@ -823,7 +802,7 @@
       ],
       "popularity": 107.44,
       "vote_average": 8.2,
-      "vote_count": 6324,
+      "vote_count": 6330,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -991,7 +970,7 @@
       ],
       "popularity": 107.54,
       "vote_average": 7.4,
-      "vote_count": 3841,
+      "vote_count": 3845,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1013,7 +992,7 @@
       ],
       "popularity": 47.93,
       "vote_average": 7.5,
-      "vote_count": 1918,
+      "vote_count": 1920,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1035,7 +1014,7 @@
       ],
       "popularity": 40.11,
       "vote_average": 7.9,
-      "vote_count": 1847,
+      "vote_count": 1848,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1058,7 +1037,7 @@
       ],
       "popularity": 6.39,
       "vote_average": 6.7,
-      "vote_count": 87,
+      "vote_count": 88,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1080,7 +1059,7 @@
       ],
       "popularity": 6.13,
       "vote_average": 7.0,
-      "vote_count": 350,
+      "vote_count": 351,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1166,7 +1145,7 @@
       ],
       "popularity": 17.82,
       "vote_average": 7.5,
-      "vote_count": 1156,
+      "vote_count": 1157,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1227,7 +1206,7 @@
       ],
       "popularity": 788.04,
       "vote_average": 8.6,
-      "vote_count": 8506,
+      "vote_count": 8513,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1248,7 +1227,7 @@
       ],
       "popularity": 19.13,
       "vote_average": 6.8,
-      "vote_count": 992,
+      "vote_count": 1000,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1269,7 +1248,7 @@
       ],
       "popularity": 48.21,
       "vote_average": 8.6,
-      "vote_count": 4621,
+      "vote_count": 4624,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1311,7 +1290,7 @@
       ],
       "popularity": 39.36,
       "vote_average": 7.0,
-      "vote_count": 2490,
+      "vote_count": 2492,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1375,7 +1354,7 @@
       ],
       "popularity": 24.07,
       "vote_average": 6.9,
-      "vote_count": 2004,
+      "vote_count": 2007,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1417,7 +1396,7 @@
       ],
       "popularity": 30.65,
       "vote_average": 7.8,
-      "vote_count": 2817,
+      "vote_count": 2818,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1439,7 +1418,7 @@
       ],
       "popularity": 18.19,
       "vote_average": 7.3,
-      "vote_count": 750,
+      "vote_count": 751,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1501,7 +1480,7 @@
       ],
       "popularity": 47.23,
       "vote_average": 6.2,
-      "vote_count": 367,
+      "vote_count": 369,
       "physical_dates": {
         "GB": "2026-07-06"
       },
@@ -1523,7 +1502,7 @@
       ],
       "popularity": 15.66,
       "vote_average": 6.9,
-      "vote_count": 1204,
+      "vote_count": 1205,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1566,7 +1545,7 @@
       ],
       "popularity": 27.77,
       "vote_average": 7.0,
-      "vote_count": 1445,
+      "vote_count": 1447,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1654,7 +1633,7 @@
       ],
       "popularity": 20.91,
       "vote_average": 7.5,
-      "vote_count": 1756,
+      "vote_count": 1757,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1700,7 +1679,7 @@
       ],
       "popularity": 71.81,
       "vote_average": 8.2,
-      "vote_count": 3888,
+      "vote_count": 3889,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1722,7 +1701,7 @@
       ],
       "popularity": 34.2,
       "vote_average": 6.2,
-      "vote_count": 1383,
+      "vote_count": 1385,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1763,8 +1742,8 @@
         "Science Fiction"
       ],
       "popularity": 7.46,
-      "vote_average": 6.1,
-      "vote_count": 89,
+      "vote_average": 6.0,
+      "vote_count": 91,
       "physical_dates": {
         "GB": "2026-06-15"
       },
@@ -1900,6 +1879,26 @@
       "trailer_key": "PypDSyIRRSs"
     },
     {
+      "id": 1705276,
+      "title": "Learning, Studying… Always Perfecting: The Making of One Battle After Another",
+      "year": "2026",
+      "first_release_date": "2026-06-02",
+      "overview": "A behind-the-scenes documentary filmed during the production of Paul Thomas Anderson’s One Battle After Another, featuring candid moments from the cast and crew.",
+      "original_language": "en",
+      "poster_path": "/b1y72qIIUIpkprJijwVFV0n4Ik2.jpg",
+      "backdrop_path": "/i1IfBqShclryF7O0o8qOm90ERA4.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.65,
+      "vote_average": 8.0,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-06-02"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 83533,
       "title": "Avatar: Fire and Ash",
       "year": "2025",
@@ -1915,7 +1914,7 @@
       ],
       "popularity": 74.4,
       "vote_average": 7.6,
-      "vote_count": 4587,
+      "vote_count": 4591,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -1964,29 +1963,6 @@
         "GB": "2026-06-01"
       },
       "trailer_key": "eIQzUWhsX4U"
-    },
-    {
-      "id": 1784313,
-      "title": "Killeidoscope",
-      "year": "2026",
-      "first_release_date": "2026-02-12",
-      "overview": "A tale of vengeance with twins Lenny and Lizzie, their abusive mother, the mysterious bird man, a doll named Gino and a serial murderer known as \"The Killeidoscope Killer\".",
-      "original_language": "en",
-      "poster_path": "/e6QkF8JZ1CZkPY6GwhXhFwiTqmi.jpg",
-      "backdrop_path": "/8iW89KuLLxfPSnmGhmEbYUCcqC8.jpg",
-      "genre_names": [
-        "Action",
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 2.58,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-06-01"
-      },
-      "trailer_key": "jmujs1k3EYw"
     },
     {
       "id": 1431247,
@@ -2043,7 +2019,7 @@
       ],
       "popularity": 8.37,
       "vote_average": 6.3,
-      "vote_count": 448,
+      "vote_count": 449,
       "physical_dates": {
         "US": "2026-05-26"
       },
@@ -2151,7 +2127,7 @@
       ],
       "popularity": 40.3,
       "vote_average": 8.0,
-      "vote_count": 1134,
+      "vote_count": 1137,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2173,7 +2149,7 @@
       ],
       "popularity": 25.5,
       "vote_average": 6.6,
-      "vote_count": 1416,
+      "vote_count": 1417,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2195,7 +2171,7 @@
       ],
       "popularity": 21.72,
       "vote_average": 7.0,
-      "vote_count": 2428,
+      "vote_count": 2432,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2261,7 +2237,7 @@
       ],
       "popularity": 9.97,
       "vote_average": 5.5,
-      "vote_count": 558,
+      "vote_count": 559,
       "physical_dates": {
         "US": "2026-04-28"
       },
@@ -2283,7 +2259,7 @@
       ],
       "popularity": 3.44,
       "vote_average": 5.5,
-      "vote_count": 101,
+      "vote_count": 102,
       "physical_dates": {
         "US": "2026-04-28"
       },
@@ -2305,7 +2281,7 @@
       ],
       "popularity": 30.71,
       "vote_average": 7.7,
-      "vote_count": 1996,
+      "vote_count": 2000,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2327,7 +2303,7 @@
       ],
       "popularity": 21.36,
       "vote_average": 7.1,
-      "vote_count": 1872,
+      "vote_count": 1877,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2350,7 +2326,7 @@
       ],
       "popularity": 19.91,
       "vote_average": 7.1,
-      "vote_count": 1146,
+      "vote_count": 1149,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2371,7 +2347,7 @@
       ],
       "popularity": 19.32,
       "vote_average": 6.4,
-      "vote_count": 954,
+      "vote_count": 955,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2459,7 +2435,7 @@
       ],
       "popularity": 7.25,
       "vote_average": 5.8,
-      "vote_count": 210,
+      "vote_count": 211,
       "physical_dates": {
         "ES": "2026-03-20",
         "GB": "2025-10-27",
@@ -2484,7 +2460,7 @@
       ],
       "popularity": 17.56,
       "vote_average": 7.1,
-      "vote_count": 1787,
+      "vote_count": 1788,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2526,7 +2502,7 @@
       ],
       "popularity": 27.15,
       "vote_average": 7.4,
-      "vote_count": 2328,
+      "vote_count": 2330,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2572,7 +2548,7 @@
       ],
       "popularity": 4.0,
       "vote_average": 6.1,
-      "vote_count": 282,
+      "vote_count": 283,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2594,11 +2570,32 @@
       ],
       "popularity": 9.95,
       "vote_average": 7.4,
-      "vote_count": 481,
+      "vote_count": 482,
       "physical_dates": {
         "GB": "2026-03-30"
       },
       "trailer_key": "O7vKuVadFmo"
+    },
+    {
+      "id": 1243479,
+      "title": "Castration Movie Anthology I. Traps",
+      "year": "2024",
+      "first_release_date": "2024-06-02",
+      "overview": "Michaela 'Traps' Sinclair is a trans sex worker trying to get by in Vancouver while also mentoring her recently-out friend Adeline and making an attempt at pursuing actual motherhood. Meanwhile, lowly production assistant Turner finds himself dangerously spiraling into inceldom as his current relationship implodes.",
+      "original_language": "en",
+      "poster_path": "/fuEOWhlPl2INV6pNSMVr6uZdy0l.jpg",
+      "backdrop_path": "/tNr9eqcf5PGTXWoJYJj3SlNRXfR.jpg",
+      "genre_names": [
+        "Comedy",
+        "Drama"
+      ],
+      "popularity": 2.76,
+      "vote_average": 7.3,
+      "vote_count": 12,
+      "physical_dates": {
+        "US": "2026-03-28"
+      },
+      "trailer_key": "OI0SwQ80a4I"
     },
     {
       "id": 1461211,
@@ -2636,7 +2633,7 @@
       ],
       "popularity": 21.37,
       "vote_average": 5.3,
-      "vote_count": 908,
+      "vote_count": 910,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2658,7 +2655,7 @@
       ],
       "popularity": 14.6,
       "vote_average": 5.8,
-      "vote_count": 1520,
+      "vote_count": 1523,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2680,8 +2677,8 @@
         "Action"
       ],
       "popularity": 9.85,
-      "vote_average": 4.4,
-      "vote_count": 75,
+      "vote_average": 4.5,
+      "vote_count": 76,
       "physical_dates": {
         "US": "2026-03-10"
       },
@@ -2727,7 +2724,7 @@
       ],
       "popularity": 63.25,
       "vote_average": 7.7,
-      "vote_count": 3613,
+      "vote_count": 3615,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2749,7 +2746,7 @@
       ],
       "popularity": 29.3,
       "vote_average": 6.7,
-      "vote_count": 2080,
+      "vote_count": 2083,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2770,7 +2767,7 @@
       ],
       "popularity": 19.02,
       "vote_average": 7.7,
-      "vote_count": 1720,
+      "vote_count": 1721,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2833,7 +2830,7 @@
       ],
       "popularity": 6.88,
       "vote_average": 6.4,
-      "vote_count": 183,
+      "vote_count": 184,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2940,7 +2937,7 @@
       ],
       "popularity": 43.5,
       "vote_average": 7.8,
-      "vote_count": 3833,
+      "vote_count": 3834,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2961,7 +2958,7 @@
       ],
       "popularity": 17.05,
       "vote_average": 7.1,
-      "vote_count": 603,
+      "vote_count": 604,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2982,7 +2979,7 @@
       ],
       "popularity": 13.74,
       "vote_average": 7.7,
-      "vote_count": 1071,
+      "vote_count": 1072,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3004,7 +3001,7 @@
       ],
       "popularity": 13.33,
       "vote_average": 7.3,
-      "vote_count": 945,
+      "vote_count": 947,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3026,7 +3023,7 @@
       ],
       "popularity": 6.43,
       "vote_average": 5.8,
-      "vote_count": 86,
+      "vote_count": 87,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3047,7 +3044,7 @@
       ],
       "popularity": 19.78,
       "vote_average": 6.6,
-      "vote_count": 1234,
+      "vote_count": 1235,
       "physical_dates": {
         "US": "2026-02-16"
       },
@@ -3067,7 +3064,7 @@
       ],
       "popularity": 11.64,
       "vote_average": 6.6,
-      "vote_count": 776,
+      "vote_count": 777,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3088,7 +3085,7 @@
       ],
       "popularity": 9.85,
       "vote_average": 6.1,
-      "vote_count": 422,
+      "vote_count": 424,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3130,7 +3127,7 @@
       ],
       "popularity": 48.44,
       "vote_average": 7.3,
-      "vote_count": 2539,
+      "vote_count": 2542,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3152,7 +3149,7 @@
       ],
       "popularity": 7.0,
       "vote_average": 5.7,
-      "vote_count": 366,
+      "vote_count": 367,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2026-01-20"
@@ -3283,7 +3280,7 @@
       ],
       "popularity": 33.96,
       "vote_average": 7.3,
-      "vote_count": 4447,
+      "vote_count": 4448,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3349,7 +3346,7 @@
       ],
       "popularity": 16.65,
       "vote_average": 6.6,
-      "vote_count": 1201,
+      "vote_count": 1202,
       "physical_dates": {
         "US": "2026-01-20"
       },
@@ -3372,7 +3369,7 @@
       ],
       "popularity": 10.02,
       "vote_average": 6.5,
-      "vote_count": 576,
+      "vote_count": 577,
       "physical_dates": {
         "GB": "2026-01-19"
       },
@@ -3413,8 +3410,8 @@
         "Action"
       ],
       "popularity": 13.34,
-      "vote_average": 6.4,
-      "vote_count": 1698,
+      "vote_average": 6.5,
+      "vote_count": 1699,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3459,7 +3456,7 @@
       ],
       "popularity": 9.33,
       "vote_average": 6.2,
-      "vote_count": 365,
+      "vote_count": 366,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3480,7 +3477,7 @@
       ],
       "popularity": 7.67,
       "vote_average": 5.7,
-      "vote_count": 332,
+      "vote_count": 333,
       "physical_dates": {
         "GB": "2025-12-15",
         "US": "2026-01-06"
@@ -3507,26 +3504,6 @@
         "GB": "2026-01-05"
       },
       "trailer_key": "DENZQmZZ1ok"
-    },
-    {
-      "id": 1402706,
-      "title": "Screw Year's Eve",
-      "year": "2025",
-      "first_release_date": "2025-12-31",
-      "overview": "A group of friends decide to ring in the New Year at an extravagant 80s-themed party hosted in a remote warehouse at the edge of town. As the night unfolds, they quickly realize they are not alone. Trapped in a labyrinth of neon lights and retro nostalgia, they find themselves hunted by a merciless killer hell-bent on making sure they never see another year.",
-      "original_language": "en",
-      "poster_path": "/bhxi102fgbX9GkhhlpWrv5SqZli.jpg",
-      "backdrop_path": null,
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 2.25,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2025-12-31"
-      },
-      "trailer_key": null
     },
     {
       "id": 1481851,
@@ -3587,7 +3564,7 @@
       ],
       "popularity": 20.81,
       "vote_average": 6.8,
-      "vote_count": 2093,
+      "vote_count": 2096,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3608,7 +3585,7 @@
       ],
       "popularity": 14.26,
       "vote_average": 6.6,
-      "vote_count": 1403,
+      "vote_count": 1404,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3637,6 +3614,26 @@
       "trailer_key": "xdKP22EaAuU"
     },
     {
+      "id": 1601090,
+      "title": "What is an Ocean… Reconnecting the Cast and Crew of Cloud Atlas",
+      "year": "2025",
+      "first_release_date": "2025-12-23",
+      "overview": "A unique feature-length retrospective documentary bringing together the directors, author David Mitchell, and key cast and crew - including Tom Hanks, Hugh Grant, and Susan Sarandon - to share new reflections and untold stories from the making of Cloud Atlas. The film celebrates the artistry, collaboration, and enduring impact of the Wachowskis and Tom Tykwer's visionary production.",
+      "original_language": "en",
+      "poster_path": "/tw7aQ17lYfZ7Vmi7lNaWIPW0V9F.jpg",
+      "backdrop_path": null,
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 3.16,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-23"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1246049,
       "title": "Dracula",
       "year": "2025",
@@ -3652,7 +3649,7 @@
       ],
       "popularity": 29.7,
       "vote_average": 7.3,
-      "vote_count": 1560,
+      "vote_count": 1561,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -3828,6 +3825,26 @@
       "trailer_key": null
     },
     {
+      "id": 1626944,
+      "title": "On a Mission from God: The Story of the Blues Brothers",
+      "year": "2025",
+      "first_release_date": "2025-12-09",
+      "overview": "A documentary that explores the turbulent, high-budget production of the 1980 musical-comedy classic The Blues Brothers, examining its chaotic shoot, legendary musical guest appearances, and lasting cultural legacy.",
+      "original_language": "en",
+      "poster_path": "/tiQoojOwhfOPOCf3Zzkls1ZeuJh.jpg",
+      "backdrop_path": "/cTxWyTMT7DGr33H9tSPexV20BJV.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 2.6,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-09"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1519168,
       "title": "The Jester 2",
       "year": "2025",
@@ -3865,7 +3882,7 @@
       ],
       "popularity": 4.46,
       "vote_average": 5.8,
-      "vote_count": 277,
+      "vote_count": 278,
       "physical_dates": {
         "GB": "2025-12-08"
       },
@@ -3907,7 +3924,7 @@
       ],
       "popularity": 23.87,
       "vote_average": 6.9,
-      "vote_count": 2213,
+      "vote_count": 2215,
       "physical_dates": {
         "US": "2025-11-25"
       },
@@ -3974,7 +3991,7 @@
       ],
       "popularity": 11.43,
       "vote_average": 6.9,
-      "vote_count": 1421,
+      "vote_count": 1422,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -4017,7 +4034,7 @@
       ],
       "popularity": 15.68,
       "vote_average": 6.2,
-      "vote_count": 1676,
+      "vote_count": 1677,
       "physical_dates": {
         "GB": "2025-11-17"
       },
@@ -4039,7 +4056,7 @@
       ],
       "popularity": 19.95,
       "vote_average": 6.3,
-      "vote_count": 2061,
+      "vote_count": 2063,
       "physical_dates": {
         "GB": "2025-11-10",
         "US": "2025-11-11"
@@ -4062,7 +4079,7 @@
       ],
       "popularity": 13.59,
       "vote_average": 6.8,
-      "vote_count": 1199,
+      "vote_count": 1200,
       "physical_dates": {
         "US": "2025-11-11"
       },
@@ -4105,7 +4122,7 @@
       ],
       "popularity": 9.95,
       "vote_average": 6.8,
-      "vote_count": 825,
+      "vote_count": 826,
       "physical_dates": {
         "US": "2025-11-11"
       },
@@ -4171,7 +4188,7 @@
       ],
       "popularity": 3.09,
       "vote_average": 6.4,
-      "vote_count": 41,
+      "vote_count": 42,
       "physical_dates": {
         "US": "2025-11-11"
       },
@@ -4192,7 +4209,7 @@
       ],
       "popularity": 62.3,
       "vote_average": 7.8,
-      "vote_count": 4896,
+      "vote_count": 4898,
       "physical_dates": {
         "GB": "2025-11-10"
       },
@@ -4257,7 +4274,7 @@
       ],
       "popularity": 11.42,
       "vote_average": 7.0,
-      "vote_count": 552,
+      "vote_count": 553,
       "physical_dates": {
         "US": "2025-10-28"
       },
@@ -4279,7 +4296,7 @@
       ],
       "popularity": 46.73,
       "vote_average": 7.3,
-      "vote_count": 5662,
+      "vote_count": 5667,
       "physical_dates": {
         "GB": "2025-10-27"
       },
@@ -4299,7 +4316,7 @@
       ],
       "popularity": 14.29,
       "vote_average": 7.3,
-      "vote_count": 2033,
+      "vote_count": 2036,
       "physical_dates": {
         "GB": "2025-10-27"
       },
