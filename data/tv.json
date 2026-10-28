@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ready",
-  "generated_at": "2026-10-28T11:27:04Z",
+  "generated_at": "2026-10-28T21:45:47Z",
   "source": "TMDb",
   "date_type": "episode_original_air_date",
   "note": "Dates are original episode airdates, NOT DVD, Blu-ray, or regional streaming availability confirmations.",
@@ -1204,42 +1204,6 @@
       "franchise": "",
       "episodes": [
         {
-          "id": 7599025,
-          "season_number": 42,
-          "episode_number": 124,
-          "key": "s42e124",
-          "name": "05/08/2026",
-          "air_date": "2026-08-05",
-          "overview": "Mark tries to win Lauren’s attention, Sheila puts her plan into action, and Mo and Jean search for ways to ease their money troubles."
-        },
-        {
-          "id": 7599026,
-          "season_number": 42,
-          "episode_number": 125,
-          "key": "s42e125",
-          "name": "06/08/2026",
-          "air_date": "2026-08-06",
-          "overview": "Sheila faces mounting pressure, Priya is confronted with some hard truths, and tensions flare in the Vic."
-        },
-        {
-          "id": 7622178,
-          "season_number": 42,
-          "episode_number": 126,
-          "key": "s42e126",
-          "name": "10/08/2026",
-          "air_date": "2026-08-10",
-          "overview": "Gray tries to manipulate Ian. It’s clear that Denzel is hiding something. And Jean’s money woes continue."
-        },
-        {
-          "id": 7622179,
-          "season_number": 42,
-          "episode_number": 127,
-          "key": "s42e127",
-          "name": "11/08/2026",
-          "air_date": "2026-08-11",
-          "overview": "Jean’s concerns grow about Lily, a worrying situation escalates for Chelsea, and Max finds himself on the receiving end of Cindy’s wrath."
-        },
-        {
           "id": 7622180,
           "season_number": 42,
           "episode_number": 128,
@@ -1688,6 +1652,42 @@
           "name": "05/11/2026",
           "air_date": "2026-11-05",
           "overview": "Max is put firmly in his place; Nicola intervenes in a situation for the sake of her sister Gemma."
+        },
+        {
+          "id": 8027364,
+          "season_number": 42,
+          "episode_number": 178,
+          "key": "s42e178",
+          "name": "09/11/2026",
+          "air_date": "2026-11-09",
+          "overview": "Linda makes a worrying discovery; Sharon and Eve strike up an unlikely friendship; Mark and Lauren struggle to find time."
+        },
+        {
+          "id": 8027365,
+          "season_number": 42,
+          "episode_number": 179,
+          "key": "s42e179",
+          "name": "10/11/2026",
+          "air_date": "2026-11-10",
+          "overview": "Linda goes in search of answers; tensions rise between Suki and Ash; Mark finds himself in a tricky situation."
+        },
+        {
+          "id": 8027367,
+          "season_number": 42,
+          "episode_number": 180,
+          "key": "s42e180",
+          "name": "11/11/2026",
+          "air_date": "2026-11-11",
+          "overview": "Nancy and Lee react badly to news; Eve and Suki face a new hurdle in their adoption journey; Lauren plays with fire."
+        },
+        {
+          "id": 8027368,
+          "season_number": 42,
+          "episode_number": 181,
+          "key": "s42e181",
+          "name": "12/11/2026",
+          "air_date": "2026-11-12",
+          "overview": "Linda vows to support Lee; Nancy finds herself asking Johnny for support; Lauren gets overwhelmed by her feelings."
         }
       ]
     },
@@ -5588,7 +5588,7 @@
           "key": "s03e06",
           "name": "Return to Loo Loo Land",
           "air_date": "2026-10-28",
-          "overview": ""
+          "overview": "Blitzo and Fizz go to Loo Loo Land and things sure do happen."
         },
         {
           "id": 7813289,
@@ -5597,7 +5597,7 @@
           "key": "s03e07",
           "name": "YES/NO",
           "air_date": "2026-10-28",
-          "overview": ""
+          "overview": "Barbie asks Blitzo for a job and things sure do happen."
         }
       ]
     },
@@ -6301,6 +6301,518 @@
       ]
     },
     {
+      "id": 55546,
+      "name": "De Slimste Mens ter Wereld",
+      "original_name": "De Slimste Mens ter Wereld",
+      "first_air_date": "2003-09-01",
+      "status": "Returning Series",
+      "overview": "Do we still sing the praises of folly like Erasmus, or is it trendy again to be smart? And if so, who is the smartest? Who can talk about the medals won at the Olympic Games in London, but at the same time knows who Captain Haddock is? Who knows whether Lacan was a hair growth product or a psychoanalyst and can also program their own digital television? Who has déjà vu when leafing through the Encyclopedia Britannica and when reading the interviews with the new Miss Waregem Koerse?  Who, oh who, is the smartest person in Flanders, Belgium, Europe, and by extension, the world? That is determined by a fierce battle between three fellow human beings. Every day, someone is eliminated, someone who may not be the smartest, but who is perhaps cher",
+      "poster_path": "/7UdVk8oKB3TbBDGRlB0dSzVyf8F.jpg",
+      "backdrop_path": "/ekn5C01gRQYwPC69LU7XlXk1EXA.jpg",
+      "original_language": "nl",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "networks": [
+        "VRT 1",
+        "Play"
+      ],
+      "popularity": 64.32,
+      "vote_average": 7.7,
+      "last_air_date": "2026-10-28",
+      "next_air_date": "2026-10-29",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 6544582,
+          "season_number": 23,
+          "episode_number": 27,
+          "key": "s23e27",
+          "name": "Episode 27",
+          "air_date": "2025-11-26",
+          "overview": "Podcast creator, YouTuber, and Studio Brussel personality Nona Van Braeckel will be joining us for tonight's quiz. Jeroom and Jonas Geirnaert will be sitting at the judges' desk."
+        },
+        {
+          "id": 6544583,
+          "season_number": 23,
+          "episode_number": 28,
+          "key": "s23e28",
+          "name": "Episode 28",
+          "air_date": "2025-11-27",
+          "overview": "Actor Jean Janssens joins as a new candidate. James Cooke and Herman Brusselmans sit in the jury."
+        },
+        {
+          "id": 6544584,
+          "season_number": 23,
+          "episode_number": 29,
+          "key": "s23e29",
+          "name": "Episode 29",
+          "air_date": "2025-12-01",
+          "overview": "Today, 29-year-old actress Emma Moortgat joins the program, known for her roles in “Dertigers” and “Knokke off”. Daphne Agten and William Boeva are the members of the jury."
+        },
+        {
+          "id": 6544585,
+          "season_number": 23,
+          "episode_number": 30,
+          "key": "s23e30",
+          "name": "Episode 30",
+          "air_date": "2025-12-02",
+          "overview": "Tonight, 28-year-old influencer and content creator Elodie Gabias will be joining us. Wim Helsen and Ella Leyers are the judges on duty."
+        },
+        {
+          "id": 6544586,
+          "season_number": 23,
+          "episode_number": 31,
+          "key": "s23e31",
+          "name": "Episode 31",
+          "air_date": "2025-12-03",
+          "overview": "Tonight, the 28-year-old Antwerp rapper Miss Angel, who in real life goes by the name Angela Agyei, makes her entrance. Alex Agnew and Bockie De Repper are at the jury's desk."
+        },
+        {
+          "id": 6544587,
+          "season_number": 23,
+          "episode_number": 32,
+          "key": "s23e32",
+          "name": "Episode 32",
+          "air_date": "2025-12-04",
+          "overview": "Roel Steeno is the final candidate of the week. This 51-year-old actor and comedian has been the regular audience-warmer of 'De Slimste Mens' for years. Now he's taking his own shot. The jury consists of Bart Cannaerts and Jennife"
+        },
+        {
+          "id": 6544588,
+          "season_number": 23,
+          "episode_number": 33,
+          "key": "s23e33",
+          "name": "Finale week",
+          "air_date": "2025-12-08",
+          "overview": "The final weeks are starting. The eight best candidates of this season return to the game and compete for the final victory. Tonight, comedian Michael Van Peel (4 episodes - 1 win) and 'frituur' owner Dorien Nuyts (5 episodes - 1 "
+        },
+        {
+          "id": 6544589,
+          "season_number": 23,
+          "episode_number": 34,
+          "key": "s23e34",
+          "name": "Finale week",
+          "air_date": "2025-12-09",
+          "overview": "Tonight, sports journalist Ruben Van Gucht returns to the game. He survived five episodes and won one. The jury consists of James Cooke and Guga Baúl."
+        },
+        {
+          "id": 6544590,
+          "season_number": 23,
+          "episode_number": 35,
+          "key": "s23e35",
+          "name": "Finale week",
+          "air_date": "2025-12-10",
+          "overview": "Comedian and VTM presenter Jens Dendoncker is making his return to the studio. He lasted five episodes and won two of them. The serving jury members are Philippe Geubels and Francis van Broekhuizen."
+        },
+        {
+          "id": 6544591,
+          "season_number": 23,
+          "episode_number": 36,
+          "key": "s23e36",
+          "name": "Finale week",
+          "air_date": "2025-12-11",
+          "overview": "In the concluding episode of the first final week, Erik once again welcomes 27-year-old MNM radio presenter Imane Boudadi (5 episodes, 2 wins). Bart Cannaerts and Daan Alferink make up the jury."
+        },
+        {
+          "id": 6544592,
+          "season_number": 23,
+          "episode_number": 37,
+          "key": "s23e37",
+          "name": "Finale week",
+          "air_date": "2025-12-15",
+          "overview": "Contestant: Gover Meit. On the jury: Jeroom and Jade Mintjens."
+        },
+        {
+          "id": 6544593,
+          "season_number": 23,
+          "episode_number": 38,
+          "key": "s23e38",
+          "name": "Finale week",
+          "air_date": "2025-12-16",
+          "overview": "Contestant: Jan Jaap van der Wal. On the jury: Anastasya Chernook and Lieven Scheire."
+        },
+        {
+          "id": 6544594,
+          "season_number": 23,
+          "episode_number": 39,
+          "key": "s23e39",
+          "name": "Finale week",
+          "air_date": "2025-12-17",
+          "overview": "Contestant: Nona Van Braeckel. On the jury: Philippe Geubels and Alex Agnew."
+        },
+        {
+          "id": 6544595,
+          "season_number": 23,
+          "episode_number": 40,
+          "key": "s23e40",
+          "name": "De finale dag",
+          "air_date": "2025-12-18",
+          "overview": "Contestant: Felix Heremans. In the jury: Bart Cannaerts and Soundos El Ahmadi."
+        },
+        {
+          "id": 7866581,
+          "season_number": 24,
+          "episode_number": 1,
+          "key": "s24e01",
+          "name": "Episode 1",
+          "air_date": "2026-10-05",
+          "overview": ""
+        },
+        {
+          "id": 7866582,
+          "season_number": 24,
+          "episode_number": 2,
+          "key": "s24e02",
+          "name": "Episode 2",
+          "air_date": "2026-10-06",
+          "overview": ""
+        },
+        {
+          "id": 7866584,
+          "season_number": 24,
+          "episode_number": 3,
+          "key": "s24e03",
+          "name": "Episode 3",
+          "air_date": "2026-10-07",
+          "overview": ""
+        },
+        {
+          "id": 7866585,
+          "season_number": 24,
+          "episode_number": 4,
+          "key": "s24e04",
+          "name": "Episode 4",
+          "air_date": "2026-10-08",
+          "overview": ""
+        },
+        {
+          "id": 7866586,
+          "season_number": 24,
+          "episode_number": 5,
+          "key": "s24e05",
+          "name": "Episode 5",
+          "air_date": "2026-10-12",
+          "overview": ""
+        },
+        {
+          "id": 7866587,
+          "season_number": 24,
+          "episode_number": 6,
+          "key": "s24e06",
+          "name": "Episode 6",
+          "air_date": "2026-10-13",
+          "overview": ""
+        },
+        {
+          "id": 7866588,
+          "season_number": 24,
+          "episode_number": 7,
+          "key": "s24e07",
+          "name": "Episode 7",
+          "air_date": "2026-10-14",
+          "overview": ""
+        },
+        {
+          "id": 7866589,
+          "season_number": 24,
+          "episode_number": 8,
+          "key": "s24e08",
+          "name": "Episode 8",
+          "air_date": "2026-10-15",
+          "overview": ""
+        },
+        {
+          "id": 7866590,
+          "season_number": 24,
+          "episode_number": 9,
+          "key": "s24e09",
+          "name": "Episode 9",
+          "air_date": "2026-10-19",
+          "overview": ""
+        },
+        {
+          "id": 7866591,
+          "season_number": 24,
+          "episode_number": 10,
+          "key": "s24e10",
+          "name": "Episode 10",
+          "air_date": "2026-10-20",
+          "overview": ""
+        },
+        {
+          "id": 7866592,
+          "season_number": 24,
+          "episode_number": 11,
+          "key": "s24e11",
+          "name": "Episode 11",
+          "air_date": "2026-10-21",
+          "overview": ""
+        },
+        {
+          "id": 7866593,
+          "season_number": 24,
+          "episode_number": 12,
+          "key": "s24e12",
+          "name": "Episode 12",
+          "air_date": "2026-10-22",
+          "overview": ""
+        },
+        {
+          "id": 7866594,
+          "season_number": 24,
+          "episode_number": 13,
+          "key": "s24e13",
+          "name": "Episode 13",
+          "air_date": "2026-10-26",
+          "overview": ""
+        },
+        {
+          "id": 7866595,
+          "season_number": 24,
+          "episode_number": 14,
+          "key": "s24e14",
+          "name": "Episode 14",
+          "air_date": "2026-10-27",
+          "overview": ""
+        },
+        {
+          "id": 7866596,
+          "season_number": 24,
+          "episode_number": 15,
+          "key": "s24e15",
+          "name": "Episode 15",
+          "air_date": "2026-10-28",
+          "overview": ""
+        },
+        {
+          "id": 7866597,
+          "season_number": 24,
+          "episode_number": 16,
+          "key": "s24e16",
+          "name": "Episode 16",
+          "air_date": "2026-10-29",
+          "overview": ""
+        },
+        {
+          "id": 7866598,
+          "season_number": 24,
+          "episode_number": 17,
+          "key": "s24e17",
+          "name": "Episode 17",
+          "air_date": "2026-11-02",
+          "overview": ""
+        },
+        {
+          "id": 7866599,
+          "season_number": 24,
+          "episode_number": 18,
+          "key": "s24e18",
+          "name": "Episode 18",
+          "air_date": "2026-11-03",
+          "overview": ""
+        },
+        {
+          "id": 7866600,
+          "season_number": 24,
+          "episode_number": 19,
+          "key": "s24e19",
+          "name": "Episode 19",
+          "air_date": "2026-11-04",
+          "overview": ""
+        },
+        {
+          "id": 7866601,
+          "season_number": 24,
+          "episode_number": 20,
+          "key": "s24e20",
+          "name": "Episode 20",
+          "air_date": "2026-11-05",
+          "overview": ""
+        },
+        {
+          "id": 7866602,
+          "season_number": 24,
+          "episode_number": 21,
+          "key": "s24e21",
+          "name": "Episode 21",
+          "air_date": "2026-11-09",
+          "overview": ""
+        },
+        {
+          "id": 7866603,
+          "season_number": 24,
+          "episode_number": 22,
+          "key": "s24e22",
+          "name": "Episode 22",
+          "air_date": "2026-11-10",
+          "overview": ""
+        },
+        {
+          "id": 7866604,
+          "season_number": 24,
+          "episode_number": 23,
+          "key": "s24e23",
+          "name": "Episode 23",
+          "air_date": "2026-11-11",
+          "overview": ""
+        },
+        {
+          "id": 7866605,
+          "season_number": 24,
+          "episode_number": 24,
+          "key": "s24e24",
+          "name": "Episode 24",
+          "air_date": "2026-11-12",
+          "overview": ""
+        },
+        {
+          "id": 7866606,
+          "season_number": 24,
+          "episode_number": 25,
+          "key": "s24e25",
+          "name": "Episode 25",
+          "air_date": "2026-11-16",
+          "overview": ""
+        },
+        {
+          "id": 7866607,
+          "season_number": 24,
+          "episode_number": 26,
+          "key": "s24e26",
+          "name": "Episode 26",
+          "air_date": "2026-11-17",
+          "overview": ""
+        },
+        {
+          "id": 7866608,
+          "season_number": 24,
+          "episode_number": 27,
+          "key": "s24e27",
+          "name": "Episode 27",
+          "air_date": "2026-11-18",
+          "overview": ""
+        },
+        {
+          "id": 7866609,
+          "season_number": 24,
+          "episode_number": 28,
+          "key": "s24e28",
+          "name": "Episode 28",
+          "air_date": "2026-11-19",
+          "overview": ""
+        },
+        {
+          "id": 7866610,
+          "season_number": 24,
+          "episode_number": 29,
+          "key": "s24e29",
+          "name": "Episode 29",
+          "air_date": "2026-11-23",
+          "overview": ""
+        },
+        {
+          "id": 7866611,
+          "season_number": 24,
+          "episode_number": 30,
+          "key": "s24e30",
+          "name": "Episode 30",
+          "air_date": "2026-11-24",
+          "overview": ""
+        },
+        {
+          "id": 7866612,
+          "season_number": 24,
+          "episode_number": 31,
+          "key": "s24e31",
+          "name": "Episode 31",
+          "air_date": "2026-11-25",
+          "overview": ""
+        },
+        {
+          "id": 7866613,
+          "season_number": 24,
+          "episode_number": 32,
+          "key": "s24e32",
+          "name": "Episode 32",
+          "air_date": "2026-11-26",
+          "overview": ""
+        },
+        {
+          "id": 7866614,
+          "season_number": 24,
+          "episode_number": 33,
+          "key": "s24e33",
+          "name": "Episode 33",
+          "air_date": "2026-11-30",
+          "overview": ""
+        },
+        {
+          "id": 7866615,
+          "season_number": 24,
+          "episode_number": 34,
+          "key": "s24e34",
+          "name": "Episode 34",
+          "air_date": "2026-12-01",
+          "overview": ""
+        },
+        {
+          "id": 7866616,
+          "season_number": 24,
+          "episode_number": 35,
+          "key": "s24e35",
+          "name": "Episode 35",
+          "air_date": "2026-12-02",
+          "overview": ""
+        },
+        {
+          "id": 7866617,
+          "season_number": 24,
+          "episode_number": 36,
+          "key": "s24e36",
+          "name": "Episode 36",
+          "air_date": "2026-12-03",
+          "overview": ""
+        },
+        {
+          "id": 7866618,
+          "season_number": 24,
+          "episode_number": 37,
+          "key": "s24e37",
+          "name": "Episode 37",
+          "air_date": "2026-12-07",
+          "overview": ""
+        },
+        {
+          "id": 7866619,
+          "season_number": 24,
+          "episode_number": 38,
+          "key": "s24e38",
+          "name": "Episode 38",
+          "air_date": "2026-12-08",
+          "overview": ""
+        },
+        {
+          "id": 7866620,
+          "season_number": 24,
+          "episode_number": 39,
+          "key": "s24e39",
+          "name": "Episode 39",
+          "air_date": "2026-12-09",
+          "overview": ""
+        },
+        {
+          "id": 7866621,
+          "season_number": 24,
+          "episode_number": 40,
+          "key": "s24e40",
+          "name": "Episode 40",
+          "air_date": "2026-12-10",
+          "overview": ""
+        }
+      ]
+    },
+    {
       "id": 125935,
       "name": "Abbott Elementary",
       "original_name": "Abbott Elementary",
@@ -6604,686 +7116,6 @@
       ]
     },
     {
-      "id": 248361,
-      "name": "Beyond the Gates",
-      "original_name": "Beyond the Gates",
-      "first_air_date": "2025-02-24",
-      "status": "Returning Series",
-      "overview": "A powerful and prestigious family reigns over a posh gated community with juicy secrets and scandals waiting to be uncovered.",
-      "poster_path": "/ah7Flh6FSq8WWxMkzRlazSFp2AX.jpg",
-      "backdrop_path": "/qkwz8uBrGgESbw8J6ujmtwSVs2w.jpg",
-      "original_language": "en",
-      "genres": [
-        "Soap",
-        "Drama"
-      ],
-      "networks": [
-        "CBS"
-      ],
-      "popularity": 51.38,
-      "vote_average": 5.8,
-      "last_air_date": "2026-10-28",
-      "next_air_date": "2026-10-29",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 7670182,
-          "season_number": 2,
-          "episode_number": 149,
-          "key": "s02e149",
-          "name": "Tuesday, August 18, 2026",
-          "air_date": "2026-08-18",
-          "overview": "Bill flirts with disaster; Hayley and Ashley clash; Eva's words instigate Leslie; Carlton gives Ted a major update while Nicole does the same with Vanessa; Shanice fields an unanticipated request; Smitty disappoints Martin."
-        },
-        {
-          "id": 7670184,
-          "season_number": 2,
-          "episode_number": 150,
-          "key": "s02e150",
-          "name": "Wednesday, August 19, 2026",
-          "air_date": "2026-08-19",
-          "overview": "Nicole's plan saves the night for Noah; Dani and Andre color outside the lines; Jacob enlists Grayson and Ashley to surprise Naomi; Vernon's plans for Anita get interrupted."
-        },
-        {
-          "id": 7670185,
-          "season_number": 2,
-          "episode_number": 151,
-          "key": "s02e151",
-          "name": "Thursday, August 20, 2026",
-          "air_date": "2026-08-20",
-          "overview": "Leslie is forced to reckon with her past in order to move on with her future; Bill and Ted bond over their shared history; an unexpected reaction causes Nicole to self-examine in front of Kial; Eva and Izaiah divulge some hard tru"
-        },
-        {
-          "id": 7670187,
-          "season_number": 2,
-          "episode_number": 152,
-          "key": "s02e152",
-          "name": "Friday, August 21, 2026",
-          "air_date": "2026-08-21",
-          "overview": "Chelsea is haunted by unresolved trauma while her father reaches his breaking point; Dani locks horns with Hayley; Randy tails Heather; Madison gets conflicting information from two adversaries; Andre issues a threat."
-        },
-        {
-          "id": 7708552,
-          "season_number": 2,
-          "episode_number": 153,
-          "key": "s02e153",
-          "name": "Monday, August 24, 2026",
-          "air_date": "2026-08-24",
-          "overview": "A mystery fuels old fears for Chelsea; Kat is her source of comfort; Leslie gets the cold shoulder; Anita and Vernon put Dani in the hot seat; Ashley gives Hayley what she wants."
-        },
-        {
-          "id": 7708553,
-          "season_number": 2,
-          "episode_number": 154,
-          "key": "s02e154",
-          "name": "Tuesday, August 25, 2026",
-          "air_date": "2026-08-25",
-          "overview": "Heather toys with Martin and Smitty; Vanessa is ready for an overhaul; June bolsters Tyrell; Andre confronts his past, Chelsea projects her panic; Randy has an intriguing update for Joey."
-        },
-        {
-          "id": 7708554,
-          "season_number": 2,
-          "episode_number": 155,
-          "key": "s02e155",
-          "name": "Wednesday, August 26, 2026",
-          "air_date": "2026-08-26",
-          "overview": "Dani’s hunt for answers is cut short; Mona hustles Joey; Carlton has an unexpected run-in; Ted has heavy words for Nicole; Heather lashes out."
-        },
-        {
-          "id": 7708555,
-          "season_number": 2,
-          "episode_number": 156,
-          "key": "s02e156",
-          "name": "Thursday, August 27, 2026",
-          "air_date": "2026-08-27",
-          "overview": "Bill has a proposition for Naomi; Tomas leans on Eva; Nicole and Kat clash; Izaiah confides in Jacob; Ted hides the truth about Andre."
-        },
-        {
-          "id": 7708557,
-          "season_number": 2,
-          "episode_number": 157,
-          "key": "s02e157",
-          "name": "Friday, August 28, 2026",
-          "air_date": "2026-08-28",
-          "overview": "Anita wavers on a big opportunity; Vernon jumps into crisis mode; Hayley hassles Naomi while hustling Bill; Smitty unwittingly incites anxiety for Chelsea and Kat; Elon has disturbing news for Jacob."
-        },
-        {
-          "id": 7741261,
-          "season_number": 2,
-          "episode_number": 158,
-          "key": "s02e158",
-          "name": "Monday, August 31, 2026",
-          "air_date": "2026-08-31",
-          "overview": "Bill puts Hayley to the test; Dani updates Nicole; Ted doles out some unconventional advice to Andre; Grayson seeks Jacob's help; Elon gives Joey the third degree; Heather makes a bold move."
-        },
-        {
-          "id": 7741280,
-          "season_number": 2,
-          "episode_number": 159,
-          "key": "s02e159",
-          "name": "Tuesday, September 1, 2026",
-          "air_date": "2026-09-01",
-          "overview": "Dani shares a heartfelt confession; Nicole counsels her daughter; Hayley is brought to tears; Chelsea and Kat can't seem to escape scandal; Carlton has stunning news for Andre; Izaiah surprises Eva; Naomi bites off more than she c"
-        },
-        {
-          "id": 7741294,
-          "season_number": 2,
-          "episode_number": 160,
-          "key": "s02e160",
-          "name": "Wednesday, September 2, 2026",
-          "air_date": "2026-09-02",
-          "overview": "Vernon supports Anita as she faces the music; Leslie gets an intriguing proposition; Smitty's suspicions spiral; Joey confronts Vanessa; Deanna is haunted by grief; one couple finally finds time for romance."
-        },
-        {
-          "id": 7741311,
-          "season_number": 2,
-          "episode_number": 161,
-          "key": "s02e161",
-          "name": "Thursday, September 3, 2026",
-          "air_date": "2026-09-03",
-          "overview": "Bill has an unwelcome visitor; Smitty needs Nicole's expertise; Joey is pestered by his past decisions; Heather connects with June; Ted does damage control; Ashley leans on Naomi; Elon and Jacob clash."
-        },
-        {
-          "id": 7741314,
-          "season_number": 2,
-          "episode_number": 162,
-          "key": "s02e162",
-          "name": "Friday, September 4, 2026",
-          "air_date": "2026-09-04",
-          "overview": "Dani is distracted from her \"Seoul-mate\"; Andre unpacks paranoia; Bill stuns Hayley; Heather has a heated stand-off; Vanessa and Deanna discover something from before Doug's death; Randy attempts to execute Joey's orders; Chelsea "
-        },
-        {
-          "id": 7768032,
-          "season_number": 2,
-          "episode_number": 163,
-          "key": "s02e163",
-          "name": "Tuesday, September 8, 2026",
-          "air_date": "2026-09-08",
-          "overview": "Anita confronts Leslie; Jacob is stuck between work and family; Naomi rides to Smitty's defense; sabotage leaves Ted speechless; Shanice's brothers come to town."
-        },
-        {
-          "id": 7768033,
-          "season_number": 2,
-          "episode_number": 164,
-          "key": "s02e164",
-          "name": "Wednesday, September 9, 2026",
-          "air_date": "2026-09-09",
-          "overview": "Nicole and Heather have a tense encounter; Naomi strategizes with Kat and Chelsea; Jacob puts Elon in check; Joey finds common ground with a surprise visitor; Vanessa has an unraveling; Martin and Smitty host a send-off for Tyrell"
-        },
-        {
-          "id": 7768063,
-          "season_number": 2,
-          "episode_number": 165,
-          "key": "s02e165",
-          "name": "Thursday, September 10, 2026",
-          "air_date": "2026-09-10",
-          "overview": "Anita, Leslie, Eva and Vernon face the music together; Bill's daughter drops a major bombshell; Vanessa gets vulnerable with Izaiah; Deanna reaches her breaking point and makes a big decision."
-        },
-        {
-          "id": 7768066,
-          "season_number": 2,
-          "episode_number": 166,
-          "key": "s02e166",
-          "name": "Friday, September 11, 2026",
-          "air_date": "2026-09-11",
-          "overview": "Dani gets sneaky in Seoul while Andre concludes his mission; Bill interrogates Hayley; Chelsea and Madison find time for romance amid chaos; Tomas leans on Eva after an argument with Kat; Ted is in the hot seat while Shanice takes"
-        },
-        {
-          "id": 7794057,
-          "season_number": 2,
-          "episode_number": 167,
-          "key": "s02e167",
-          "name": "Monday, September 14, 2026",
-          "air_date": "2026-09-14",
-          "overview": "Vernon’s words surprise Martin; Nicole’s support steadies Anita; Bill grills Hayley; Smitty tells Chelsea there is no turning back; Naomi and Jacob lean on each other; Tomas tries to make amends with Kat."
-        },
-        {
-          "id": 7794089,
-          "season_number": 2,
-          "episode_number": 168,
-          "key": "s02e168",
-          "name": "Tuesday, September 15, 2026",
-          "air_date": "2026-09-15",
-          "overview": "Hayley sounds the alarm; Nicole and Vanessa clash over Heather; Ted and Shanice confront Leslie; Joey and Mona field some urgent questions from an unlikely source."
-        },
-        {
-          "id": 7794090,
-          "season_number": 2,
-          "episode_number": 169,
-          "key": "s02e169",
-          "name": "Wednesdy, September 16, 2026",
-          "air_date": "2026-09-16",
-          "overview": "Anita counsels Kat; Leslie’s loyalty to her family’s legacy ruffles a few feathers; Jacob’s investigation takes an unexpected turn; Vanessa and Randy discuss their regrets; Izaiah makes Darlene’s day; Heather stuns Smitty."
-        },
-        {
-          "id": 7794091,
-          "season_number": 2,
-          "episode_number": 170,
-          "key": "s02e170",
-          "name": "Thursday, September 17, 2026",
-          "air_date": "2026-09-17",
-          "overview": "Bill is in over his head; Dani bears gifts for Anita; Vernon wants Andre to bare his soul; Leslie pulls a confession from Marcel; Smitty panics while Martin and Naomi rally around him."
-        },
-        {
-          "id": 7794092,
-          "season_number": 2,
-          "episode_number": 171,
-          "key": "s02e171",
-          "name": "Friday, September 18, 2026",
-          "air_date": "2026-09-18",
-          "overview": "Dani hears a shocking admission from Bill; Andre receives an apology; Kat turns the tables on Chelsea; Eva and Ted have a heart-to-heart; Shanice and Ashley brace themselves for a serious shakeup at work."
-        },
-        {
-          "id": 7820694,
-          "season_number": 2,
-          "episode_number": 172,
-          "key": "s02e172",
-          "name": "Monday, September 21, 2026",
-          "air_date": "2026-09-21",
-          "overview": "Dani comes to Bill’s aid, and then has a shocking realization; Nicole teams up with Madison to help Chelsea; Andre defends his marriage; Ted is let in on a big secret; Randy tells Izaiah he’s in his debt; Heather out maneuvers Joe"
-        },
-        {
-          "id": 7820695,
-          "season_number": 2,
-          "episode_number": 173,
-          "key": "s02e173",
-          "name": "Tuesday, September 22, 2026",
-          "air_date": "2026-09-22",
-          "overview": "Dani goes on the prowl for proof; Bill takes Caroline into his confidence Naomi has an unexpected proposal for Hayley; Jacob consults with Nicole on his case; Chelsea's shaken by Madison's secrets."
-        },
-        {
-          "id": 7820698,
-          "season_number": 2,
-          "episode_number": 174,
-          "key": "s02e174",
-          "name": "Wednesday, September 23, 2026",
-          "air_date": "2026-09-23",
-          "overview": "Hayley turns the tables; Dani doesn’t hold back; Chelsea confronts Bill; Vanessa unwittingly tells Andre distressing news about Heather; Jacob and Naomi worry it’s too late to save someone they love; Joey has a back alley meeting."
-        },
-        {
-          "id": 7820775,
-          "season_number": 2,
-          "episode_number": 175,
-          "key": "s02e175",
-          "name": "Thursday, September 24, 2026",
-          "air_date": "2026-09-24",
-          "overview": "Jacob issues a bitter pill for Bill to swallow; Leslie is the bearer of bad news for Anita and Vernon; Andre can’t believe what he hears; Hayley enlists Tomas’s help; Martin leans on Ted."
-        },
-        {
-          "id": 7820782,
-          "season_number": 2,
-          "episode_number": 176,
-          "key": "s02e176",
-          "name": "Friday, September 25, 2026",
-          "air_date": "2026-09-25",
-          "overview": "Leslie puts her money where her mouth is; Andre is rattled by an impatient Heather; Hayley issues an ominous warning; Kat is fed up with Tomas; Izaiah’s plans for Eva are interrupted; Naomi’s news shocks Chelsea; a pair of exes ha"
-        },
-        {
-          "id": 7836420,
-          "season_number": 2,
-          "episode_number": 177,
-          "key": "s02e177",
-          "name": "Monday, September 28, 2026",
-          "air_date": "2026-09-28",
-          "overview": "Hayley has another trick up her sleeve; Bill is sideswiped; Nicole puts her foot in her mouth; Kat comes to Izaiah in crisis; Shanice and Ashley face career challenges; Smitty fears Jacob is dodging him."
-        },
-        {
-          "id": 7836421,
-          "season_number": 2,
-          "episode_number": 178,
-          "key": "s02e178",
-          "name": "Tuesday, September 29, 2026",
-          "air_date": "2026-09-29",
-          "overview": "Dani leans on Nicole for comfort; Andre leaves Vernon stunned; Anita becomes an unlikely advocate; Chelsea and Hayley come to blows; Leslie is met with an intriguing invitation, and then an altercation."
-        },
-        {
-          "id": 7836422,
-          "season_number": 2,
-          "episode_number": 179,
-          "key": "s02e179",
-          "name": "Wednesday, September 30, 2026",
-          "air_date": "2026-09-30",
-          "overview": "Billy's decision stuns his family; Nicole is livid with Joey; Leslie ingratiates herself with Hayley; Andre assists Vanessa during a traumatic ordeal; Jacob and Naomi give Chelsea a reality check."
-        },
-        {
-          "id": 7836423,
-          "season_number": 2,
-          "episode_number": 180,
-          "key": "s02e180",
-          "name": "Thursday, October 1, 2026",
-          "air_date": "2026-10-01",
-          "overview": "Dani does her best to bolster Bill; Chelsea takes out her frustrations on Madison; Martin's re-election is in jeopardy; Jacob's evidence is met with familial resistance; Hayley has a face-off with Caroline; Kat and Tomas find comm"
-        },
-        {
-          "id": 7836424,
-          "season_number": 2,
-          "episode_number": 181,
-          "key": "s02e181",
-          "name": "Friday, October 2, 2026",
-          "air_date": "2026-10-02",
-          "overview": "Anita's homecoming party forces Ted and Nicole to navigate their new normal with Shanice and Kial; Vernon gets intel that puts him on high alert; Bill comes clean to Elon; Andre has harsh criticisms for Dani; Heather's in the catb"
-        },
-        {
-          "id": 7836425,
-          "season_number": 2,
-          "episode_number": 182,
-          "key": "s02e182",
-          "name": "Monday, October 5, 2026",
-          "air_date": "2026-10-05",
-          "overview": "Anita hears disturbing news from Vernon; Dani gets the cold shoulder; Bill won't give up without a fight; Nicole offers Deanna a reality check; Vanessa dodges some big questions; Martin and Smitty enjoy a full house; Jacob and Nao"
-        },
-        {
-          "id": 7836426,
-          "season_number": 2,
-          "episode_number": 183,
-          "key": "s02e183",
-          "name": "Tuesday, October 6, 2026",
-          "air_date": "2026-10-06",
-          "overview": "Anita and Dani's update blindsides Nicole; Vernon puts Bill on notice; Hayley scores a big win at a big cost; Leslie defends her actions; Jacob confronts Izaiah; Kat's bold words leave Eva shaken; Chelsea issues an important warin"
-        },
-        {
-          "id": 7836427,
-          "season_number": 2,
-          "episode_number": 184,
-          "key": "s02e184",
-          "name": "Wednesday, October 7, 2026",
-          "air_date": "2026-10-07",
-          "overview": "Vernon comes to the rescue; Dani presses Bill while Andre troubles Ted; Hayley is caught totally off guard; Eva faces the future while Izaiah's distracted; Leslie is devoted to drama; Marcel and Joey practice persuasion."
-        },
-        {
-          "id": 7836428,
-          "season_number": 2,
-          "episode_number": 185,
-          "key": "s02e185",
-          "name": "Thursday, October 8, 2026",
-          "air_date": "2026-10-08",
-          "overview": "Andre dredges up Dani's past; Anita finds comfort in music; Nicole is candid with Vanessa; Ted and Ashley are in cahoots; Leslie gets Hayley scrambling; Randy is fed up; Noah gives Deanna a different perspective."
-        },
-        {
-          "id": 7836429,
-          "season_number": 2,
-          "episode_number": 186,
-          "key": "s02e186",
-          "name": "Friday, October 9, 2026",
-          "air_date": "2026-10-09",
-          "overview": "Vernon shares the ugly truth with Anita; Nicole makes good on a promise; Naomi doesn't back down; Madison leans on Chelsea after risking it all; Smitty draws a hard line with Martin; Vanessa and Joey hear Heather out; Ted's trip w"
-        },
-        {
-          "id": 7893209,
-          "season_number": 2,
-          "episode_number": 187,
-          "key": "s02e187",
-          "name": "Monday, October 12, 2026",
-          "air_date": "2026-10-12",
-          "overview": "Nicole comes clean to Dani; Vernon and Anita defend their family; Naomi and Smitty prepare for the worst; Bill revels in victory; Hayley takes another jab; Izaiah extends an invitation to Elon; Jacob wants new Impaler intel."
-        },
-        {
-          "id": 7893210,
-          "season_number": 2,
-          "episode_number": 188,
-          "key": "s02e188",
-          "name": "Tuesday, October 13, 2026",
-          "air_date": "2026-10-13",
-          "overview": "Martin waits for big news; Smitty waits in shame; Nicole does an about-face with Ted; Naomi shuts Jacob down; Samantha challenges Tyrell; Ashley steps in when Shanice is overwhelmed; Carlton's dalliance with Heather takes a sharp "
-        },
-        {
-          "id": 7893211,
-          "season_number": 2,
-          "episode_number": 189,
-          "key": "s02e189",
-          "name": "Wednesday, October 14, 2026",
-          "air_date": "2026-10-14",
-          "overview": "Vernon's on high alert; Bill is left out of the loop; Dani puts her foot down with Chelsea; Nicole tries to steady Samantha against slander; Naomi feels the heat when Jacob comes under fire."
-        },
-        {
-          "id": 7893212,
-          "season_number": 2,
-          "episode_number": 190,
-          "key": "s02e190",
-          "name": "Thursday, October 15, 2026",
-          "air_date": "2026-10-15",
-          "overview": "Anita and Nicole fight for optimism; Martin's declaration gets derailed; Bill wants more from Dani and finds common ground with Ted; Naomi has a plan for proof; Joey's admission shocks Vanessa; Hayley meets her match."
-        },
-        {
-          "id": 7893213,
-          "season_number": 2,
-          "episode_number": 191,
-          "key": "s02e191",
-          "name": "Friday, October 16, 2026",
-          "air_date": "2026-10-16",
-          "overview": "Andre loses his cool in front of Dani; Naomi takes Bill by surprise; Leslie hears some hard news; Eva snaps and Kat claps back; Hayley attempts to make good with Randy; Heather moves in on Joey."
-        },
-        {
-          "id": 7961565,
-          "season_number": 2,
-          "episode_number": 192,
-          "key": "s02e192",
-          "name": "October 19, 2026",
-          "air_date": "2026-10-19",
-          "overview": "Ted tells a little too much; Anita and Vernon are thrown by an unexpected update; Nicole evades important questions; Shanice is caught between Kat and Eva; Ashley and Grayson get extra affectionate."
-        },
-        {
-          "id": 7961568,
-          "season_number": 2,
-          "episode_number": 193,
-          "key": "s02e193",
-          "name": "October 20, 2026",
-          "air_date": "2026-10-20",
-          "overview": "Bill receives a mysterious package from someone special; Nicole insists she's not holding back; Vernon assures Dani that he's got things handled; Hayley is ready for her next act; Shanice shoots down Ted's suggestion."
-        },
-        {
-          "id": 7961570,
-          "season_number": 2,
-          "episode_number": 194,
-          "key": "s02e194",
-          "name": "October 21, 2026",
-          "air_date": "2026-10-21",
-          "overview": "Smitty worries that Martin is ignoring the obvious; Dani preps for a major moment, but Andre isn't on board; Naomi and Jacob can't keep their promises; Kat cries foul while prepping for Ted's wedding; Eva and Izaiah recall romanti"
-        },
-        {
-          "id": 7961572,
-          "season_number": 2,
-          "episode_number": 195,
-          "key": "s02e195",
-          "name": "October 22, 2026",
-          "air_date": "2026-10-22",
-          "overview": "The family celebrates Dani's life and career, but a surprise guest brings old wounds to the surface; Naomi and Andre deal with the fallout."
-        },
-        {
-          "id": 7961573,
-          "season_number": 2,
-          "episode_number": 196,
-          "key": "s02e196",
-          "name": "October 23, 2026",
-          "air_date": "2026-10-23",
-          "overview": "Naomi encourages her dad to dig deeper; Ted gives Andre kudos for Dani; Heather gets triggered and treacherous; Leslie has devastating words for Hayley; Bill has another thing coming."
-        },
-        {
-          "id": 8000125,
-          "season_number": 2,
-          "episode_number": 197,
-          "key": "s02e197",
-          "name": "October 26, 2026",
-          "air_date": "2026-10-26",
-          "overview": "Hayley gets an upsetting surprise and turns to Randy for help; Jacob faces a struggle between work and family; Naomi seeks out Grayson for information."
-        },
-        {
-          "id": 8000127,
-          "season_number": 2,
-          "episode_number": 198,
-          "key": "s02e198",
-          "name": "October 27, 2026",
-          "air_date": "2026-10-27",
-          "overview": "Dani confronts Hayley about her life in Fairmont Crest; Ted and Shanice clash over their ideals."
-        },
-        {
-          "id": 8000129,
-          "season_number": 2,
-          "episode_number": 199,
-          "key": "s02e199",
-          "name": "October 28, 2026",
-          "air_date": "2026-10-28",
-          "overview": "Naomi and Jacob hit a snag in their relationship; Leslie offers to throw Eva a party, bringing up bad memories of the past."
-        },
-        {
-          "id": 8000132,
-          "season_number": 2,
-          "episode_number": 200,
-          "key": "s02e200",
-          "name": "October 29, 2026",
-          "air_date": "2026-10-29",
-          "overview": "Bill and Naomi butt heads during a legal battle; Martin and Smitty prepare for a big event with Vernon."
-        },
-        {
-          "id": 8000138,
-          "season_number": 2,
-          "episode_number": 201,
-          "key": "s02e201",
-          "name": "October 30, 2026",
-          "air_date": "2026-10-30",
-          "overview": "Bill grills Hayley about the latest rumors; Leslie probes for gossip about Ted and Shanice; Joey takes care of business."
-        },
-        {
-          "id": 7790895,
-          "season_number": 3,
-          "episode_number": 1,
-          "key": "s03e01",
-          "name": "Tuesday, December 29, 2026",
-          "air_date": "2026-12-29",
-          "overview": ""
-        }
-      ]
-    },
-    {
-      "id": 273247,
-      "name": "The Lowdown",
-      "original_name": "The Lowdown",
-      "first_air_date": "2025-09-23",
-      "status": "Returning Series",
-      "overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
-      "poster_path": "/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
-      "backdrop_path": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
-      "original_language": "en",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "networks": [
-        "FX"
-      ],
-      "popularity": 23.4,
-      "vote_average": 6.8,
-      "last_air_date": "2026-10-28",
-      "next_air_date": "2026-11-04",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 5642703,
-          "season_number": 1,
-          "episode_number": 1,
-          "key": "s01e01",
-          "name": "Pilot",
-          "air_date": "2025-09-23",
-          "overview": "When a strange man from a powerful family dies, citizen journalist Lee Raybon smells a cover-up."
-        },
-        {
-          "id": 6231507,
-          "season_number": 1,
-          "episode_number": 2,
-          "key": "s01e02",
-          "name": "The Devil's Mama",
-          "air_date": "2025-09-23",
-          "overview": "Lee's investigation brings new dangers."
-        },
-        {
-          "id": 6231509,
-          "season_number": 1,
-          "episode_number": 3,
-          "key": "s01e03",
-          "name": "Dinosaur Memories",
-          "air_date": "2025-09-30",
-          "overview": "The mysteries of the lake revealed."
-        },
-        {
-          "id": 6231510,
-          "season_number": 1,
-          "episode_number": 4,
-          "key": "s01e04",
-          "name": "Short on Cowboys",
-          "air_date": "2025-10-07",
-          "overview": "Lee has a wild night with a new friend."
-        },
-        {
-          "id": 6231511,
-          "season_number": 1,
-          "episode_number": 5,
-          "key": "s01e05",
-          "name": "This Land?",
-          "air_date": "2025-10-14",
-          "overview": "Lee spends a day with his worst enemy."
-        },
-        {
-          "id": 6231512,
-          "season_number": 1,
-          "episode_number": 6,
-          "key": "s01e06",
-          "name": "The Old Indian Trick",
-          "air_date": "2025-10-21",
-          "overview": "Lee searches for a street hustler."
-        },
-        {
-          "id": 6231513,
-          "season_number": 1,
-          "episode_number": 7,
-          "key": "s01e07",
-          "name": "Tulsa Turnaround",
-          "air_date": "2025-10-28",
-          "overview": "Dark forces gather against Lee."
-        },
-        {
-          "id": 6231514,
-          "season_number": 1,
-          "episode_number": 8,
-          "key": "s01e08",
-          "name": "The Sensitive Kind",
-          "air_date": "2025-11-04",
-          "overview": "The truth comes to light…but at what cost?"
-        },
-        {
-          "id": 7675410,
-          "season_number": 2,
-          "episode_number": 1,
-          "key": "s02e01",
-          "name": "The Rupidoop",
-          "air_date": "2026-10-14",
-          "overview": "Lee's acceptance speech for Citizen Journalist of the Year leaves quite an impression."
-        },
-        {
-          "id": 7675411,
-          "season_number": 2,
-          "episode_number": 2,
-          "key": "s02e02",
-          "name": "Whiskey Bent and Hell Bound",
-          "air_date": "2026-10-14",
-          "overview": "Chili spills the beans."
-        },
-        {
-          "id": 7675412,
-          "season_number": 2,
-          "episode_number": 3,
-          "key": "s02e03",
-          "name": "Truth's Easy",
-          "air_date": "2026-10-21",
-          "overview": "It's not a \"Ren Fair.\""
-        },
-        {
-          "id": 7675413,
-          "season_number": 2,
-          "episode_number": 4,
-          "key": "s02e04",
-          "name": "Raw Milk",
-          "air_date": "2026-10-28",
-          "overview": "Lee goes to a hog contest."
-        },
-        {
-          "id": 7675414,
-          "season_number": 2,
-          "episode_number": 5,
-          "key": "s02e05",
-          "name": "A Dog with Two Tails",
-          "air_date": "2026-11-04",
-          "overview": "An old friend returns a favor."
-        },
-        {
-          "id": 7675415,
-          "season_number": 2,
-          "episode_number": 6,
-          "key": "s02e06",
-          "name": "Leaving and Coming Back",
-          "air_date": "2026-11-11",
-          "overview": "Lee and Frog take a trip down memory lane."
-        },
-        {
-          "id": 7675416,
-          "season_number": 2,
-          "episode_number": 7,
-          "key": "s02e07",
-          "name": "Hot Weeners!",
-          "air_date": "2026-11-18",
-          "overview": ""
-        },
-        {
-          "id": 7675417,
-          "season_number": 2,
-          "episode_number": 8,
-          "key": "s02e08",
-          "name": "The Tower",
-          "air_date": "2026-11-25",
-          "overview": ""
-        }
-      ]
-    },
-    {
       "id": 234310,
       "name": "Where's Wanda?",
       "original_name": "Where's Wanda?",
@@ -7459,7 +7291,7 @@
       "first_air_date": "2026-10-28",
       "status": "In Production",
       "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
-      "poster_path": "/f6GiVWPeexCV6mQ6W5fgiDFQdfB.jpg",
+      "poster_path": "/wIQIbjSS7pXB0O93huVxWhG2W7z.jpg",
       "backdrop_path": "/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
       "original_language": "pt",
       "genres": [
@@ -7833,7 +7665,7 @@
       "first_air_date": "2026-10-13",
       "status": "Returning Series",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster_path": "/ajbVvETMM7NMq4Gc5FauOoyeEnu.jpg",
+      "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "original_language": "en",
       "genres": [
@@ -9231,102 +9063,6 @@
       ]
     },
     {
-      "id": 304842,
-      "name": "The Drop: A Snowfall Saga",
-      "original_name": "The Drop: A Snowfall Saga",
-      "first_air_date": "2026-09-08",
-      "status": "Returning Series",
-      "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
-      "poster_path": "/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-      "backdrop_path": "/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-      "original_language": "en",
-      "genres": [
-        "Drama"
-      ],
-      "networks": [
-        "FX"
-      ],
-      "popularity": 30.03,
-      "vote_average": 7.7,
-      "last_air_date": "2026-10-27",
-      "next_air_date": "",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 6656792,
-          "season_number": 1,
-          "episode_number": 1,
-          "key": "s01e01",
-          "name": "Click Pop",
-          "air_date": "2026-09-08",
-          "overview": "Wanda wants to break into L.A.'s booming rap scene. She stakes her future on her cousin, Lamar, and a rising rapper, Artillery. Leon warns Wanda of the danger of the music business."
-        },
-        {
-          "id": 7420869,
-          "season_number": 1,
-          "episode_number": 2,
-          "key": "s01e02",
-          "name": "Street Matrix",
-          "air_date": "2026-09-15",
-          "overview": "Wanda gets a new job, but street violence threatens to unravel her music dreams. Leon's forced to settle a street conflict."
-        },
-        {
-          "id": 7420871,
-          "season_number": 1,
-          "episode_number": 3,
-          "key": "s01e03",
-          "name": "Family Matters",
-          "air_date": "2026-09-22",
-          "overview": "Wanda struggles to navigate loyalty to family and her ambitions. Lamar's new song grows beyond the label's plans. James and Leon are forced to rethink their futures."
-        },
-        {
-          "id": 7420873,
-          "season_number": 1,
-          "episode_number": 4,
-          "key": "s01e04",
-          "name": "The Big Push",
-          "air_date": "2026-09-29",
-          "overview": "Complications with the label inspire the music family to gamble with their new record. James' plan to get through to Big Daddy and Gerty opens deep family wounds."
-        },
-        {
-          "id": 7420874,
-          "season_number": 1,
-          "episode_number": 5,
-          "key": "s01e05",
-          "name": "Homecoming",
-          "air_date": "2026-10-06",
-          "overview": "In hopes of ending Lamar's music dreams, Gerty and Big Daddy call a meeting and reveal a shocking family secret that changes everything."
-        },
-        {
-          "id": 7420878,
-          "season_number": 1,
-          "episode_number": 6,
-          "key": "s01e06",
-          "name": "Exit Wounds",
-          "air_date": "2026-10-13",
-          "overview": "Reeling from family revelations, Lamar falls out with Wanda and Artillery, as pressure to deliver an album builds. Searching for their own answers, Leon and James join forces."
-        },
-        {
-          "id": 7420879,
-          "season_number": 1,
-          "episode_number": 7,
-          "key": "s01e07",
-          "name": "Blood In, Blood Out",
-          "air_date": "2026-10-20",
-          "overview": "Lamar works to repair fractured relationships through music, Leon is caught between loyalty and responsibility, and Wanda scrambles to find a new plan as Artillery struggles in the wake of tragedy."
-        },
-        {
-          "id": 7420881,
-          "season_number": 1,
-          "episode_number": 8,
-          "key": "s01e08",
-          "name": "Hercules",
-          "air_date": "2026-10-27",
-          "overview": "Wanda forms an unlikely alliance and risks everything on a bold move that could change their future forever."
-        }
-      ]
-    },
-    {
       "id": 275139,
       "name": "Phony",
       "original_name": "Phony",
@@ -10351,180 +10087,99 @@
       ]
     },
     {
-      "id": 289560,
-      "name": "CIA",
-      "original_name": "CIA",
-      "first_air_date": "2026-02-23",
+      "id": 285418,
+      "name": "Youth",
+      "original_name": "Youth",
+      "first_air_date": "2026-09-21",
       "status": "Returning Series",
-      "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
-      "poster_path": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-      "backdrop_path": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+      "overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
+      "poster_path": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "backdrop_path": "/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
       "original_language": "en",
       "genres": [
-        "Crime",
+        "Comedy",
         "Drama"
       ],
       "networks": [
-        "CBS"
+        "HBO Max"
       ],
-      "popularity": 61.53,
-      "vote_average": 8.4,
+      "popularity": 33.7,
+      "vote_average": 6.9,
       "last_air_date": "2026-10-26",
       "next_air_date": "2026-11-02",
       "franchise": "",
       "episodes": [
         {
-          "id": 6156693,
+          "id": 7732101,
           "season_number": 1,
           "episode_number": 1,
           "key": "s01e01",
-          "name": "Directed Energy",
-          "air_date": "2026-02-23",
-          "overview": "When a top-secret weapon is stolen from a U.S. defense contractor, CIA agent Colin Glass is paired with FBI agent Bill Goodman to investigate. Their partnership gets off to a rocky start, but they soon realize their opposing viewp"
+          "name": "Lockjaw",
+          "air_date": "2026-09-21",
+          "overview": "After a surprising diagnosis, Alex deals with Ruari's graduation stunt, her ex's decision to move to Canada, and a setup with an older man."
         },
         {
-          "id": 6943389,
+          "id": 7732102,
           "season_number": 1,
           "episode_number": 2,
           "key": "s01e02",
-          "name": "Fatal Defect",
-          "air_date": "2026-03-02",
-          "overview": "When a known smuggler is flagged at the New York border with unidentified cargo, Colin and Bill head upstate to track. To find this smuggler, they must enlist the help of a foreign intelligence officer looking to defect."
+          "name": "Wagon Burner",
+          "air_date": "2026-09-21",
+          "overview": "Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick."
         },
         {
-          "id": 6943391,
+          "id": 7732103,
           "season_number": 1,
           "episode_number": 3,
           "key": "s01e03",
-          "name": "Bridge of Lies",
-          "air_date": "2026-03-09",
-          "overview": "When a deeply embedded U.S. intelligence officer is detained in Hong Kong, Nikki insists on traveling there to bring him home but her cover is blown."
+          "name": "Welcome to the Rat's Nest",
+          "air_date": "2026-09-28",
+          "overview": "At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel."
         },
         {
-          "id": 6981059,
+          "id": 7732104,
           "season_number": 1,
           "episode_number": 4,
           "key": "s01e04",
-          "name": "Forced Labor",
-          "air_date": "2026-03-16",
-          "overview": "When a wanted Belarusian national is discovered posing as an expecting father, Colin and Bill work to expose an international illegal baby smuggling ring."
+          "name": "Michael Man",
+          "air_date": "2026-10-05",
+          "overview": "Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner."
         },
         {
-          "id": 6981060,
+          "id": 7732105,
           "season_number": 1,
           "episode_number": 5,
           "key": "s01e05",
-          "name": "Deep Cover",
-          "air_date": "2026-03-23",
-          "overview": "After a cyber engineer and her family are killed in a targeted attack, Colin and Bill rush to stop the culprits before they strike again."
+          "name": "The Holiday",
+          "air_date": "2026-10-12",
+          "overview": "In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one."
         },
         {
-          "id": 7014568,
+          "id": 7732106,
           "season_number": 1,
           "episode_number": 6,
           "key": "s01e06",
-          "name": "Pledge of Allegiance",
-          "air_date": "2026-03-30",
-          "overview": "After Colin receives a tip on an upcoming terror plot, the team recovers a young man who was kidnapped nine years ago in Turkey and dig into his time in captivity to help stop the attack. Meanwhile, Bill looks into someone very cl"
+          "name": "Desperate Measures",
+          "air_date": "2026-10-19",
+          "overview": "After getting asked out on a date, Alex tries to make sense of where things stand with Patrick. As Ruari starts his internship at the agency, Sam and Alex attempt to win back Malcolm before Grayson swoops in."
         },
         {
-          "id": 7041694,
+          "id": 7732107,
           "season_number": 1,
           "episode_number": 7,
           "key": "s01e07",
-          "name": "Elimination Game",
-          "air_date": "2026-04-13",
-          "overview": "When handling security for an international soccer game, a bomb threat leads Colin and Bill to two players who are being hunted after they go missing. As the case evolves, the team leans on FBI's Special Agent in Charge Isobel Cas"
+          "name": "Last Night on Earth",
+          "air_date": "2026-10-26",
+          "overview": "Alex finally starts to feel like she has it all when two of her clients get nominated for a prestigious award. Meanwhile, Ruari feels the pressures of dating a slightly older woman, Frank’s therapy brings out new insecurities in S"
         },
         {
-          "id": 7095321,
+          "id": 7732108,
           "season_number": 1,
           "episode_number": 8,
           "key": "s01e08",
-          "name": "Orbital",
-          "air_date": "2026-04-20",
-          "overview": "When a crashed satellite containing dangerous nuclear material disappears, Bill and Colin work with an undercover Gina to recruit the help of a retired arms dealer to help track it down."
-        },
-        {
-          "id": 7116465,
-          "season_number": 1,
-          "episode_number": 9,
-          "key": "s01e09",
-          "name": "Blood Money",
-          "air_date": "2026-04-27",
-          "overview": "A woman with intel on a dangerous terror leader connects Colin and Bill to a family business engaged in terror operations. Now, they must find and turn a new asset to take down the entire operation. Meanwhile, Bill makes a shockin"
-        },
-        {
-          "id": 7171735,
-          "season_number": 1,
-          "episode_number": 10,
-          "key": "s01e10",
-          "name": "Rare Earth",
-          "air_date": "2026-05-04",
-          "overview": "When a foreign diplomat is killed after sneaking into the U.S. under unknown circumstances, Colin and Bill discover that a rare mineral with potential to disrupt international relations may be the reason he was targeted."
-        },
-        {
-          "id": 7171736,
-          "season_number": 1,
-          "episode_number": 11,
-          "key": "s01e11",
-          "name": "Forbidden Eye",
-          "air_date": "2026-05-11",
-          "overview": "When Colin learns his CIA mentor has gone dark, he enlists Bill and the team to help track them down. But as they get closer, the operation reveals significant information about the identity of the mole."
-        },
-        {
-          "id": 7116466,
-          "season_number": 1,
-          "episode_number": 12,
-          "key": "s01e12",
-          "name": "Broken Glass",
-          "air_date": "2026-05-18",
-          "overview": "Colin and Bill race to stop a company from covering up their intelligence theft while taking down a dangerous person from Colin's past."
-        },
-        {
-          "id": 7583513,
-          "season_number": 2,
-          "episode_number": 1,
-          "key": "s02e01",
-          "name": "The Deep",
-          "air_date": "2026-10-05",
-          "overview": "When a known cartel fixer arrives in NYC, the team tracks him down and discovers the body of a DEA agent. After it becomes clear the case is not what it seems, the team must work quickly to prevent additional murders. Meanwhile, B"
-        },
-        {
-          "id": 7844323,
-          "season_number": 2,
-          "episode_number": 2,
-          "key": "s02e02",
-          "name": "Dead Drop",
-          "air_date": "2026-10-12",
-          "overview": "After a Russian spy is poisoned by his own comrades, he offers to help the team neutralize a threat against U.S. assets in Russia in exchange for the dying spy's final wish: revenge."
-        },
-        {
-          "id": 7909110,
-          "season_number": 2,
-          "episode_number": 3,
-          "key": "s02e03",
-          "name": "Radio Active",
-          "air_date": "2026-10-19",
-          "overview": "In order to stop a terrorist cell carrying out a chemical bombing at an unknown location in the city, the team joins forces with an old school code breaker who is suffering from agoraphobia. Together they decipher a seemingly unbr"
-        },
-        {
-          "id": 7909111,
-          "season_number": 2,
-          "episode_number": 4,
-          "key": "s02e04",
-          "name": "Black Tie Optional",
-          "air_date": "2026-10-26",
-          "overview": "When a prominent investor begins selling highly sensitive information to Korean agents, the team must go deep undercover at a high-end gala event to prevent a deadly invasion. Meanwhile, Bill struggles with troubling discoveries o"
-        },
-        {
-          "id": 8001040,
-          "season_number": 2,
-          "episode_number": 5,
-          "key": "s02e05",
-          "name": "Real Intelligence",
+          "name": "Agent of the Year",
           "air_date": "2026-11-02",
-          "overview": "When an extremely powerful and dangerous AI model is stolen by an employee, Colin and Bill look to track her down before she can sell it to the highest bidder. Meanwhile, Bill makes new revelations about his father."
+          "overview": "Amid personal and professional crises, Alex and Sam each try to keep things together at the Women's Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum."
         }
       ]
     },
@@ -10694,156 +10349,6 @@
           "name": "Episode 8",
           "air_date": "2026-10-26",
           "overview": ""
-        }
-      ]
-    },
-    {
-      "id": 321221,
-      "name": "Minimum Wage",
-      "original_name": "Minimum Wage",
-      "first_air_date": "2026-10-26",
-      "status": "Returning Series",
-      "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
-      "poster_path": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
-      "backdrop_path": "/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
-      "original_language": "en",
-      "genres": [
-        "Comedy"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "popularity": 24.3,
-      "vote_average": 9.3,
-      "last_air_date": "2026-10-26",
-      "next_air_date": "",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 7212801,
-          "season_number": 1,
-          "episode_number": 1,
-          "key": "s01e01",
-          "name": "Pilot",
-          "air_date": "2026-10-26",
-          "overview": "When the shop's eccentric owner drops by, the staff walks him through their daily routines while he wonders whether to keep the place open or sell it."
-        },
-        {
-          "id": 7858131,
-          "season_number": 1,
-          "episode_number": 2,
-          "key": "s01e02",
-          "name": "Drama Club",
-          "air_date": "2026-10-26",
-          "overview": "After a secret fling with Julia's mom, Luke flexes his fatherly side with a party of drama students who makes things difficult for Julia and the crew."
-        },
-        {
-          "id": 7858132,
-          "season_number": 1,
-          "episode_number": 3,
-          "key": "s01e03",
-          "name": "Breakup",
-          "air_date": "2026-10-26",
-          "overview": "A couple's public break-up at the restaurant sparks a gender divide among the staff with the guys and the girls taking different sides."
-        },
-        {
-          "id": 7890819,
-          "season_number": 1,
-          "episode_number": 4,
-          "key": "s01e04",
-          "name": "Birthday Cake",
-          "air_date": "2026-10-26",
-          "overview": "Ryan plans a special surprise for Grace's birthday involving a giant cake, while Luke, Tommy and Julia lock themselves on the roof."
-        },
-        {
-          "id": 7890820,
-          "season_number": 1,
-          "episode_number": 5,
-          "key": "s01e05",
-          "name": "No Phones",
-          "air_date": "2026-10-26",
-          "overview": "While Aidan stresses over hair loss, a new \"no phones\" policy at the pizzeria forces the staff into helping Tommy confront his girlfriend."
-        },
-        {
-          "id": 7890821,
-          "season_number": 1,
-          "episode_number": 6,
-          "key": "s01e06",
-          "name": "Lottery Tickets",
-          "air_date": "2026-10-26",
-          "overview": "The staff finds a stack of lottery tickets and imagines how their lives could change. Their big dreams spiral into chaos — but result in a hot tub."
-        },
-        {
-          "id": 7890822,
-          "season_number": 1,
-          "episode_number": 7,
-          "key": "s01e07",
-          "name": "Scouts of America",
-          "air_date": "2026-10-26",
-          "overview": "Ryan tries to put the finishing touches on his college application essay while a troop of young scouts takes over the pizza place for the day."
-        },
-        {
-          "id": 7890823,
-          "season_number": 1,
-          "episode_number": 8,
-          "key": "s01e08",
-          "name": "Restaurant Rules",
-          "air_date": "2026-10-26",
-          "overview": "The crew struggles when Mr. Sylvester requires them to sing and dance to provide a better customer experience."
-        },
-        {
-          "id": 7890824,
-          "season_number": 1,
-          "episode_number": 9,
-          "key": "s01e09",
-          "name": "Sleepover",
-          "air_date": "2026-10-26",
-          "overview": "Julia convinces the crew to come over for a sleepover at her house, but the night doesn't go smoothly — especially with a pet spider on the loose."
-        },
-        {
-          "id": 7890826,
-          "season_number": 1,
-          "episode_number": 10,
-          "key": "s01e10",
-          "name": "Prank Call",
-          "air_date": "2026-10-26",
-          "overview": "Hyde joins forces with Julia to track down the pizza shop's notorious prank caller, and Tommy goes around with an odd request to pass a test."
-        },
-        {
-          "id": 7890827,
-          "season_number": 1,
-          "episode_number": 11,
-          "key": "s01e11",
-          "name": "New Girl",
-          "air_date": "2026-10-26",
-          "overview": "A new female employee creates a rift between the girls and the guys, leading the boys to lean heavily into their masculinity like never before."
-        },
-        {
-          "id": 7890828,
-          "season_number": 1,
-          "episode_number": 12,
-          "key": "s01e12",
-          "name": "Commercial",
-          "air_date": "2026-10-26",
-          "overview": "When Mr. Sylvester needs the staff to shoot a TV commercial, Tommy takes the director's chair and Luke gets ready for his breakout role."
-        },
-        {
-          "id": 7890829,
-          "season_number": 1,
-          "episode_number": 13,
-          "key": "s01e13",
-          "name": "Teachers at Work",
-          "air_date": "2026-10-26",
-          "overview": "Aidan searches for a nickname while the rest of the staff gathers evidence after witnessing what they think is an affair between two of their teachers."
-        },
-        {
-          "id": 7890830,
-          "season_number": 1,
-          "episode_number": 14,
-          "key": "s01e14",
-          "name": "New Year's Eve",
-          "air_date": "2026-10-26",
-          "overview": "The crew must decide who will work on New Year's Eve. During the holiday shift, Tommy has relationship trouble, and Julia tries to get her first kiss."
         }
       ]
     },
@@ -11972,7 +11477,7 @@
         "MGM+"
       ],
       "popularity": 42.29,
-      "vote_average": 6.7,
+      "vote_average": 6.8,
       "last_air_date": "2026-10-25",
       "next_air_date": "2026-11-01",
       "franchise": "",
@@ -12030,6 +11535,103 @@
           "name": "A Princesa De Aveiro",
           "air_date": "2026-11-15",
           "overview": "Captive on Skeleton Island, Jim turns the tables in an attempt to catch up to Long John before he can leave with the treasure; back at sea, alliances fracture and reunite, binding the survivors together in a dangerous new partners"
+        }
+      ]
+    },
+    {
+      "id": 239618,
+      "name": "American Hostage",
+      "original_name": "American Hostage",
+      "first_air_date": "2026-09-20",
+      "status": "Returning Series",
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "poster_path": "/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+      "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "networks": [
+        "MGM+"
+      ],
+      "popularity": 15.71,
+      "vote_average": 6.7,
+      "last_air_date": "2026-10-25",
+      "next_air_date": "2026-11-01",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 4924050,
+          "season_number": 1,
+          "episode_number": 1,
+          "key": "s01e01",
+          "name": "My Town Indy",
+          "air_date": "2026-09-20",
+          "overview": "WIBC News Director Fred Heckman gets the story of his career when a hostage taker, Tony Kiritsis, demands to be interviewed live on air. Fred must decide whether to air the explosive interview."
+        },
+        {
+          "id": 6340472,
+          "season_number": 1,
+          "episode_number": 2,
+          "key": "s01e02",
+          "name": "McMahon, Martinis & Madness",
+          "air_date": "2026-09-20",
+          "overview": "Fred has a groundbreaking on-air interview with Tony, only to find himself pulled further and further away from his role as news director."
+        },
+        {
+          "id": 6340474,
+          "season_number": 1,
+          "episode_number": 3,
+          "key": "s01e03",
+          "name": "Magic Ticket Sweepstakes",
+          "air_date": "2026-09-27",
+          "overview": "When a report from WIBC sends Tony into a deadly spiral, Fred is forced to embrace the role of hostage negotiator to prolong Dick's life."
+        },
+        {
+          "id": 6340475,
+          "season_number": 1,
+          "episode_number": 4,
+          "key": "s01e04",
+          "name": "A Taste of Indianapolis",
+          "air_date": "2026-10-04",
+          "overview": "Fred, in trying to talk Tony through a dark period of despondency, ends up revealing deep personal truths that have repercussions for his marriage."
+        },
+        {
+          "id": 7666958,
+          "season_number": 1,
+          "episode_number": 5,
+          "key": "s01e05",
+          "name": "WIBC Mystery Science Theatre",
+          "air_date": "2026-10-11",
+          "overview": "Fred is pushed to the brink as he waits to see whether Tony will accept the DA's immunity offer; a moment of connection between him and FBI Special Agent McNally shifts into a tense game of cat and mouse, and Fred must face a mora"
+        },
+        {
+          "id": 7666959,
+          "season_number": 1,
+          "episode_number": 6,
+          "key": "s01e06",
+          "name": "Moon News and Markets",
+          "air_date": "2026-10-18",
+          "overview": "Fred wrestles with selling the false immunity agreement to Tony over the air, taking the story back to 1972."
+        },
+        {
+          "id": 7666960,
+          "season_number": 1,
+          "episode_number": 7,
+          "key": "s01e07",
+          "name": "Tomorrow's Here",
+          "air_date": "2026-10-25",
+          "overview": "Having sold the lie of immunity on-air and successfully convinced Tony to sign the agreement, Fred now finds himself shut out of law enforcement's plans to bring this crisis to an end today, one way or another."
+        },
+        {
+          "id": 7666961,
+          "season_number": 1,
+          "episode_number": 8,
+          "key": "s01e08",
+          "name": "Break the Bank",
+          "air_date": "2026-11-01",
+          "overview": "Fred must do everything he can to keep Tony alive when they're thrust into the spotlight."
         }
       ]
     },
@@ -14291,6 +13893,265 @@
           "name": "Episode 8",
           "air_date": "2026-11-27",
           "overview": ""
+        }
+      ]
+    },
+    {
+      "id": 253391,
+      "name": "Sheriff Country",
+      "original_name": "Sheriff Country",
+      "first_air_date": "2025-10-17",
+      "status": "Returning Series",
+      "overview": "Mickey Fox investigates criminal activity and patrols the streets of small-town Edgewater while contending with her ex-con father and a mysterious incident involving her wayward daughter.",
+      "poster_path": "/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+      "backdrop_path": "/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "popularity": 31.28,
+      "vote_average": 7.3,
+      "last_air_date": "2026-10-23",
+      "next_air_date": "2026-10-30",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 5319889,
+          "season_number": 1,
+          "episode_number": 1,
+          "key": "s01e01",
+          "name": "Pilot",
+          "air_date": "2025-10-17",
+          "overview": "When a young boy is caught stealing food, Mickey uncovers a disturbing case of child abuse that leads to a high-stakes rescue and a cliffside standoff that could cost lives. Meanwhile, Mickey's daughter Skye is newly sober, but he"
+        },
+        {
+          "id": 6374517,
+          "season_number": 1,
+          "episode_number": 2,
+          "key": "s01e02",
+          "name": "Firewall",
+          "air_date": "2025-10-24",
+          "overview": "Mickey investigates a harrowing missing persons case all while trying to protect her daughter, whose connection to a crime scene raises unsettling questions; Mickey's sister arrives to support her niece during this deeply emotiona"
+        },
+        {
+          "id": 6576752,
+          "season_number": 1,
+          "episode_number": 3,
+          "key": "s01e03",
+          "name": "The Sixth Man",
+          "air_date": "2025-10-31",
+          "overview": "When a daring daylight robbery shakes the heart of Edgewater, Sheriff Mickey Fox must navigate rising tensions, personal entanglements and a town quick to judge."
+        },
+        {
+          "id": 6576753,
+          "season_number": 1,
+          "episode_number": 4,
+          "key": "s01e04",
+          "name": "Out of Office",
+          "air_date": "2025-11-07",
+          "overview": "When Skye becomes the prime suspect in a murder case, Mickey is forced to step down amid the investigation and launch her own off-the-books search for the truth. As tensions rise and family loyalties are tested, Mickey risks every"
+        },
+        {
+          "id": 6576754,
+          "season_number": 1,
+          "episode_number": 5,
+          "key": "s01e05",
+          "name": "Expecting Trouble",
+          "air_date": "2025-11-14",
+          "overview": "A high-stakes transport mission puts Sheriff Mickey Fox and Deputy Boone on edge as they race against time to protect a vulnerable witness."
+        },
+        {
+          "id": 6660776,
+          "season_number": 1,
+          "episode_number": 6,
+          "key": "s01e06",
+          "name": "Exit Interview",
+          "air_date": "2025-11-21",
+          "overview": "When a body is discovered along the Eel River, Sheriff Mickey Fox and her team launch a homicide investigation that rattles the heart of Edgewater; Wes risks everything to uncover the truth about the murder."
+        },
+        {
+          "id": 6700114,
+          "season_number": 1,
+          "episode_number": 7,
+          "key": "s01e07",
+          "name": "Glory Days",
+          "air_date": "2025-12-05",
+          "overview": "While investigating a brutal assault at Edgewater High, Sheriff Mickey Fox uncovers a disturbing web of secrets, lies and abuse of power at the school."
+        },
+        {
+          "id": 6700118,
+          "season_number": 1,
+          "episode_number": 8,
+          "key": "s01e08",
+          "name": "Death & Taxes",
+          "air_date": "2025-12-12",
+          "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade. Meanwhile, Mickey navigates a tense meal with he"
+        },
+        {
+          "id": 6700122,
+          "season_number": 1,
+          "episode_number": 9,
+          "key": "s01e09",
+          "name": "Crucible (1)",
+          "air_date": "2025-12-19",
+          "overview": "After a father and son flee a secluded ranch run by one of Edgewater's most power families, Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+        },
+        {
+          "id": 6700125,
+          "season_number": 1,
+          "episode_number": 10,
+          "key": "s01e10",
+          "name": "Crucible (2)",
+          "air_date": "2026-02-27",
+          "overview": "With Travis' life on the line and the sheriff's office under attack, Mickey must do whatever it takes to protect her people."
+        },
+        {
+          "id": 6960272,
+          "season_number": 1,
+          "episode_number": 11,
+          "key": "s01e11",
+          "name": "The Aftermath",
+          "air_date": "2026-03-06",
+          "overview": "When a courthouse security test ends in a shocking murder, Sheriff Mickey Fox uncovers a dangerous conspiracy reaching deep into Edgewater's justice system."
+        },
+        {
+          "id": 6981378,
+          "season_number": 1,
+          "episode_number": 12,
+          "key": "s01e12",
+          "name": "Plus One",
+          "air_date": "2026-03-13",
+          "overview": "When a violent home invasion turns out to be the result of a deadly batch of synthetic weed sweeping through Edgewater, Mickey and Boone race to contain the chaos. Meanwhile, Cassidy uncovers disturbing new clues in her sister's d"
+        },
+        {
+          "id": 7037539,
+          "season_number": 1,
+          "episode_number": 13,
+          "key": "s01e13",
+          "name": "The Finest (I)",
+          "air_date": "2026-04-03",
+          "overview": "After a mysterious school bus explosion leaves nine students missing, Mickey and Sharon must set aside their personal conflicts and unite their departments to try and crack the case.\n\nThe crossover continues on Fire Country S04E01"
+        },
+        {
+          "id": 7037540,
+          "season_number": 1,
+          "episode_number": 14,
+          "key": "s01e14",
+          "name": "Show of Force",
+          "air_date": "2026-04-10",
+          "overview": "During Edgewater’s Blood Moon Festival, Sheriff Mickey races to stop a suspected serial killer targeting young women. Meanwhile, a shocking discovery propels deputy Cassidy into the crosshairs of the case."
+        },
+        {
+          "id": 7095336,
+          "season_number": 1,
+          "episode_number": 15,
+          "key": "s01e15",
+          "name": "The Lost Girls of Edgewater County",
+          "air_date": "2026-04-17",
+          "overview": "To save one of her own, Sheriff Mickey Fox launches a race-against-time investigation that exposes long buried secrets and a chilling pattern haunting Edgewater County."
+        },
+        {
+          "id": 7095337,
+          "season_number": 1,
+          "episode_number": 16,
+          "key": "s01e16",
+          "name": "Twenty Four Candles",
+          "air_date": "2026-04-24",
+          "overview": "While Skye celebrates her 24th birthday, Sheriff Mickey Fox investigates a brutal attack tied to a land-grab scheme."
+        },
+        {
+          "id": 7095338,
+          "season_number": 1,
+          "episode_number": 17,
+          "key": "s01e17",
+          "name": "The Hunting Party",
+          "air_date": "2026-05-01",
+          "overview": "Sheriff Mickey Fox investigates a fatal shooting that appears to be a tragic accident during a lavish Fraley family boar hunt, setting off a chain of events with far-reaching consequences for Edgewater."
+        },
+        {
+          "id": 7095339,
+          "season_number": 1,
+          "episode_number": 18,
+          "key": "s01e18",
+          "name": "The Gambler",
+          "air_date": "2026-05-08",
+          "overview": "A dramatic federal crackdown rocks Edgewater and forces Sheriff Mickey Fox to confront a sprawling investigation that pits loyalty to her community against the reach of the DEA. The case pushes Mickey closer to home than ever befo"
+        },
+        {
+          "id": 7095340,
+          "season_number": 1,
+          "episode_number": 19,
+          "key": "s01e19",
+          "name": "Compromised",
+          "air_date": "2026-05-15",
+          "overview": "Sheriff Mickey Fox aids a federal investigation into a high-stakes case involving alleged interstate crime and a web of local land deals."
+        },
+        {
+          "id": 7095341,
+          "season_number": 1,
+          "episode_number": 20,
+          "key": "s01e20",
+          "name": "Mexico",
+          "air_date": "2026-05-22",
+          "overview": "With her department under scrutiny and tensions rising across Edgewater, Sheriff Mickey Fox faces the fallout from a major investigation that threatens to upend everything she's built."
+        },
+        {
+          "id": 7601711,
+          "season_number": 2,
+          "episode_number": 1,
+          "key": "s02e01",
+          "name": "Cyclone",
+          "air_date": "2026-10-09",
+          "overview": "As Sheriff Mickey Fox struggles to process a shocking revelation about her family, she races to save a troubled young woman whose descent into a dangerous criminal operation uncovers a growing threat to all of Edgewater."
+        },
+        {
+          "id": 7803447,
+          "season_number": 2,
+          "episode_number": 2,
+          "key": "s02e02",
+          "name": "Family Trust",
+          "air_date": "2026-10-16",
+          "overview": "As Mickey digs deeper into a dangerous trafficking investigation, a high-stakes undercover sting puts her trust in Wes and Eva to the test. Meanwhile, a breakthrough in a 30-year-old cold case forces a family to confront a long-bu"
+        },
+        {
+          "id": 7803448,
+          "season_number": 2,
+          "episode_number": 3,
+          "key": "s02e03",
+          "name": "Ulysses",
+          "air_date": "2026-10-23",
+          "overview": "When a dangerous new drug begins spreading through Edgewater's college community, Sheriff Mickey Fox races to stop a growing crisis before more lives are put at risk."
+        },
+        {
+          "id": 7803449,
+          "season_number": 2,
+          "episode_number": 4,
+          "key": "s02e04",
+          "name": "Maria",
+          "air_date": "2026-10-30",
+          "overview": "As a dangerous manhunt intensifies across Deadwater, Sheriff Mickey Fox races against time to protect vulnerable lives while long-buried family wounds force her to confront the past."
+        },
+        {
+          "id": 7803450,
+          "season_number": 2,
+          "episode_number": 5,
+          "key": "s02e05",
+          "name": "No Way In (I)",
+          "air_date": "2026-11-06",
+          "overview": "When a dangerous prison break escalates into a volatile hostage crisis, Sheriff Mickey Fox must make a high-stakes decision with personal consequences that could change the course of the case and put lives on the line.\n\nThe crosso"
+        },
+        {
+          "id": 8006514,
+          "season_number": 2,
+          "episode_number": 6,
+          "key": "s02e06",
+          "name": "Close to the Chest",
+          "air_date": "2026-11-13",
+          "overview": "When a dangerous case hits close to home for Hank, Mickey and the team race to protect someone he loves while uncovering the secrets that may have put him in danger."
         }
       ]
     },
@@ -17423,7 +17284,7 @@
       "status": "Returning Series",
       "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop_path": "/5z5yynwihKGkupR2bXIWxO1IZVZ.jpg",
+      "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "original_language": "en",
       "genres": [
         "Drama",
@@ -17678,6 +17539,247 @@
           "name": "Warships",
           "air_date": "2026-10-15",
           "overview": "At a meeting of world leaders, a diplomatic breakdown edges the US closer to an international crisis — and compels Kate to make a seismic decision."
+        }
+      ]
+    },
+    {
+      "id": 47663,
+      "name": "The Ark",
+      "original_name": "The Ark",
+      "first_air_date": "2023-02-01",
+      "status": "Returning Series",
+      "overview": "100 years in the future, planetary colonization missions have begun as a necessity to help secure the survival of the human race. The first of these missions on a spacecraft known as Ark One encounters a catastrophic event causing massive destruction and loss of life. With more than a year left to go before reaching their target planet, a lack of life-sustaining supplies and loss of leadership, the remaining crew must become the best versions of themselves to stay on course and survive.",
+      "poster_path": "/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+      "backdrop_path": "/nUEcobWsTpvOh23US0MRZXIU8jt.jpg",
+      "original_language": "en",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "networks": [
+        "Syfy"
+      ],
+      "popularity": 32.95,
+      "vote_average": 6.5,
+      "last_air_date": "2026-10-14",
+      "next_air_date": "",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 5378350,
+          "season_number": 2,
+          "episode_number": 1,
+          "key": "s02e01",
+          "name": "Failed Experiment",
+          "air_date": "2024-07-17",
+          "overview": "The crew must decide the best way forward with or without help from their nemesis, Evelyn Maddox."
+        },
+        {
+          "id": 5456859,
+          "season_number": 2,
+          "episode_number": 2,
+          "key": "s02e02",
+          "name": "Kill or Be Killed",
+          "air_date": "2024-07-24",
+          "overview": "The arrival of new crew members presents questions of who can be trusted and what to do with them."
+        },
+        {
+          "id": 5456860,
+          "season_number": 2,
+          "episode_number": 3,
+          "key": "s02e03",
+          "name": "Anomaly",
+          "air_date": "2024-07-31",
+          "overview": "An unexpected visitor wreaks havoc on the ship's electrical system."
+        },
+        {
+          "id": 5483888,
+          "season_number": 2,
+          "episode_number": 4,
+          "key": "s02e04",
+          "name": "The Other You",
+          "air_date": "2024-08-07",
+          "overview": "When two realities intertwine, two theories on what could and shouldn't have been are revealed."
+        },
+        {
+          "id": 5483890,
+          "season_number": 2,
+          "episode_number": 5,
+          "key": "s02e05",
+          "name": "Museum of Death",
+          "air_date": "2024-08-14",
+          "overview": "A disturbing rescue mission raises questions about Eva's past."
+        },
+        {
+          "id": 5483892,
+          "season_number": 2,
+          "episode_number": 6,
+          "key": "s02e06",
+          "name": "Pretty Big Deal",
+          "air_date": "2024-08-21",
+          "overview": "When a distress call leads to a desolate planet, what the crew finds turns everything on its head."
+        },
+        {
+          "id": 5483893,
+          "season_number": 2,
+          "episode_number": 7,
+          "key": "s02e07",
+          "name": "It Can't Be True",
+          "air_date": "2024-08-28",
+          "overview": "After an attempted murder, the crew work together to find who's responsible before it's too late."
+        },
+        {
+          "id": 5512949,
+          "season_number": 2,
+          "episode_number": 8,
+          "key": "s02e08",
+          "name": "We Don't Kill Our Own",
+          "air_date": "2024-09-04",
+          "overview": "The ship is taken under siege and the crew must outsmart the mutineers to save themselves."
+        },
+        {
+          "id": 5512950,
+          "season_number": 2,
+          "episode_number": 9,
+          "key": "s02e09",
+          "name": "Cycle of Violence",
+          "air_date": "2024-09-11",
+          "overview": "Garnet has her work cut out for her when she attempts diplomacy with a longstanding enemy."
+        },
+        {
+          "id": 5512951,
+          "season_number": 2,
+          "episode_number": 10,
+          "key": "s02e10",
+          "name": "It Should Have Been You",
+          "air_date": "2024-09-18",
+          "overview": "Garnet and Ian are trapped in the empty ship where they may remain for the rest of their lives."
+        },
+        {
+          "id": 5597057,
+          "season_number": 2,
+          "episode_number": 11,
+          "key": "s02e11",
+          "name": "It Will Be Over Soon",
+          "air_date": "2024-09-25",
+          "overview": "Strickland is presented with an impossible choice."
+        },
+        {
+          "id": 5597059,
+          "season_number": 2,
+          "episode_number": 12,
+          "key": "s02e12",
+          "name": "Fortunate",
+          "air_date": "2024-10-02",
+          "overview": "The crew arrives somewhere that seems too good to be true, and it just might be."
+        },
+        {
+          "id": 7264124,
+          "season_number": 3,
+          "episode_number": 1,
+          "key": "s03e01",
+          "name": "I Told You Not to Come",
+          "air_date": "2026-07-29",
+          "overview": "The colony faces new challenges, while Ark One's latest rescue mission proves its toughest yet."
+        },
+        {
+          "id": 7294401,
+          "season_number": 3,
+          "episode_number": 2,
+          "key": "s03e02",
+          "name": "It Won't Hurt Too Much",
+          "air_date": "2026-08-05",
+          "overview": "Strickland leads a search party as Garnet meets a new foe; a power struggle erupts on Ark 1."
+        },
+        {
+          "id": 7294402,
+          "season_number": 3,
+          "episode_number": 3,
+          "key": "s03e03",
+          "name": "The One",
+          "air_date": "2026-08-12",
+          "overview": "Garnet and Ian hatch an escape plan while a mysterious explosion rocks Homebase."
+        },
+        {
+          "id": 7294403,
+          "season_number": 3,
+          "episode_number": 4,
+          "key": "s03e04",
+          "name": "Hiding In Plain Sight",
+          "air_date": "2026-08-19",
+          "overview": "On Homebase, a new arrival raises more questions; the team attempts a rescue."
+        },
+        {
+          "id": 7294404,
+          "season_number": 3,
+          "episode_number": 5,
+          "key": "s03e05",
+          "name": "It All Happened So Fast",
+          "air_date": "2026-08-26",
+          "overview": "A mysterious signal leads back to Ross; an investigation on Homebase takes an unexpected turn."
+        },
+        {
+          "id": 7294406,
+          "season_number": 3,
+          "episode_number": 6,
+          "key": "s03e06",
+          "name": "Deja Vu",
+          "air_date": "2026-09-02",
+          "overview": "On Ark One, time takes on a whole new meaning - while sinister forces are revealed on Homebase."
+        },
+        {
+          "id": 7294407,
+          "season_number": 3,
+          "episode_number": 7,
+          "key": "s03e07",
+          "name": "I Have Nightmares",
+          "air_date": "2026-09-09",
+          "overview": "Ark One uncovers a ship in distress as Homebase learns shocking truths about the planet's past."
+        },
+        {
+          "id": 7294408,
+          "season_number": 3,
+          "episode_number": 8,
+          "key": "s03e08",
+          "name": "By Any Means Necessary",
+          "air_date": "2026-09-16",
+          "overview": "Brice nears the breaking point while the crew investigates a secret organization."
+        },
+        {
+          "id": 7294409,
+          "season_number": 3,
+          "episode_number": 9,
+          "key": "s03e09",
+          "name": "Critical Failure",
+          "air_date": "2026-09-23",
+          "overview": "Scientific research leads to a billionaire's space station as Homebase pieces the puzzle together."
+        },
+        {
+          "id": 7294410,
+          "season_number": 3,
+          "episode_number": 10,
+          "key": "s03e10",
+          "name": "The Lucky Ones",
+          "air_date": "2026-09-30",
+          "overview": "An act of kindness leads to obsession; Eva and Brice fall victim to a strange phenomenon."
+        },
+        {
+          "id": 7294411,
+          "season_number": 3,
+          "episode_number": 11,
+          "key": "s03e11",
+          "name": "A Pretty Nasty One",
+          "air_date": "2026-10-07",
+          "overview": "Ark One returns to Ark 22 with a plan; Homebase's mystery is solved - but it might be too late."
+        },
+        {
+          "id": 7294412,
+          "season_number": 3,
+          "episode_number": 12,
+          "key": "s03e12",
+          "name": "We Can't Save Everyone",
+          "air_date": "2026-10-14",
+          "overview": "As Garnet embarks on a rescue mission, the entire crew must face an existential threat to Homebase."
         }
       ]
     },
@@ -18151,229 +18253,6 @@
           "name": "AP PHYSICS",
           "air_date": "2026-10-07",
           "overview": "For every action, there is an equal and opposite reaction."
-        }
-      ]
-    },
-    {
-      "id": 97546,
-      "name": "Ted Lasso",
-      "original_name": "Ted Lasso",
-      "first_air_date": "2020-08-14",
-      "status": "Returning Series",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop_path": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-      "original_language": "en",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "networks": [
-        "Apple TV"
-      ],
-      "popularity": 139.37,
-      "vote_average": 8.4,
-      "last_air_date": "2026-10-06",
-      "next_air_date": "",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 4234077,
-          "season_number": 3,
-          "episode_number": 1,
-          "key": "s03e01",
-          "name": "Smells Like Mean Spirit",
-          "air_date": "2023-03-14",
-          "overview": "The newly promoted AFC Richmond face mockery as pundits predict they'll finish dead last this season."
-        },
-        {
-          "id": 4234078,
-          "season_number": 3,
-          "episode_number": 2,
-          "key": "s03e02",
-          "name": "(I Don't Want to Go to) Chelsea",
-          "air_date": "2023-03-21",
-          "overview": "News of a top player looking to move to London sends the English clubs into a frenzy. Richmond play their first game back in the Premier League."
-        },
-        {
-          "id": 4234079,
-          "season_number": 3,
-          "episode_number": 3,
-          "key": "s03e03",
-          "name": "4-5-1",
-          "air_date": "2023-03-28",
-          "overview": "Richmond adjust to an exciting change, but Jamie has reservations. Ted learns there's something new going on back in Kansas as well."
-        },
-        {
-          "id": 4234080,
-          "season_number": 3,
-          "episode_number": 4,
-          "key": "s03e04",
-          "name": "Big Week",
-          "air_date": "2023-04-04",
-          "overview": "Everyone's feeling the pressure as Richmond gear up to play West Ham. Ted is reunited with an old friend."
-        },
-        {
-          "id": 4234081,
-          "season_number": 3,
-          "episode_number": 5,
-          "key": "s03e05",
-          "name": "Signs",
-          "air_date": "2023-04-11",
-          "overview": "With their season in a tailspin, Richmond try to right the ship against mighty Manchester City. Off the pitch, everyone faces their own setbacks."
-        },
-        {
-          "id": 4234082,
-          "season_number": 3,
-          "episode_number": 6,
-          "key": "s03e06",
-          "name": "Sunflowers",
-          "air_date": "2023-04-18",
-          "overview": "A friendly match takes the team to Amsterdam, where one night out unlocks truths for many."
-        },
-        {
-          "id": 4234084,
-          "season_number": 3,
-          "episode_number": 7,
-          "key": "s03e07",
-          "name": "The Strings That Bind Us",
-          "air_date": "2023-04-25",
-          "overview": "The Greyhounds try a new strategy that has everyone thinking outside the box. Sam prepares to host a VIP guest at Ola's."
-        },
-        {
-          "id": 4234085,
-          "season_number": 3,
-          "episode_number": 8,
-          "key": "s03e08",
-          "name": "We'll Never Have Paris",
-          "air_date": "2023-05-02",
-          "overview": "While watching Henry, Ted fights the urge to spiral when Michelle and Dr. Jacob go on a romantic trip. An online leak has massive implications for Keeley."
-        },
-        {
-          "id": 4234087,
-          "season_number": 3,
-          "episode_number": 9,
-          "key": "s03e09",
-          "name": "La Locker Room Aux Folles",
-          "air_date": "2023-05-09",
-          "overview": "Colin and Isaac's friendship is tested. Roy is asked to do a press conference."
-        },
-        {
-          "id": 4234088,
-          "season_number": 3,
-          "episode_number": 10,
-          "key": "s03e10",
-          "name": "International Break",
-          "air_date": "2023-05-16",
-          "overview": "While some of the Greyhounds head home to play for their countries in international matches, Edwin Akufo brings a business proposal to Rebecca."
-        },
-        {
-          "id": 4234090,
-          "season_number": 3,
-          "episode_number": 11,
-          "key": "s03e11",
-          "name": "Mom City",
-          "air_date": "2023-05-23",
-          "overview": "An unexpected guest has Ted on edge. When Richmond travel to Manchester for a big match, Roy and Keeley become concerned about Jamie."
-        },
-        {
-          "id": 4234091,
-          "season_number": 3,
-          "episode_number": 12,
-          "key": "s03e12",
-          "name": "So Long, Farewell",
-          "air_date": "2023-05-30",
-          "overview": "AFC Richmond play their final game of the season."
-        },
-        {
-          "id": 7203305,
-          "season_number": 4,
-          "episode_number": 1,
-          "key": "s04e01",
-          "name": "Home",
-          "air_date": "2026-08-04",
-          "overview": "A few years after Ted leaves Richmond, some familiar faces visit him in Kansas...or is it Missouri?"
-        },
-        {
-          "id": 7203306,
-          "season_number": 4,
-          "episode_number": 2,
-          "key": "s04e02",
-          "name": "Curiouser and Curiouser!",
-          "air_date": "2026-08-11",
-          "overview": "Ted returns to Richmond to meet the Lady Greyhounds, but not everyone is glad to see him."
-        },
-        {
-          "id": 7203307,
-          "season_number": 4,
-          "episode_number": 3,
-          "key": "s04e03",
-          "name": "Richmond's Got Talent",
-          "air_date": "2026-08-18",
-          "overview": "Richmond's shareholders are unsure about a women's team. The coaches hold tryouts to fill out their roster."
-        },
-        {
-          "id": 7203308,
-          "season_number": 4,
-          "episode_number": 4,
-          "key": "s04e04",
-          "name": "Greyhounds' Day Off",
-          "air_date": "2026-08-25",
-          "overview": "The coaches must figure out how to break up team cliques. Ted adjusts to life outside the locker room."
-        },
-        {
-          "id": 7203309,
-          "season_number": 4,
-          "episode_number": 5,
-          "key": "s04e05",
-          "name": "Riches of Embarrassment",
-          "air_date": "2026-09-01",
-          "overview": "The ladies face off against Chelsea. Alice feels the pressure. Rebecca navigates a complicated dynamic."
-        },
-        {
-          "id": 7203310,
-          "season_number": 4,
-          "episode_number": 6,
-          "key": "s04e06",
-          "name": "Don't Jump Around Much Anymore",
-          "air_date": "2026-09-08",
-          "overview": "It's New Year's Eve! The team celebrates big. Rebecca, Roy, and Keeley ring it in with an old friend."
-        },
-        {
-          "id": 7203311,
-          "season_number": 4,
-          "episode_number": 7,
-          "key": "s04e07",
-          "name": "Yes & Baby",
-          "air_date": "2026-09-15",
-          "overview": "Alice and Ted try stepping outside their comfort zones. Zelda helps with a new problem at Richmond."
-        },
-        {
-          "id": 7203313,
-          "season_number": 4,
-          "episode_number": 8,
-          "key": "s04e08",
-          "name": "Follow the Anger",
-          "air_date": "2026-09-22",
-          "overview": "The Lady Greyhounds navigate a difficult setback. Roy and Keeley prepare for the Wall of Legends."
-        },
-        {
-          "id": 7203314,
-          "season_number": 4,
-          "episode_number": 9,
-          "key": "s04e09",
-          "name": "Mae Rides the Bus",
-          "air_date": "2026-09-29",
-          "overview": "Morale is low, but the stakes have never been higher. Mae joins the team on the road. Keeley has news."
-        },
-        {
-          "id": 7203315,
-          "season_number": 4,
-          "episode_number": 10,
-          "key": "s04e10",
-          "name": "Being Alive",
-          "air_date": "2026-10-06",
-          "overview": "Big changes in bunches."
         }
       ]
     },
@@ -19248,104 +19127,6 @@
           "name": "Troy",
           "air_date": "2026-09-03",
           "overview": "A leader wakes to a new world."
-        }
-      ]
-    },
-    {
-      "id": 236235,
-      "name": "The Gentlemen",
-      "original_name": "The Gentlemen",
-      "first_air_date": "2024-03-07",
-      "status": "Returning Series",
-      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "backdrop_path": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "original_language": "en",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "popularity": 75.06,
-      "vote_average": 7.9,
-      "last_air_date": "2026-09-03",
-      "next_air_date": "",
-      "franchise": "",
-      "episodes": [
-        {
-          "id": 7492742,
-          "season_number": 2,
-          "episode_number": 1,
-          "key": "s02e01",
-          "name": "The Road to Kingdom",
-          "air_date": "2026-09-03",
-          "overview": "An Italian gangster, a royal sheikh and a cash-hungry lord join Eddie for a shooting party. With his eyes on a peerage, he needs it to go off with a bang."
-        },
-        {
-          "id": 7492745,
-          "season_number": 2,
-          "episode_number": 2,
-          "key": "s02e02",
-          "name": "There's a Rat in the Kitchen",
-          "air_date": "2026-09-03",
-          "overview": "Eddie makes a deal with the Mafia in Milan, while Jack preps for a high-stakes night on the town. But will either be able to deliver on their promise?"
-        },
-        {
-          "id": 7492746,
-          "season_number": 2,
-          "episode_number": 3,
-          "key": "s02e03",
-          "name": "Do You Reject Satan?",
-          "air_date": "2026-09-03",
-          "overview": "The cost of restoring the Halstead estate to its former glory continues to spiral — while the farm staff's demand for more pay comes at an impossible price."
-        },
-        {
-          "id": 7492748,
-          "season_number": 2,
-          "episode_number": 4,
-          "key": "s02e04",
-          "name": "The Bigger Picture",
-          "air_date": "2026-09-03",
-          "overview": "The House of Lords is split down the middle, so Eddie looks to the church for help. But to get the bishops on side, he needs to ruffle a few feathers."
-        },
-        {
-          "id": 7492750,
-          "season_number": 2,
-          "episode_number": 5,
-          "key": "s02e05",
-          "name": "A Suburban A-Road on the Outskirts of Basingstoke",
-          "air_date": "2026-09-03",
-          "overview": "Eddie faces the violent consequences of his betrayal — and the cost of his loan. Susie and Joe head to Peru to expand the business behind Bobby's back."
-        },
-        {
-          "id": 7492751,
-          "season_number": 2,
-          "episode_number": 6,
-          "key": "s02e06",
-          "name": "The Bells of San Domenico",
-          "air_date": "2026-09-03",
-          "overview": "Marco and Eddie mix business with pleasure amid preparations for the big day. As one guest causes trouble, will the event end in a wedding — or a funeral?"
-        },
-        {
-          "id": 7492753,
-          "season_number": 2,
-          "episode_number": 7,
-          "key": "s02e07",
-          "name": "This Mad Circus",
-          "air_date": "2026-09-03",
-          "overview": "When Halstead Manor gets overrun with vermin, it's up to Geoff to stamp them out and save his employers. Susie accuses Bobby of tinkering with the plane."
-        },
-        {
-          "id": 7492754,
-          "season_number": 2,
-          "episode_number": 8,
-          "key": "s02e08",
-          "name": "Bring Me the Head",
-          "air_date": "2026-09-03",
-          "overview": "A furious Eddie plots his revenge — until Susie steps in. As the truth behind the break-in comes to light, the Horniman family is shaken to its core."
         }
       ]
     },
@@ -22702,6 +22483,174 @@
       ]
     },
     {
+      "id": 81723,
+      "name": "The Gilded Age",
+      "original_name": "The Gilded Age",
+      "first_air_date": "2022-01-24",
+      "status": "Returning Series",
+      "overview": "It’s 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+      "poster_path": "/lBsDmxBI4ELLmgF5uhUCvjgpQxh.jpg",
+      "backdrop_path": "/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "networks": [
+        "HBO"
+      ],
+      "popularity": 35.59,
+      "vote_average": 7.7,
+      "last_air_date": "2025-08-10",
+      "next_air_date": "2026-11-01",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 6201336,
+          "season_number": 3,
+          "episode_number": 1,
+          "key": "s03e01",
+          "name": "Who Is in Charge Here?",
+          "air_date": "2025-06-22",
+          "overview": "As George faces opposition for a new railway plan, Bertha prepares for the Duke's return, and Ada finds purpose in the temperance movement."
+        },
+        {
+          "id": 6201371,
+          "season_number": 3,
+          "episode_number": 2,
+          "key": "s03e02",
+          "name": "What the Papers Say",
+          "air_date": "2025-06-29",
+          "overview": "Amid their domestic quibbles, Agnes and Ada welcome the Scotts into their home. Bertha and George disagree about Gladys's future."
+        },
+        {
+          "id": 6201373,
+          "season_number": 3,
+          "episode_number": 3,
+          "key": "s03e03",
+          "name": "Love Is Never Easy",
+          "air_date": "2025-07-06",
+          "overview": "While George enters tense negotiations, Larry and Jack meet with a potential investor. Later, the Scotts meet the Kirklands."
+        },
+        {
+          "id": 6201375,
+          "season_number": 3,
+          "episode_number": 4,
+          "key": "s03e04",
+          "name": "Marriage Is a Gamble",
+          "air_date": "2025-07-13",
+          "overview": "Bertha deals with unwanted rumors in the press… and the surprise arrival of her sister Monica."
+        },
+        {
+          "id": 6201376,
+          "season_number": 3,
+          "episode_number": 5,
+          "key": "s03e05",
+          "name": "A Different World",
+          "air_date": "2025-07-20",
+          "overview": "While Gladys adjusts to her changed circumstances, Larry runs into a familiar face. Peggy gets an opportunity from an old colleague."
+        },
+        {
+          "id": 6201378,
+          "season_number": 3,
+          "episode_number": 6,
+          "key": "s03e06",
+          "name": "If You Want to Cook an Omelette",
+          "air_date": "2025-07-27",
+          "overview": "Bertha helps Gladys stand up for herself. George attempts a bold business move. Peggy confides in Dr. Kirkland about her past."
+        },
+        {
+          "id": 6201380,
+          "season_number": 3,
+          "episode_number": 7,
+          "key": "s03e07",
+          "name": "Ex-Communicated",
+          "air_date": "2025-08-03",
+          "overview": "Amid the release of a salacious book, Mrs. Astor confides in Bertha. Armed with updates from Arizona, Larry returns home to troubling news."
+        },
+        {
+          "id": 6201381,
+          "season_number": 3,
+          "episode_number": 8,
+          "key": "s03e08",
+          "name": "My Mind Is Made Up",
+          "air_date": "2025-08-10",
+          "overview": "Peggy reveals her truth to Dr. Kirkland, Marian struggles to move forward, and Bertha finally faces the fallout of her actions."
+        },
+        {
+          "id": 7726958,
+          "season_number": 4,
+          "episode_number": 1,
+          "key": "s04e01",
+          "name": "Ring the Bells",
+          "air_date": "2026-11-01",
+          "overview": ""
+        },
+        {
+          "id": 7731116,
+          "season_number": 4,
+          "episode_number": 2,
+          "key": "s04e02",
+          "name": "You Won't Hear Me Beg",
+          "air_date": "2026-11-08",
+          "overview": ""
+        },
+        {
+          "id": 7731117,
+          "season_number": 4,
+          "episode_number": 3,
+          "key": "s04e03",
+          "name": "Episode 3",
+          "air_date": "2026-11-15",
+          "overview": ""
+        },
+        {
+          "id": 7731118,
+          "season_number": 4,
+          "episode_number": 4,
+          "key": "s04e04",
+          "name": "Episode 4",
+          "air_date": "2026-11-22",
+          "overview": ""
+        },
+        {
+          "id": 7731119,
+          "season_number": 4,
+          "episode_number": 5,
+          "key": "s04e05",
+          "name": "Episode 5",
+          "air_date": "2026-11-29",
+          "overview": ""
+        },
+        {
+          "id": 7731120,
+          "season_number": 4,
+          "episode_number": 6,
+          "key": "s04e06",
+          "name": "Episode 6",
+          "air_date": "2026-12-06",
+          "overview": ""
+        },
+        {
+          "id": 7731121,
+          "season_number": 4,
+          "episode_number": 7,
+          "key": "s04e07",
+          "name": "Episode 7",
+          "air_date": "2026-12-13",
+          "overview": ""
+        },
+        {
+          "id": 7731123,
+          "season_number": 4,
+          "episode_number": 8,
+          "key": "s04e08",
+          "name": "Episode 8",
+          "air_date": "2026-12-20",
+          "overview": ""
+        }
+      ]
+    },
+    {
       "id": 100088,
       "name": "The Last of Us",
       "original_name": "The Last of Us",
@@ -24287,6 +24236,121 @@
           "name": "Unraveling the Mystery: A Big Bang Farewell",
           "air_date": "2019-05-16",
           "overview": "Johnny Galecki and Kaley Cuoco will lead fans on a trip down memory lane, sharing some of the best-kept backstage secrets and personal memories from the past 12 years."
+        }
+      ]
+    },
+    {
+      "id": 292741,
+      "name": "Nocturne",
+      "original_name": "Nocturne",
+      "first_air_date": "2026-10-29",
+      "status": "Returning Series",
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "poster_path": "/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "backdrop_path": "/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "popularity": 17.63,
+      "vote_average": 0.0,
+      "last_air_date": "",
+      "next_air_date": "2026-10-29",
+      "franchise": "",
+      "episodes": [
+        {
+          "id": 6274858,
+          "season_number": 1,
+          "episode_number": 1,
+          "key": "s01e01",
+          "name": "Lazarus, Come Forth",
+          "air_date": "2026-10-29",
+          "overview": ""
+        },
+        {
+          "id": 6274859,
+          "season_number": 1,
+          "episode_number": 2,
+          "key": "s01e02",
+          "name": "Episode 2",
+          "air_date": "2026-10-29",
+          "overview": ""
+        },
+        {
+          "id": 7480254,
+          "season_number": 1,
+          "episode_number": 3,
+          "key": "s01e03",
+          "name": "Episode 3",
+          "air_date": "2026-11-05",
+          "overview": ""
+        },
+        {
+          "id": 7480255,
+          "season_number": 1,
+          "episode_number": 4,
+          "key": "s01e04",
+          "name": "Episode 4",
+          "air_date": "2026-11-12",
+          "overview": ""
+        },
+        {
+          "id": 7480256,
+          "season_number": 1,
+          "episode_number": 5,
+          "key": "s01e05",
+          "name": "Episode 5",
+          "air_date": "2026-11-19",
+          "overview": ""
+        },
+        {
+          "id": 7480258,
+          "season_number": 1,
+          "episode_number": 6,
+          "key": "s01e06",
+          "name": "Episode 6",
+          "air_date": "2026-11-26",
+          "overview": ""
+        },
+        {
+          "id": 7480259,
+          "season_number": 1,
+          "episode_number": 7,
+          "key": "s01e07",
+          "name": "Episode 7",
+          "air_date": "2026-12-03",
+          "overview": ""
+        },
+        {
+          "id": 7480260,
+          "season_number": 1,
+          "episode_number": 8,
+          "key": "s01e08",
+          "name": "Episode 8",
+          "air_date": "2026-12-10",
+          "overview": ""
+        },
+        {
+          "id": 7480261,
+          "season_number": 1,
+          "episode_number": 9,
+          "key": "s01e09",
+          "name": "Episode 9",
+          "air_date": "2026-12-17",
+          "overview": ""
+        },
+        {
+          "id": 7480263,
+          "season_number": 1,
+          "episode_number": 10,
+          "key": "s01e10",
+          "name": "Episode 10",
+          "air_date": "2026-12-24",
+          "overview": ""
         }
       ]
     }
