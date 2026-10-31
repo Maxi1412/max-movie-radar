@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T10:59:09Z",
+  "generated_at": "2026-10-31T20:30:03Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -55,7 +55,7 @@
       ],
       "popularity": 50.41,
       "vote_average": 5.3,
-      "vote_count": 253,
+      "vote_count": 255,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-20"
@@ -77,7 +77,7 @@
       ],
       "popularity": 13.63,
       "vote_average": 6.0,
-      "vote_count": 730,
+      "vote_count": 733,
       "physical_dates": {
         "GB": "2026-10-26"
       },
@@ -121,7 +121,7 @@
       ],
       "popularity": 32.11,
       "vote_average": 7.1,
-      "vote_count": 2290,
+      "vote_count": 2291,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -185,7 +185,7 @@
       ],
       "popularity": 9.62,
       "vote_average": 6.8,
-      "vote_count": 47,
+      "vote_count": 48,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -206,7 +206,7 @@
       ],
       "popularity": 9.81,
       "vote_average": 6.9,
-      "vote_count": 94,
+      "vote_count": 95,
       "physical_dates": {
         "US": "2026-10-16"
       },
@@ -246,7 +246,7 @@
       ],
       "popularity": 32.4,
       "vote_average": 7.6,
-      "vote_count": 1856,
+      "vote_count": 1858,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -310,7 +310,7 @@
       ],
       "popularity": 84.89,
       "vote_average": 7.5,
-      "vote_count": 996,
+      "vote_count": 998,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -332,7 +332,7 @@
       ],
       "popularity": 14.26,
       "vote_average": 7.3,
-      "vote_count": 290,
+      "vote_count": 291,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -354,7 +354,7 @@
       ],
       "popularity": 31.24,
       "vote_average": 7.2,
-      "vote_count": 895,
+      "vote_count": 896,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -403,6 +403,26 @@
       "trailer_key": "yJ7DY5eXQN0"
     },
     {
+      "id": 1502939,
+      "title": "Harvest Brood",
+      "year": "2025",
+      "first_release_date": "2025-10-11",
+      "overview": "In October 2006, the community of Briar, Alabama was terrorized by a series of gruesome killings. This film is an account of the horrors that unfolded during that fateful autumn.",
+      "original_language": "en",
+      "poster_path": "/zGDKvPzq7RO9bDwZkPcfPR8uLxv.jpg",
+      "backdrop_path": "/lfKYxpuqMAxUwaEzjF0eiiq1D2m.jpg",
+      "genre_names": [
+        "Horror"
+      ],
+      "popularity": 2.76,
+      "vote_average": 6.5,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-09-30"
+      },
+      "trailer_key": "KqGI3b90YKs"
+    },
+    {
       "id": 1084244,
       "title": "Toy Story 5",
       "year": "2026",
@@ -419,7 +439,7 @@
       ],
       "popularity": 92.97,
       "vote_average": 8.3,
-      "vote_count": 2766,
+      "vote_count": 2768,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -439,7 +459,7 @@
       ],
       "popularity": 42.54,
       "vote_average": 6.3,
-      "vote_count": 2096,
+      "vote_count": 2097,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -481,7 +501,7 @@
       ],
       "popularity": 12.98,
       "vote_average": 7.4,
-      "vote_count": 86,
+      "vote_count": 87,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -660,27 +680,6 @@
       "trailer_key": "yx2YuoAnwlQ"
     },
     {
-      "id": 1384040,
-      "title": "Haunted Heist",
-      "year": "2025",
-      "first_release_date": "2025-09-20",
-      "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
-      "original_language": "en",
-      "poster_path": "/fpSuBrNV6wRO2qtPwu27JpHkhzl.jpg",
-      "backdrop_path": "/qENUVqurvCR1OW4vmp6N7QDBO9p.jpg",
-      "genre_names": [
-        "Horror",
-        "Comedy"
-      ],
-      "popularity": 2.18,
-      "vote_average": 7.2,
-      "vote_count": 5,
-      "physical_dates": {
-        "US": "2026-09-15"
-      },
-      "trailer_key": "HxQ1lws1AFA"
-    },
-    {
       "id": 1263012,
       "title": "Dead Man's Wire",
       "year": "2025",
@@ -762,7 +761,7 @@
       ],
       "popularity": 67.65,
       "vote_average": 7.6,
-      "vote_count": 1346,
+      "vote_count": 1349,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -784,7 +783,7 @@
       ],
       "popularity": 39.47,
       "vote_average": 6.6,
-      "vote_count": 2674,
+      "vote_count": 2676,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -871,7 +870,7 @@
       ],
       "popularity": 103.28,
       "vote_average": 8.2,
-      "vote_count": 6424,
+      "vote_count": 6430,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -982,26 +981,6 @@
       "trailer_key": "opwPUoi1YDw"
     },
     {
-      "id": 1798697,
-      "title": "Avo, a Love Story",
-      "year": "2026",
-      "first_release_date": "2026-09-01",
-      "overview": "Interview with film critic Pier Maria Bocchi about the Italian VHS label \"Avo Film\".",
-      "original_language": "en",
-      "poster_path": null,
-      "backdrop_path": null,
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 2.36,
-      "vote_average": 6.0,
-      "vote_count": 1,
-      "physical_dates": {
-        "US": "2026-09-01"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 1275779,
       "title": "Disclosure Day",
       "year": "2026",
@@ -1016,7 +995,7 @@
       ],
       "popularity": 80.65,
       "vote_average": 7.4,
-      "vote_count": 3907,
+      "vote_count": 3915,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1169,7 +1148,7 @@
       ],
       "popularity": 11.23,
       "vote_average": 7.5,
-      "vote_count": 1164,
+      "vote_count": 1165,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1230,7 +1209,7 @@
       ],
       "popularity": 87.24,
       "vote_average": 8.6,
-      "vote_count": 8613,
+      "vote_count": 8619,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1251,7 +1230,7 @@
       ],
       "popularity": 18.46,
       "vote_average": 6.8,
-      "vote_count": 1022,
+      "vote_count": 1023,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1272,7 +1251,7 @@
       ],
       "popularity": 42.12,
       "vote_average": 8.6,
-      "vote_count": 4646,
+      "vote_count": 4650,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1314,7 +1293,7 @@
       ],
       "popularity": 27.4,
       "vote_average": 7.0,
-      "vote_count": 2509,
+      "vote_count": 2513,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1357,7 +1336,7 @@
       ],
       "popularity": 18.88,
       "vote_average": 6.9,
-      "vote_count": 2017,
+      "vote_count": 2019,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1399,7 +1378,7 @@
       ],
       "popularity": 24.78,
       "vote_average": 7.8,
-      "vote_count": 2837,
+      "vote_count": 2839,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1420,8 +1399,8 @@
         "Thriller"
       ],
       "popularity": 14.01,
-      "vote_average": 7.2,
-      "vote_count": 773,
+      "vote_average": 7.3,
+      "vote_count": 774,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1505,7 +1484,7 @@
       ],
       "popularity": 12.82,
       "vote_average": 6.9,
-      "vote_count": 1212,
+      "vote_count": 1214,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1548,7 +1527,7 @@
       ],
       "popularity": 21.64,
       "vote_average": 7.0,
-      "vote_count": 1459,
+      "vote_count": 1461,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1636,7 +1615,7 @@
       ],
       "popularity": 20.66,
       "vote_average": 7.5,
-      "vote_count": 1774,
+      "vote_count": 1778,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1682,7 +1661,7 @@
       ],
       "popularity": 50.27,
       "vote_average": 8.2,
-      "vote_count": 3922,
+      "vote_count": 3924,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1704,7 +1683,7 @@
       ],
       "popularity": 28.5,
       "vote_average": 6.2,
-      "vote_count": 1402,
+      "vote_count": 1405,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1957,7 +1936,7 @@
       ],
       "popularity": 55.19,
       "vote_average": 7.6,
-      "vote_count": 4623,
+      "vote_count": 4626,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2192,7 +2171,7 @@
       ],
       "popularity": 20.18,
       "vote_average": 6.6,
-      "vote_count": 1423,
+      "vote_count": 1424,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2214,7 +2193,7 @@
       ],
       "popularity": 19.67,
       "vote_average": 7.0,
-      "vote_count": 2458,
+      "vote_count": 2460,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2302,7 +2281,7 @@
       ],
       "popularity": 28.6,
       "vote_average": 7.7,
-      "vote_count": 2008,
+      "vote_count": 2012,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2324,7 +2303,7 @@
       ],
       "popularity": 19.48,
       "vote_average": 7.1,
-      "vote_count": 1897,
+      "vote_count": 1899,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2501,7 +2480,7 @@
       ],
       "popularity": 16.98,
       "vote_average": 7.1,
-      "vote_count": 1802,
+      "vote_count": 1804,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2543,7 +2522,7 @@
       ],
       "popularity": 19.96,
       "vote_average": 7.4,
-      "vote_count": 2349,
+      "vote_count": 2351,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2766,7 +2745,7 @@
       ],
       "popularity": 49.06,
       "vote_average": 7.7,
-      "vote_count": 3636,
+      "vote_count": 3638,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2788,7 +2767,7 @@
       ],
       "popularity": 19.68,
       "vote_average": 6.7,
-      "vote_count": 2095,
+      "vote_count": 2099,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2809,7 +2788,7 @@
       ],
       "popularity": 13.87,
       "vote_average": 7.7,
-      "vote_count": 1733,
+      "vote_count": 1735,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2979,7 +2958,7 @@
       ],
       "popularity": 28.68,
       "vote_average": 7.8,
-      "vote_count": 3864,
+      "vote_count": 3867,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3001,7 +2980,7 @@
       ],
       "popularity": 11.79,
       "vote_average": 7.3,
-      "vote_count": 950,
+      "vote_count": 951,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3169,7 +3148,7 @@
       ],
       "popularity": 19.82,
       "vote_average": 7.3,
-      "vote_count": 2558,
+      "vote_count": 2559,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3264,6 +3243,26 @@
       "trailer_key": "ykrxpIiiOQs"
     },
     {
+      "id": 1443170,
+      "title": "The Prospect",
+      "year": "2025",
+      "first_release_date": "2025-02-01",
+      "overview": "When high school senior Jerry Vanetti gets rejected from every college he applied to, he hatches a plan to pose as an elite baseball prospect in order to trick a school into giving him an athletic scholarship… despite the fact that he’s never played a sport in his life.",
+      "original_language": "en",
+      "poster_path": "/7DgwYc5uX0Nvr4816dAS3qQNPLb.jpg",
+      "backdrop_path": null,
+      "genre_names": [
+        "Comedy"
+      ],
+      "popularity": 3.16,
+      "vote_average": 8.0,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-02-03"
+      },
+      "trailer_key": "72Od0QS68kk"
+    },
+    {
       "id": 1249508,
       "title": "Grizzly Night",
       "year": "2026",
@@ -3323,7 +3322,7 @@
       ],
       "popularity": 23.82,
       "vote_average": 7.3,
-      "vote_count": 4472,
+      "vote_count": 4474,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3389,7 +3388,7 @@
       ],
       "popularity": 16.46,
       "vote_average": 6.6,
-      "vote_count": 1208,
+      "vote_count": 1209,
       "physical_dates": {
         "US": "2026-01-20"
       },
@@ -3412,7 +3411,7 @@
       ],
       "popularity": 8.52,
       "vote_average": 6.5,
-      "vote_count": 583,
+      "vote_count": 584,
       "physical_dates": {
         "GB": "2026-01-19"
       },
@@ -3434,7 +3433,7 @@
       ],
       "popularity": 13.71,
       "vote_average": 6.4,
-      "vote_count": 1705,
+      "vote_count": 1706,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3447,7 +3446,7 @@
       "first_release_date": "2025-09-17",
       "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
       "original_language": "en",
-      "poster_path": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
+      "poster_path": "/hFVa74eIxVf0xiBNhmMJtAW2n9e.jpg",
       "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
       "genre_names": [
         "Horror",
@@ -3587,7 +3586,7 @@
       ],
       "popularity": 14.48,
       "vote_average": 6.8,
-      "vote_count": 2113,
+      "vote_count": 2116,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3608,7 +3607,7 @@
       ],
       "popularity": 14.02,
       "vote_average": 6.6,
-      "vote_count": 1414,
+      "vote_count": 1415,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3672,7 +3671,7 @@
       ],
       "popularity": 27.4,
       "vote_average": 7.3,
-      "vote_count": 1578,
+      "vote_count": 1583,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -3839,7 +3838,7 @@
       ],
       "popularity": 4.34,
       "vote_average": 5.6,
-      "vote_count": 51,
+      "vote_count": 52,
       "physical_dates": {
         "US": "2025-12-09"
       },
@@ -4032,7 +4031,7 @@
       ],
       "popularity": 9.03,
       "vote_average": 6.9,
-      "vote_count": 1433,
+      "vote_count": 1434,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -4118,7 +4117,7 @@
       ],
       "popularity": 11.15,
       "vote_average": 6.2,
-      "vote_count": 1683,
+      "vote_count": 1684,
       "physical_dates": {
         "GB": "2025-11-17"
       },
@@ -4293,7 +4292,7 @@
       ],
       "popularity": 38.64,
       "vote_average": 7.8,
-      "vote_count": 4931,
+      "vote_count": 4938,
       "physical_dates": {
         "GB": "2025-11-10"
       },
