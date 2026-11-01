@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T11:54:39Z",
+  "generated_at": "2026-11-01T21:15:34Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -55,7 +55,7 @@
       ],
       "popularity": 25.37,
       "vote_average": 7.6,
-      "vote_count": 4024,
+      "vote_count": 4025,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -78,7 +78,7 @@
       ],
       "popularity": 53.3,
       "vote_average": 5.3,
-      "vote_count": 263,
+      "vote_count": 270,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-20"
@@ -100,7 +100,7 @@
       ],
       "popularity": 14.02,
       "vote_average": 6.0,
-      "vote_count": 734,
+      "vote_count": 739,
       "physical_dates": {
         "GB": "2026-10-26"
       },
@@ -165,7 +165,7 @@
       ],
       "popularity": 19.19,
       "vote_average": 6.4,
-      "vote_count": 241,
+      "vote_count": 244,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -187,7 +187,7 @@
       ],
       "popularity": 13.79,
       "vote_average": 6.4,
-      "vote_count": 672,
+      "vote_count": 673,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -229,7 +229,7 @@
       ],
       "popularity": 8.73,
       "vote_average": 6.9,
-      "vote_count": 96,
+      "vote_count": 97,
       "physical_dates": {
         "US": "2026-10-16"
       },
@@ -269,7 +269,7 @@
       ],
       "popularity": 36.59,
       "vote_average": 7.6,
-      "vote_count": 1872,
+      "vote_count": 1875,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -283,7 +283,7 @@
       "first_release_date": "2026-10-08",
       "overview": "Following the events of both \"Night of The Living Dead\" and \"Return of The Living Dead\", \"Rebirth of The Living Dead\" picks up nearly 50 years later in Los Angeles where \"Trioxin Trash\" is the new drug on the street. This \"ultimate high\" turns users into brain-craving Living Dead and it's up to a lone Scientist and a young couple to uncover the cure before it's too late.",
       "original_language": "en",
-      "poster_path": "/fuFOpJnPAu9oG7F6ExyEvV1CNUX.jpg",
+      "poster_path": "/60VFCXGZ3HyGqZm6Jthhqpc2Xbt.jpg",
       "backdrop_path": null,
       "genre_names": [
         "Horror"
@@ -377,7 +377,7 @@
       ],
       "popularity": 29.67,
       "vote_average": 7.2,
-      "vote_count": 898,
+      "vote_count": 899,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -462,7 +462,7 @@
       ],
       "popularity": 87.85,
       "vote_average": 8.3,
-      "vote_count": 2777,
+      "vote_count": 2783,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -482,7 +482,7 @@
       ],
       "popularity": 48.04,
       "vote_average": 6.3,
-      "vote_count": 2102,
+      "vote_count": 2104,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -544,7 +544,7 @@
       ],
       "popularity": 8.33,
       "vote_average": 6.4,
-      "vote_count": 60,
+      "vote_count": 61,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -703,6 +703,27 @@
       "trailer_key": "yx2YuoAnwlQ"
     },
     {
+      "id": 1384040,
+      "title": "Haunted Heist",
+      "year": "2025",
+      "first_release_date": "2025-09-20",
+      "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
+      "original_language": "en",
+      "poster_path": "/fpSuBrNV6wRO2qtPwu27JpHkhzl.jpg",
+      "backdrop_path": "/qENUVqurvCR1OW4vmp6N7QDBO9p.jpg",
+      "genre_names": [
+        "Horror",
+        "Comedy"
+      ],
+      "popularity": 2.58,
+      "vote_average": 7.2,
+      "vote_count": 5,
+      "physical_dates": {
+        "US": "2026-09-15"
+      },
+      "trailer_key": "HxQ1lws1AFA"
+    },
+    {
       "id": 1263012,
       "title": "Dead Man's Wire",
       "year": "2025",
@@ -784,7 +805,7 @@
       ],
       "popularity": 63.3,
       "vote_average": 7.6,
-      "vote_count": 1353,
+      "vote_count": 1354,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -806,7 +827,7 @@
       ],
       "popularity": 41.13,
       "vote_average": 6.6,
-      "vote_count": 2677,
+      "vote_count": 2681,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -829,7 +850,7 @@
       ],
       "popularity": 32.53,
       "vote_average": 9.1,
-      "vote_count": 496,
+      "vote_count": 497,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -893,7 +914,7 @@
       ],
       "popularity": 113.45,
       "vote_average": 8.2,
-      "vote_count": 6451,
+      "vote_count": 6455,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -1040,7 +1061,7 @@
       ],
       "popularity": 35.03,
       "vote_average": 7.5,
-      "vote_count": 1944,
+      "vote_count": 1945,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1062,7 +1083,7 @@
       ],
       "popularity": 28.33,
       "vote_average": 7.9,
-      "vote_count": 1875,
+      "vote_count": 1881,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1171,7 +1192,7 @@
       ],
       "popularity": 9.89,
       "vote_average": 7.5,
-      "vote_count": 1165,
+      "vote_count": 1169,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1200,24 +1221,6 @@
       "trailer_key": "psTPpZug5-I"
     },
     {
-      "id": 1766435,
-      "title": "Behind Barbarian",
-      "year": "2026",
-      "first_release_date": "2026-08-16",
-      "overview": "The Making of Barbarian (2022)",
-      "original_language": "en",
-      "poster_path": null,
-      "backdrop_path": null,
-      "genre_names": [],
-      "popularity": 2.21,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-08-16"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 687163,
       "title": "Project Hail Mary",
       "year": "2026",
@@ -1232,7 +1235,7 @@
       ],
       "popularity": 82.04,
       "vote_average": 8.6,
-      "vote_count": 8635,
+      "vote_count": 8641,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1253,7 +1256,7 @@
       ],
       "popularity": 19.86,
       "vote_average": 6.8,
-      "vote_count": 1028,
+      "vote_count": 1029,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1274,7 +1277,7 @@
       ],
       "popularity": 44.21,
       "vote_average": 8.6,
-      "vote_count": 4658,
+      "vote_count": 4660,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1316,7 +1319,7 @@
       ],
       "popularity": 27.18,
       "vote_average": 7.0,
-      "vote_count": 2518,
+      "vote_count": 2522,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1359,7 +1362,7 @@
       ],
       "popularity": 18.8,
       "vote_average": 6.9,
-      "vote_count": 2020,
+      "vote_count": 2024,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1401,7 +1404,7 @@
       ],
       "popularity": 27.3,
       "vote_average": 7.8,
-      "vote_count": 2845,
+      "vote_count": 2846,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1423,7 +1426,7 @@
       ],
       "popularity": 13.54,
       "vote_average": 7.2,
-      "vote_count": 775,
+      "vote_count": 776,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1463,7 +1466,7 @@
       ],
       "popularity": 7.01,
       "vote_average": 6.5,
-      "vote_count": 356,
+      "vote_count": 357,
       "physical_dates": {
         "ES": "2026-07-13"
       },
@@ -1527,7 +1530,7 @@
       ],
       "popularity": 13.62,
       "vote_average": 6.9,
-      "vote_count": 1217,
+      "vote_count": 1219,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1570,7 +1573,7 @@
       ],
       "popularity": 22.08,
       "vote_average": 7.0,
-      "vote_count": 1461,
+      "vote_count": 1465,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1593,7 +1596,7 @@
       ],
       "popularity": 6.55,
       "vote_average": 7.2,
-      "vote_count": 715,
+      "vote_count": 717,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1658,7 +1661,7 @@
       ],
       "popularity": 21.99,
       "vote_average": 7.5,
-      "vote_count": 1780,
+      "vote_count": 1781,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1704,7 +1707,7 @@
       ],
       "popularity": 47.53,
       "vote_average": 8.2,
-      "vote_count": 3930,
+      "vote_count": 3931,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1892,7 +1895,7 @@
       ],
       "popularity": 12.08,
       "vote_average": 6.9,
-      "vote_count": 836,
+      "vote_count": 837,
       "physical_dates": {
         "GB": "2026-06-08"
       },
@@ -1937,7 +1940,7 @@
       ],
       "popularity": 36.7,
       "vote_average": 8.1,
-      "vote_count": 2497,
+      "vote_count": 2498,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -2001,7 +2004,7 @@
       ],
       "popularity": 6.78,
       "vote_average": 6.6,
-      "vote_count": 351,
+      "vote_count": 352,
       "physical_dates": {
         "GB": "2026-06-01"
       },
@@ -2212,7 +2215,7 @@
       ],
       "popularity": 29.71,
       "vote_average": 8.0,
-      "vote_count": 1147,
+      "vote_count": 1148,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2234,7 +2237,7 @@
       ],
       "popularity": 19.31,
       "vote_average": 6.6,
-      "vote_count": 1424,
+      "vote_count": 1425,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2256,7 +2259,7 @@
       ],
       "popularity": 19.24,
       "vote_average": 7.0,
-      "vote_count": 2465,
+      "vote_count": 2466,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2366,7 +2369,7 @@
       ],
       "popularity": 19.89,
       "vote_average": 7.1,
-      "vote_count": 1902,
+      "vote_count": 1903,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2388,7 +2391,7 @@
       ],
       "popularity": 13.77,
       "vote_average": 6.4,
-      "vote_count": 967,
+      "vote_count": 966,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2410,7 +2413,7 @@
       ],
       "popularity": 13.38,
       "vote_average": 7.1,
-      "vote_count": 1165,
+      "vote_count": 1166,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2741,7 +2744,7 @@
       ],
       "popularity": 4.97,
       "vote_average": 7.9,
-      "vote_count": 225,
+      "vote_count": 226,
       "physical_dates": {
         "US": "2026-03-10"
       },
@@ -2808,7 +2811,7 @@
       ],
       "popularity": 45.43,
       "vote_average": 7.7,
-      "vote_count": 3640,
+      "vote_count": 3642,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2913,8 +2916,8 @@
         "Thriller"
       ],
       "popularity": 7.33,
-      "vote_average": 6.4,
-      "vote_count": 186,
+      "vote_average": 6.3,
+      "vote_count": 187,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2958,7 +2961,7 @@
       ],
       "popularity": 11.97,
       "vote_average": 7.3,
-      "vote_count": 1372,
+      "vote_count": 1373,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -3043,7 +3046,7 @@
       ],
       "popularity": 10.99,
       "vote_average": 7.3,
-      "vote_count": 952,
+      "vote_count": 953,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3128,7 +3131,7 @@
       ],
       "popularity": 18.7,
       "vote_average": 6.6,
-      "vote_count": 1240,
+      "vote_count": 1241,
       "physical_dates": {
         "US": "2026-02-16"
       },
@@ -3211,7 +3214,7 @@
       ],
       "popularity": 18.39,
       "vote_average": 7.3,
-      "vote_count": 2560,
+      "vote_count": 2565,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3385,7 +3388,7 @@
       ],
       "popularity": 22.75,
       "vote_average": 7.3,
-      "vote_count": 4476,
+      "vote_count": 4480,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3451,11 +3454,34 @@
       ],
       "popularity": 16.15,
       "vote_average": 6.6,
-      "vote_count": 1210,
+      "vote_count": 1211,
       "physical_dates": {
         "US": "2026-01-20"
       },
       "trailer_key": "R2Xubj7lazE"
+    },
+    {
+      "id": 1593913,
+      "title": "Dummy",
+      "year": "2026",
+      "first_release_date": "2026-01-20",
+      "overview": "Archibald the Amazing, a ventriloquist nearing the end of his career, gives one final performance with his dummy, Chucklehead. After the show, he tragically takes his own life in his hotel room-but his negative energy inhabits Chucklehead, transforming the dummy into a murderous force of terror. From a class reunion to hotel staff to unsuspecting bystanders, Chucklehead embarks on a blood-soaked rampage, vowing to make it a night to remember.",
+      "original_language": "en",
+      "poster_path": "/duQXwvYuifFnFaiYVAlUxD2GZXy.jpg",
+      "backdrop_path": "/zb6RVKsMhNhW8TnB0al6DKERUMZ.jpg",
+      "genre_names": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "popularity": 2.48,
+      "vote_average": 5.5,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-01-20"
+      },
+      "trailer_key": "Wme8sL_sb7Q"
     },
     {
       "id": 1257009,
@@ -3591,27 +3617,6 @@
       "trailer_key": "DENZQmZZ1ok"
     },
     {
-      "id": 1481851,
-      "title": "Good Night, and Good Luck",
-      "year": "2025",
-      "first_release_date": "2025-06-07",
-      "overview": "Livestreamed from the penultimate show at the Winter Garden Theatre in New York City, this stage adaptation of George Clooney's 2005 film follows the story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s.",
-      "original_language": "en",
-      "poster_path": "/fINjqjQNWYr7g9nVawzPDenxVO3.jpg",
-      "backdrop_path": "/oXUAgmFAZ389OoYJkJhA9vxK96y.jpg",
-      "genre_names": [
-        "Drama",
-        "History"
-      ],
-      "popularity": 2.42,
-      "vote_average": 7.0,
-      "vote_count": 14,
-      "physical_dates": {
-        "US": "2025-12-30"
-      },
-      "trailer_key": "BoY-o7sCg7k"
-    },
-    {
       "id": 1174240,
       "title": "Vampire Zombies...from Space!",
       "year": "2024",
@@ -3648,7 +3653,7 @@
       ],
       "popularity": 13.81,
       "vote_average": 6.6,
-      "vote_count": 1416,
+      "vote_count": 1417,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3734,7 +3739,7 @@
       ],
       "popularity": 29.53,
       "vote_average": 7.3,
-      "vote_count": 1588,
+      "vote_count": 1590,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -4072,7 +4077,7 @@
       ],
       "popularity": 9.29,
       "vote_average": 6.9,
-      "vote_count": 1437,
+      "vote_count": 1438,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -4180,7 +4185,7 @@
       ],
       "popularity": 14.14,
       "vote_average": 6.3,
-      "vote_count": 2072,
+      "vote_count": 2073,
       "physical_dates": {
         "GB": "2025-11-10",
         "US": "2025-11-11"
@@ -4333,7 +4338,7 @@
       ],
       "popularity": 36.76,
       "vote_average": 7.8,
-      "vote_count": 4941,
+      "vote_count": 4944,
       "physical_dates": {
         "GB": "2025-11-10"
       },
