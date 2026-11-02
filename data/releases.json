@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T13:38:43Z",
+  "generated_at": "2026-11-02T23:55:27Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -65,10 +65,10 @@
       "title": "Target: Captain Black!",
       "year": "2026",
       "first_release_date": "2026-11-01",
-      "overview": "Brand New Super Space Theatre Movie",
+      "overview": "Once, he was their most trusted agent. Now, they hunt him.",
       "original_language": "en",
       "poster_path": "/3wT81Yw6GaYrXV5QZipeUiEhQ9N.jpg",
-      "backdrop_path": "/xTLtwuNgA5qIfvllI9oEGx0rzpC.jpg",
+      "backdrop_path": "/uqUvCTbfeH93Cp3rEgl48KyEG98.jpg",
       "genre_names": [
         "Action",
         "Science Fiction",
@@ -99,7 +99,7 @@
       ],
       "popularity": 28.01,
       "vote_average": 7.6,
-      "vote_count": 4029,
+      "vote_count": 4030,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -122,7 +122,7 @@
       ],
       "popularity": 55.98,
       "vote_average": 5.3,
-      "vote_count": 282,
+      "vote_count": 283,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-20"
@@ -144,7 +144,7 @@
       ],
       "popularity": 14.1,
       "vote_average": 6.0,
-      "vote_count": 739,
+      "vote_count": 740,
       "physical_dates": {
         "GB": "2026-10-26"
       },
@@ -165,7 +165,7 @@
       ],
       "popularity": 6.62,
       "vote_average": 5.7,
-      "vote_count": 155,
+      "vote_count": 157,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-09-22"
@@ -188,7 +188,7 @@
       ],
       "popularity": 32.55,
       "vote_average": 7.1,
-      "vote_count": 2302,
+      "vote_count": 2305,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -252,7 +252,7 @@
       ],
       "popularity": 9.58,
       "vote_average": 6.8,
-      "vote_count": 48,
+      "vote_count": 49,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -313,7 +313,7 @@
       ],
       "popularity": 36.26,
       "vote_average": 7.6,
-      "vote_count": 1887,
+      "vote_count": 1889,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -377,7 +377,7 @@
       ],
       "popularity": 82.59,
       "vote_average": 7.5,
-      "vote_count": 1005,
+      "vote_count": 1008,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -421,7 +421,7 @@
       ],
       "popularity": 29.94,
       "vote_average": 7.2,
-      "vote_count": 903,
+      "vote_count": 905,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -506,7 +506,7 @@
       ],
       "popularity": 90.59,
       "vote_average": 8.3,
-      "vote_count": 2787,
+      "vote_count": 2788,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -526,7 +526,7 @@
       ],
       "popularity": 50.46,
       "vote_average": 6.3,
-      "vote_count": 2105,
+      "vote_count": 2108,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -587,8 +587,8 @@
         "Comedy"
       ],
       "popularity": 8.79,
-      "vote_average": 6.4,
-      "vote_count": 61,
+      "vote_average": 6.5,
+      "vote_count": 62,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -654,7 +654,7 @@
       ],
       "popularity": 11.83,
       "vote_average": 7.1,
-      "vote_count": 943,
+      "vote_count": 944,
       "physical_dates": {
         "GB": "2026-09-21"
       },
@@ -740,7 +740,7 @@
       ],
       "popularity": 6.39,
       "vote_average": 4.9,
-      "vote_count": 65,
+      "vote_count": 66,
       "physical_dates": {
         "US": "2026-09-15"
       },
@@ -754,7 +754,7 @@
       "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
       "original_language": "en",
       "poster_path": "/fpSuBrNV6wRO2qtPwu27JpHkhzl.jpg",
-      "backdrop_path": "/qENUVqurvCR1OW4vmp6N7QDBO9p.jpg",
+      "backdrop_path": "/ttJf17wtEXpt3OCKEY3JkUpwHnO.jpg",
       "genre_names": [
         "Horror",
         "Comedy"
@@ -849,7 +849,7 @@
       ],
       "popularity": 63.55,
       "vote_average": 7.6,
-      "vote_count": 1356,
+      "vote_count": 1357,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -958,7 +958,7 @@
       ],
       "popularity": 116.54,
       "vote_average": 8.2,
-      "vote_count": 6465,
+      "vote_count": 6469,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -1083,7 +1083,7 @@
       ],
       "popularity": 80.23,
       "vote_average": 7.4,
-      "vote_count": 3928,
+      "vote_count": 3932,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1105,7 +1105,7 @@
       ],
       "popularity": 37.74,
       "vote_average": 7.5,
-      "vote_count": 1949,
+      "vote_count": 1950,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1123,11 +1123,12 @@
       "genre_names": [
         "Comedy",
         "Family",
-        "Mystery"
+        "Mystery",
+        "Crime"
       ],
       "popularity": 28.41,
       "vote_average": 7.9,
-      "vote_count": 1884,
+      "vote_count": 1885,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1171,7 +1172,7 @@
       ],
       "popularity": 5.54,
       "vote_average": 5.7,
-      "vote_count": 250,
+      "vote_count": 251,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1199,6 +1200,27 @@
         "US": "2026-08-25"
       },
       "trailer_key": "fNdC6SJ-TxY"
+    },
+    {
+      "id": 1178602,
+      "title": "Miroirs No. 3",
+      "year": "2025",
+      "first_release_date": "2025-05-17",
+      "overview": "After a car crash kills her boyfriend, piano student Laura is taken in by Betty, who witnessed the accident. Living with Betty's family brings comfort, but Laura starts questioning their intentions as time passes.",
+      "original_language": "de",
+      "poster_path": "/fcy6ZmdrwzW8TtiDY4ZxDEDk6yl.jpg",
+      "backdrop_path": "/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
+      "genre_names": [
+        "Drama",
+        "Mystery"
+      ],
+      "popularity": 2.38,
+      "vote_average": 6.6,
+      "vote_count": 60,
+      "physical_dates": {
+        "US": "2026-08-25"
+      },
+      "trailer_key": "PqNG8EWydW0"
     },
     {
       "id": 1399525,
@@ -1257,8 +1279,8 @@
         "Fantasy"
       ],
       "popularity": 4.7,
-      "vote_average": 6.7,
-      "vote_count": 54,
+      "vote_average": 6.8,
+      "vote_count": 56,
       "physical_dates": {
         "GB": "2026-08-17"
       },
@@ -1279,7 +1301,7 @@
       ],
       "popularity": 78.55,
       "vote_average": 8.6,
-      "vote_count": 8644,
+      "vote_count": 8649,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1300,7 +1322,7 @@
       ],
       "popularity": 20.66,
       "vote_average": 6.8,
-      "vote_count": 1030,
+      "vote_count": 1031,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1321,7 +1343,7 @@
       ],
       "popularity": 48.52,
       "vote_average": 8.6,
-      "vote_count": 4662,
+      "vote_count": 4661,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1426,8 +1448,8 @@
         "Documentary"
       ],
       "popularity": 2.31,
-      "vote_average": 0.0,
-      "vote_count": 0,
+      "vote_average": 10.0,
+      "vote_count": 1,
       "physical_dates": {
         "GB": "2026-07-28"
       },
@@ -1448,7 +1470,7 @@
       ],
       "popularity": 27.28,
       "vote_average": 7.8,
-      "vote_count": 2851,
+      "vote_count": 2850,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1461,7 +1483,7 @@
       "first_release_date": "2025-09-08",
       "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
       "original_language": "en",
-      "poster_path": "/pprU6QnlTblJd51s0IxTnh2DCFe.jpg",
+      "poster_path": "/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
       "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
       "genre_names": [
         "Action",
@@ -1470,7 +1492,7 @@
       ],
       "popularity": 13.61,
       "vote_average": 7.2,
-      "vote_count": 780,
+      "vote_count": 781,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1510,7 +1532,7 @@
       ],
       "popularity": 6.97,
       "vote_average": 6.5,
-      "vote_count": 357,
+      "vote_count": 358,
       "physical_dates": {
         "ES": "2026-07-13"
       },
@@ -1552,7 +1574,7 @@
       ],
       "popularity": 66.5,
       "vote_average": 6.1,
-      "vote_count": 385,
+      "vote_count": 387,
       "physical_dates": {
         "GB": "2026-07-06"
       },
@@ -1574,7 +1596,7 @@
       ],
       "popularity": 13.97,
       "vote_average": 6.9,
-      "vote_count": 1219,
+      "vote_count": 1221,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1617,7 +1639,7 @@
       ],
       "popularity": 24.23,
       "vote_average": 7.0,
-      "vote_count": 1466,
+      "vote_count": 1467,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1773,7 +1795,7 @@
       ],
       "popularity": 30.74,
       "vote_average": 6.2,
-      "vote_count": 1414,
+      "vote_count": 1416,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1835,7 +1857,7 @@
       ],
       "popularity": 13.05,
       "vote_average": 6.0,
-      "vote_count": 95,
+      "vote_count": 96,
       "physical_dates": {
         "GB": "2026-06-15"
       },
@@ -2026,7 +2048,7 @@
       ],
       "popularity": 55.35,
       "vote_average": 7.6,
-      "vote_count": 4637,
+      "vote_count": 4638,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2090,7 +2112,7 @@
       ],
       "popularity": 6.21,
       "vote_average": 6.3,
-      "vote_count": 451,
+      "vote_count": 452,
       "physical_dates": {
         "US": "2026-05-26"
       },
@@ -2198,7 +2220,7 @@
       ],
       "popularity": 30.42,
       "vote_average": 8.0,
-      "vote_count": 1148,
+      "vote_count": 1149,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2220,7 +2242,7 @@
       ],
       "popularity": 19.35,
       "vote_average": 6.6,
-      "vote_count": 1424,
+      "vote_count": 1426,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2242,7 +2264,7 @@
       ],
       "popularity": 19.59,
       "vote_average": 7.0,
-      "vote_count": 2467,
+      "vote_count": 2468,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2330,7 +2352,7 @@
       ],
       "popularity": 30.25,
       "vote_average": 7.7,
-      "vote_count": 2014,
+      "vote_count": 2013,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2352,7 +2374,7 @@
       ],
       "popularity": 19.4,
       "vote_average": 7.1,
-      "vote_count": 1905,
+      "vote_count": 1906,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2550,7 +2572,7 @@
       ],
       "popularity": 10.56,
       "vote_average": 6.8,
-      "vote_count": 107,
+      "vote_count": 108,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2571,7 +2593,7 @@
       ],
       "popularity": 19.16,
       "vote_average": 7.4,
-      "vote_count": 2356,
+      "vote_count": 2357,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2680,7 +2702,7 @@
       ],
       "popularity": 20.05,
       "vote_average": 5.3,
-      "vote_count": 923,
+      "vote_count": 925,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2814,7 +2836,7 @@
       ],
       "popularity": 47.36,
       "vote_average": 7.7,
-      "vote_count": 3644,
+      "vote_count": 3643,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2857,7 +2879,7 @@
       ],
       "popularity": 13.37,
       "vote_average": 7.7,
-      "vote_count": 1738,
+      "vote_count": 1739,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2964,7 +2986,7 @@
       ],
       "popularity": 11.84,
       "vote_average": 7.3,
-      "vote_count": 1373,
+      "vote_count": 1375,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -3027,7 +3049,7 @@
       ],
       "popularity": 27.0,
       "vote_average": 7.8,
-      "vote_count": 3872,
+      "vote_count": 3873,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3049,7 +3071,7 @@
       ],
       "popularity": 10.62,
       "vote_average": 7.3,
-      "vote_count": 953,
+      "vote_count": 954,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3134,7 +3156,7 @@
       ],
       "popularity": 19.04,
       "vote_average": 6.6,
-      "vote_count": 1243,
+      "vote_count": 1244,
       "physical_dates": {
         "US": "2026-02-16"
       },
@@ -3175,7 +3197,7 @@
       ],
       "popularity": 8.16,
       "vote_average": 6.1,
-      "vote_count": 430,
+      "vote_count": 431,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3217,7 +3239,7 @@
       ],
       "popularity": 20.2,
       "vote_average": 7.3,
-      "vote_count": 2565,
+      "vote_count": 2566,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3391,7 +3413,7 @@
       ],
       "popularity": 24.95,
       "vote_average": 7.3,
-      "vote_count": 4480,
+      "vote_count": 4481,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3503,7 +3525,7 @@
       ],
       "popularity": 7.93,
       "vote_average": 6.5,
-      "vote_count": 585,
+      "vote_count": 586,
       "physical_dates": {
         "GB": "2026-01-19"
       },
@@ -3583,7 +3605,7 @@
       "first_release_date": "2025-08-20",
       "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
       "original_language": "en",
-      "poster_path": "/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
+      "poster_path": "/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
       "backdrop_path": "/o0H6PjNX3wPS1JLOvw9Z0sEDDgW.jpg",
       "genre_names": [
         "Action",
@@ -3592,7 +3614,7 @@
       ],
       "popularity": 7.18,
       "vote_average": 6.2,
-      "vote_count": 369,
+      "vote_count": 370,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3656,7 +3678,7 @@
       ],
       "popularity": 13.84,
       "vote_average": 6.6,
-      "vote_count": 1419,
+      "vote_count": 1421,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3707,26 +3729,6 @@
       "trailer_key": "xdKP22EaAuU"
     },
     {
-      "id": 1601090,
-      "title": "What is an Ocean… Reconnecting the Cast and Crew of Cloud Atlas",
-      "year": "2025",
-      "first_release_date": "2025-12-23",
-      "overview": "A unique feature-length retrospective documentary bringing together the directors, author David Mitchell, and key cast and crew - including Tom Hanks, Hugh Grant, and Susan Sarandon - to share new reflections and untold stories from the making of Cloud Atlas. The film celebrates the artistry, collaboration, and enduring impact of the Wachowskis and Tom Tykwer's visionary production.",
-      "original_language": "en",
-      "poster_path": "/tw7aQ17lYfZ7Vmi7lNaWIPW0V9F.jpg",
-      "backdrop_path": null,
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 2.33,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2025-12-23"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 1246049,
       "title": "Dracula",
       "year": "2025",
@@ -3742,7 +3744,7 @@
       ],
       "popularity": 31.6,
       "vote_average": 7.3,
-      "vote_count": 1592,
+      "vote_count": 1591,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -3792,24 +3794,6 @@
       "trailer_key": "YnUftvgLbtg"
     },
     {
-      "id": 1600768,
-      "title": "Donald Farmer's Wild Ride",
-      "year": "2025",
-      "first_release_date": "2025-12-19",
-      "overview": "A quirky, gonzo peek behind the curtain into the mad mind of schlockmeister extraordinaire Donald Farmer. Known as the Budget Master of Tennessee, Farmer is the undisputed king of SOV Cinema, a DIY legend who’s carved a blood-soaked path through five decades of horror, trash, and straight-to-video gold.  Starting in the 1970s with a series of Super 8 films before transitioning to the “profitable” promise of videotape, Farmer found success with hypnotically gory, offbeat features—films that often hid sweet, romantic cores beneath their eye-popping VHS covers. A true original, Donald has been a writer for Fangoria, an actor, and even a reality TV star.",
-      "original_language": "en",
-      "poster_path": "/eCnfUUA5zOc10phy1osZTedxzVz.jpg",
-      "backdrop_path": null,
-      "genre_names": [],
-      "popularity": 2.33,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2025-12-19"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 1285965,
       "title": "Dangerous Animals",
       "year": "2025",
@@ -3824,7 +3808,7 @@
       ],
       "popularity": 7.07,
       "vote_average": 6.4,
-      "vote_count": 768,
+      "vote_count": 769,
       "physical_dates": {
         "ES": "2025-12-17"
       },
@@ -3885,7 +3869,7 @@
       ],
       "popularity": 6.14,
       "vote_average": 6.5,
-      "vote_count": 511,
+      "vote_count": 512,
       "physical_dates": {
         "US": "2025-12-09"
       },
@@ -4102,7 +4086,7 @@
       ],
       "popularity": 9.58,
       "vote_average": 6.9,
-      "vote_count": 1438,
+      "vote_count": 1440,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -4147,7 +4131,7 @@
       ],
       "popularity": 2.7,
       "vote_average": 5.2,
-      "vote_count": 4,
+      "vote_count": 5,
       "physical_dates": {
         "GB": "2025-11-22"
       },
@@ -4188,7 +4172,7 @@
       ],
       "popularity": 9.37,
       "vote_average": 6.2,
-      "vote_count": 1684,
+      "vote_count": 1685,
       "physical_dates": {
         "GB": "2025-11-17"
       },
@@ -4363,7 +4347,7 @@
       ],
       "popularity": 36.59,
       "vote_average": 7.8,
-      "vote_count": 4945,
+      "vote_count": 4948,
       "physical_dates": {
         "GB": "2025-11-10"
       },
