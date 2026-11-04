@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T22:22:10Z",
+  "generated_at": "2026-11-04T13:05:07Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -30,9 +30,9 @@
         "Mystery",
         "Thriller"
       ],
-      "popularity": 59.48,
+      "popularity": 55.39,
       "vote_average": 7.1,
-      "vote_count": 2312,
+      "vote_count": 2314,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -53,9 +53,9 @@
         "Fantasy",
         "Action"
       ],
-      "popularity": 52.98,
+      "popularity": 50.55,
       "vote_average": 9.0,
-      "vote_count": 1414,
+      "vote_count": 1417,
       "physical_dates": {
         "GB": "2026-11-02",
         "US": "2026-11-03"
@@ -76,9 +76,9 @@
         "Drama",
         "History"
       ],
-      "popularity": 39.99,
+      "popularity": 39.07,
       "vote_average": 7.8,
-      "vote_count": 402,
+      "vote_count": 404,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -99,9 +99,9 @@
         "Comedy",
         "Animation"
       ],
-      "popularity": 30.85,
+      "popularity": 29.94,
       "vote_average": 8.0,
-      "vote_count": 3347,
+      "vote_count": 3349,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -122,7 +122,7 @@
         "Comedy",
         "TV Movie"
       ],
-      "popularity": 5.54,
+      "popularity": 4.68,
       "vote_average": 8.0,
       "vote_count": 7,
       "physical_dates": {
@@ -143,7 +143,7 @@
         "Action",
         "Horror"
       ],
-      "popularity": 2.8,
+      "popularity": 3.53,
       "vote_average": 7.0,
       "vote_count": 4,
       "physical_dates": {
@@ -166,7 +166,7 @@
         "Thriller",
         "Family"
       ],
-      "popularity": 1.66,
+      "popularity": 1.8,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -188,9 +188,9 @@
         "Fantasy",
         "Horror"
       ],
-      "popularity": 23.98,
+      "popularity": 22.83,
       "vote_average": 7.6,
-      "vote_count": 4034,
+      "vote_count": 4035,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -211,9 +211,9 @@
         "Comedy",
         "Thriller"
       ],
-      "popularity": 49.46,
-      "vote_average": 5.3,
-      "vote_count": 294,
+      "popularity": 44.03,
+      "vote_average": 5.4,
+      "vote_count": 298,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-20"
@@ -233,7 +233,7 @@
         "Horror",
         "Mystery"
       ],
-      "popularity": 11.68,
+      "popularity": 11.34,
       "vote_average": 6.0,
       "vote_count": 742,
       "physical_dates": {
@@ -254,7 +254,7 @@
         "Horror",
         "Crime"
       ],
-      "popularity": 6.84,
+      "popularity": 6.56,
       "vote_average": 5.7,
       "vote_count": 157,
       "physical_dates": {
@@ -277,9 +277,9 @@
         "Fantasy",
         "Science Fiction"
       ],
-      "popularity": 31.15,
+      "popularity": 30.2,
       "vote_average": 7.1,
-      "vote_count": 2312,
+      "vote_count": 2313,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -298,9 +298,9 @@
         "Romance",
         "Comedy"
       ],
-      "popularity": 18.85,
+      "popularity": 17.55,
       "vote_average": 6.4,
-      "vote_count": 248,
+      "vote_count": 250,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -320,7 +320,7 @@
         "Comedy",
         "Thriller"
       ],
-      "popularity": 13.59,
+      "popularity": 13.63,
       "vote_average": 6.4,
       "vote_count": 675,
       "physical_dates": {
@@ -341,13 +341,31 @@
         "Drama",
         "History"
       ],
-      "popularity": 8.84,
+      "popularity": 7.81,
       "vote_average": 6.8,
       "vote_count": 49,
       "physical_dates": {
         "US": "2026-10-20"
       },
       "trailer_key": "a-T0TlMN-RE"
+    },
+    {
+      "id": 1796037,
+      "title": "Por el sabor de ese Kebab",
+      "year": "2026",
+      "first_release_date": "2026-10-17",
+      "overview": "",
+      "original_language": "es",
+      "poster_path": "/4KxvTYNNUAWQM5amT15g7Q0zbxg.jpg",
+      "backdrop_path": null,
+      "genre_names": [],
+      "popularity": 1.52,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "ES": "2026-10-17"
+      },
+      "trailer_key": null
     },
     {
       "id": 1339588,
@@ -362,7 +380,7 @@
         "Romance",
         "Comedy"
       ],
-      "popularity": 8.19,
+      "popularity": 7.73,
       "vote_average": 7.0,
       "vote_count": 100,
       "physical_dates": {
@@ -382,7 +400,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.23,
+      "popularity": 1.99,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -402,9 +420,9 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 32.25,
+      "popularity": 30.38,
       "vote_average": 7.6,
-      "vote_count": 1894,
+      "vote_count": 1901,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -423,7 +441,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.54,
+      "popularity": 2.25,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -443,7 +461,7 @@
       "genre_names": [
         "Drama"
       ],
-      "popularity": 4.64,
+      "popularity": 4.31,
       "vote_average": 6.5,
       "vote_count": 4,
       "physical_dates": {
@@ -466,9 +484,9 @@
         "Comedy",
         "Adventure"
       ],
-      "popularity": 75.17,
+      "popularity": 70.14,
       "vote_average": 7.5,
-      "vote_count": 1010,
+      "vote_count": 1013,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -488,9 +506,9 @@
         "Comedy",
         "Documentary"
       ],
-      "popularity": 14.84,
+      "popularity": 13.92,
       "vote_average": 7.3,
-      "vote_count": 292,
+      "vote_count": 293,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -510,9 +528,9 @@
         "Drama",
         "Romance"
       ],
-      "popularity": 26.53,
+      "popularity": 24.41,
       "vote_average": 7.2,
-      "vote_count": 910,
+      "vote_count": 912,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -530,7 +548,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 1.93,
+      "popularity": 1.71,
       "vote_average": 3.0,
       "vote_count": 1,
       "physical_dates": {
@@ -550,7 +568,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.45,
+      "popularity": 2.33,
       "vote_average": 6.5,
       "vote_count": 2,
       "physical_dates": {
@@ -573,9 +591,9 @@
         "Comedy",
         "Adventure"
       ],
-      "popularity": 85.0,
+      "popularity": 80.12,
       "vote_average": 8.3,
-      "vote_count": 2800,
+      "vote_count": 2808,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -593,9 +611,9 @@
       "genre_names": [
         "Comedy"
       ],
-      "popularity": 48.9,
+      "popularity": 46.05,
       "vote_average": 6.3,
-      "vote_count": 2111,
+      "vote_count": 2114,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -614,9 +632,9 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 38.14,
+      "popularity": 35.33,
       "vote_average": 7.2,
-      "vote_count": 156,
+      "vote_count": 158,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -635,13 +653,33 @@
         "Romance",
         "Drama"
       ],
-      "popularity": 12.48,
+      "popularity": 12.43,
       "vote_average": 7.4,
       "vote_count": 88,
       "physical_dates": {
         "US": "2026-09-22"
       },
       "trailer_key": "ZC1kEknG2ro"
+    },
+    {
+      "id": 1476682,
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "year": "2026",
+      "first_release_date": "2026-01-25",
+      "overview": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+      "original_language": "en",
+      "poster_path": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "backdrop_path": "/7Mmzdcq0NDPlIt79WwtUMYa1zjI.jpg",
+      "genre_names": [
+        "Comedy"
+      ],
+      "popularity": 7.86,
+      "vote_average": 6.4,
+      "vote_count": 66,
+      "physical_dates": {
+        "US": "2026-09-22"
+      },
+      "trailer_key": "GEbaLieo_Kw"
     },
     {
       "id": 1308767,
@@ -657,33 +695,13 @@
         "War",
         "Drama"
       ],
-      "popularity": 7.75,
+      "popularity": 7.24,
       "vote_average": 7.7,
       "vote_count": 141,
       "physical_dates": {
         "US": "2026-09-22"
       },
       "trailer_key": "LJek-kc384w"
-    },
-    {
-      "id": 1476682,
-      "title": "Gail Daughtry and the Celebrity Sex Pass",
-      "year": "2026",
-      "first_release_date": "2026-01-25",
-      "overview": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-      "original_language": "en",
-      "poster_path": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "backdrop_path": "/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
-      "genre_names": [
-        "Comedy"
-      ],
-      "popularity": 7.24,
-      "vote_average": 6.4,
-      "vote_count": 66,
-      "physical_dates": {
-        "US": "2026-09-22"
-      },
-      "trailer_key": "GEbaLieo_Kw"
     },
     {
       "id": 1227877,
@@ -699,7 +717,7 @@
         "Science Fiction",
         "Crime"
       ],
-      "popularity": 5.48,
+      "popularity": 5.51,
       "vote_average": 6.3,
       "vote_count": 129,
       "physical_dates": {
@@ -721,9 +739,9 @@
         "Drama",
         "Crime"
       ],
-      "popularity": 10.02,
+      "popularity": 8.82,
       "vote_average": 7.1,
-      "vote_count": 945,
+      "vote_count": 946,
       "physical_dates": {
         "GB": "2026-09-21"
       },
@@ -743,7 +761,7 @@
         "Science Fiction",
         "Adventure"
       ],
-      "popularity": 8.61,
+      "popularity": 8.03,
       "vote_average": 7.6,
       "vote_count": 156,
       "physical_dates": {
@@ -764,7 +782,7 @@
       "genre_names": [
         "Action"
       ],
-      "popularity": 24.48,
+      "popularity": 22.34,
       "vote_average": 7.2,
       "vote_count": 53,
       "physical_dates": {
@@ -785,7 +803,7 @@
         "Action",
         "Comedy"
       ],
-      "popularity": 6.27,
+      "popularity": 5.69,
       "vote_average": 4.9,
       "vote_count": 66,
       "physical_dates": {
@@ -807,55 +825,13 @@
         "Drama",
         "Thriller"
       ],
-      "popularity": 5.27,
+      "popularity": 5.73,
       "vote_average": 6.5,
       "vote_count": 260,
       "physical_dates": {
         "GB": "2026-09-14"
       },
       "trailer_key": "aHAwgnJL78Y"
-    },
-    {
-      "id": 1770598,
-      "title": "Spectrum is 20: The Death and Life of New Captain Scarlet",
-      "year": "2026",
-      "first_release_date": "2026-09-12",
-      "overview": "Featuring new interviews with key cast and crew, and drawing on a wealth of unseen archive materials, this comprehensive retrospective explores the genesis, production and legacy of the series like never before.",
-      "original_language": "en",
-      "poster_path": "/eNi5xEFxuli9JdhAHXBwTJYlbdO.jpg",
-      "backdrop_path": "/nuDQIylIF1UZJ2ZpRZh9vSP9HEA.jpg",
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 1.7,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "GB": "2026-09-12"
-      },
-      "trailer_key": null
-    },
-    {
-      "id": 1721401,
-      "title": "The Legend of Captain Scarlet",
-      "year": "2026",
-      "first_release_date": "2026-09-12",
-      "overview": "Inspired by the Super Space Theatre compilations of the 1980s. An exclusive new feature-length New Captain Scarlet movie experience.",
-      "original_language": "en",
-      "poster_path": "/zxSSByg09wNZX2qnpPZ5axirjcG.jpg",
-      "backdrop_path": "/clSqGzDvJXvvRKXCd940ewgfIhH.jpg",
-      "genre_names": [
-        "Action",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "popularity": 1.63,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "GB": "2026-09-12"
-      },
-      "trailer_key": "Hch50AEfbeU"
     },
     {
       "id": 1315772,
@@ -873,9 +849,9 @@
         "Family",
         "Fantasy"
       ],
-      "popularity": 59.39,
+      "popularity": 55.1,
       "vote_average": 7.6,
-      "vote_count": 1362,
+      "vote_count": 1366,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -895,7 +871,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "popularity": 37.04,
+      "popularity": 34.26,
       "vote_average": 6.6,
       "vote_count": 2691,
       "physical_dates": {
@@ -918,7 +894,7 @@
         "Adventure",
         "Drama"
       ],
-      "popularity": 32.62,
+      "popularity": 30.46,
       "vote_average": 9.1,
       "vote_count": 500,
       "physical_dates": {
@@ -938,7 +914,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.28,
+      "popularity": 2.88,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -960,7 +936,7 @@
         "Fantasy",
         "Mystery"
       ],
-      "popularity": 167.15,
+      "popularity": 151.01,
       "vote_average": 6.4,
       "vote_count": 157,
       "physical_dates": {
@@ -981,9 +957,9 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 112.47,
+      "popularity": 107.97,
       "vote_average": 8.2,
-      "vote_count": 6486,
+      "vote_count": 6497,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -1003,7 +979,7 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 27.87,
+      "popularity": 25.63,
       "vote_average": 7.5,
       "vote_count": 101,
       "physical_dates": {
@@ -1023,33 +999,13 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 3.02,
+      "popularity": 2.8,
       "vote_average": 4.3,
       "vote_count": 6,
       "physical_dates": {
         "GB": "2026-09-07"
       },
       "trailer_key": "1K4Ggvz08pQ"
-    },
-    {
-      "id": 1220338,
-      "title": "Scénarios",
-      "year": "2024",
-      "first_release_date": "2024-05-17",
-      "overview": "In French, \"scénario\" is cinema's name for how it tells stories. This is the title Jean-Luc Godard chose for his final film, which was literally completed the day before his self-death. The two segments of this film open with a series of identical sequences. The second segment then diverges and ends on a self-portrait of Jean-Luc Godard -his last images- sitting on his bed, bare-chested, he hides none of the wear on his body in the manner of Pigalle's sculpted portrait of Voltaire. \"Scénarios\" ends as it began, with a repetition, the figure of eternal return, the moment where time, which has been the great -if not unique- question of cinema, will have ceased to flow.",
-      "original_language": "fr",
-      "poster_path": "/7rOJA7MGKdL5ckSS4g6tb8i6H5s.jpg",
-      "backdrop_path": "/akOY23z3MxB6Gd974hsxkGWu2XJ.jpg",
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 1.99,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "physical_dates": {
-        "GB": "2026-09-07"
-      },
-      "trailer_key": "FDNxDvNOxzo"
     },
     {
       "id": 1526519,
@@ -1064,7 +1020,7 @@
         "Mystery",
         "Thriller"
       ],
-      "popularity": 1.95,
+      "popularity": 1.68,
       "vote_average": 6.2,
       "vote_count": 23,
       "physical_dates": {
@@ -1085,7 +1041,7 @@
         "Documentary",
         "Horror"
       ],
-      "popularity": 1.78,
+      "popularity": 1.57,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -1105,7 +1061,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.41,
+      "popularity": 2.75,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -1126,7 +1082,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "popularity": 2.08,
+      "popularity": 2.57,
       "vote_average": 2.0,
       "vote_count": 1,
       "physical_dates": {
@@ -1147,9 +1103,9 @@
         "Science Fiction",
         "Thriller"
       ],
-      "popularity": 75.46,
+      "popularity": 70.01,
       "vote_average": 7.4,
-      "vote_count": 3946,
+      "vote_count": 3949,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1169,9 +1125,9 @@
         "Adventure",
         "Science Fiction"
       ],
-      "popularity": 35.16,
+      "popularity": 35.63,
       "vote_average": 7.5,
-      "vote_count": 1956,
+      "vote_count": 1959,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1189,12 +1145,11 @@
       "genre_names": [
         "Comedy",
         "Family",
-        "Mystery",
-        "Crime"
+        "Mystery"
       ],
-      "popularity": 24.61,
+      "popularity": 23.0,
       "vote_average": 7.9,
-      "vote_count": 1891,
+      "vote_count": 1892,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1214,7 +1169,7 @@
         "Thriller",
         "Fantasy"
       ],
-      "popularity": 4.9,
+      "popularity": 4.51,
       "vote_average": 5.7,
       "vote_count": 251,
       "physical_dates": {
@@ -1236,7 +1191,7 @@
         "Thriller",
         "Crime"
       ],
-      "popularity": 4.89,
+      "popularity": 4.26,
       "vote_average": 7.0,
       "vote_count": 353,
       "physical_dates": {
@@ -1259,7 +1214,7 @@
         "Romance",
         "Thriller"
       ],
-      "popularity": 4.02,
+      "popularity": 3.55,
       "vote_average": 6.6,
       "vote_count": 91,
       "physical_dates": {
@@ -1281,9 +1236,9 @@
         "Mystery",
         "Fantasy"
       ],
-      "popularity": 2.62,
+      "popularity": 2.59,
       "vote_average": 6.0,
-      "vote_count": 45,
+      "vote_count": 46,
       "physical_dates": {
         "GB": "2026-08-24"
       },
@@ -1301,9 +1256,9 @@
       "genre_names": [
         "Drama"
       ],
-      "popularity": 9.65,
+      "popularity": 9.17,
       "vote_average": 7.5,
-      "vote_count": 1171,
+      "vote_count": 1172,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1323,7 +1278,7 @@
         "Horror",
         "Fantasy"
       ],
-      "popularity": 4.84,
+      "popularity": 4.5,
       "vote_average": 6.5,
       "vote_count": 59,
       "physical_dates": {
@@ -1344,9 +1299,9 @@
         "Science Fiction",
         "Adventure"
       ],
-      "popularity": 73.63,
+      "popularity": 73.45,
       "vote_average": 8.6,
-      "vote_count": 8672,
+      "vote_count": 8681,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1365,9 +1320,9 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 18.38,
+      "popularity": 18.1,
       "vote_average": 6.8,
-      "vote_count": 1032,
+      "vote_count": 1035,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1386,9 +1341,9 @@
         "Music",
         "Drama"
       ],
-      "popularity": 44.63,
+      "popularity": 43.59,
       "vote_average": 8.6,
-      "vote_count": 4669,
+      "vote_count": 4672,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1407,7 +1362,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.1,
+      "popularity": 1.77,
       "vote_average": 2.8,
       "vote_count": 4,
       "physical_dates": {
@@ -1428,9 +1383,9 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 27.63,
+      "popularity": 25.8,
       "vote_average": 7.0,
-      "vote_count": 2527,
+      "vote_count": 2528,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1449,7 +1404,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 3.31,
+      "popularity": 2.94,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -1471,34 +1426,14 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 17.2,
+      "popularity": 17.35,
       "vote_average": 6.9,
-      "vote_count": 2028,
+      "vote_count": 2030,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
       },
       "trailer_key": "0ZDzsH3XGFA"
-    },
-    {
-      "id": 1686144,
-      "title": "Survivors: The Spectre of Threads",
-      "year": "2025",
-      "first_release_date": "2025-08-30",
-      "overview": "The untold story of the film that traumatised a generation.",
-      "original_language": "en",
-      "poster_path": "/e25hN9wIU1bhFam88kcPXB0wIsq.jpg",
-      "backdrop_path": "/iaH84USS3YsB7IAzo0HRO1UO64q.jpg",
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 2.25,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "physical_dates": {
-        "GB": "2026-07-28"
-      },
-      "trailer_key": "4U5Zb0fqimA"
     },
     {
       "id": 1304313,
@@ -1513,7 +1448,7 @@
         "Horror",
         "Mystery"
       ],
-      "popularity": 24.55,
+      "popularity": 23.37,
       "vote_average": 7.8,
       "vote_count": 2850,
       "physical_dates": {
@@ -1535,7 +1470,7 @@
         "Crime",
         "Thriller"
       ],
-      "popularity": 12.32,
+      "popularity": 11.66,
       "vote_average": 7.2,
       "vote_count": 786,
       "physical_dates": {
@@ -1553,7 +1488,7 @@
       "poster_path": "/nA8bRst8ULxccc4pLt7f9YnrzFJ.jpg",
       "backdrop_path": "/q1L3bXU5onr280XQfxmDbAXGLs.jpg",
       "genre_names": [],
-      "popularity": 3.96,
+      "popularity": 3.39,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -1575,7 +1510,7 @@
         "Drama",
         "Comedy"
       ],
-      "popularity": 5.8,
+      "popularity": 5.06,
       "vote_average": 6.5,
       "vote_count": 358,
       "physical_dates": {
@@ -1597,7 +1532,7 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 63.51,
+      "popularity": 57.89,
       "vote_average": 6.1,
       "vote_count": 389,
       "physical_dates": {
@@ -1619,7 +1554,7 @@
         "Comedy",
         "Horror"
       ],
-      "popularity": 12.15,
+      "popularity": 11.68,
       "vote_average": 6.9,
       "vote_count": 1222,
       "physical_dates": {
@@ -1640,7 +1575,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 1.6,
+      "popularity": 1.68,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -1662,9 +1597,9 @@
         "Crime",
         "Thriller"
       ],
-      "popularity": 21.94,
+      "popularity": 21.41,
       "vote_average": 7.0,
-      "vote_count": 1467,
+      "vote_count": 1469,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1685,7 +1620,7 @@
         "Crime",
         "Mystery"
       ],
-      "popularity": 6.01,
+      "popularity": 6.02,
       "vote_average": 7.2,
       "vote_count": 718,
       "physical_dates": {
@@ -1707,9 +1642,9 @@
         "Adventure",
         "Drama"
       ],
-      "popularity": 4.75,
+      "popularity": 4.54,
       "vote_average": 6.2,
-      "vote_count": 43,
+      "vote_count": 44,
       "physical_dates": {
         "US": "2026-06-23"
       },
@@ -1729,7 +1664,7 @@
         "Drama",
         "History"
       ],
-      "popularity": 2.23,
+      "popularity": 2.21,
       "vote_average": 7.7,
       "vote_count": 208,
       "physical_dates": {
@@ -1750,7 +1685,7 @@
         "Horror",
         "Comedy"
       ],
-      "popularity": 20.23,
+      "popularity": 18.47,
       "vote_average": 7.5,
       "vote_count": 1788,
       "physical_dates": {
@@ -1772,9 +1707,9 @@
         "Drama",
         "Crime"
       ],
-      "popularity": 5.0,
+      "popularity": 4.38,
       "vote_average": 5.7,
-      "vote_count": 234,
+      "vote_count": 235,
       "physical_dates": {
         "GB": "2026-06-21"
       },
@@ -1796,9 +1731,9 @@
         "Fantasy",
         "Animation"
       ],
-      "popularity": 43.66,
+      "popularity": 41.18,
       "vote_average": 8.2,
-      "vote_count": 3944,
+      "vote_count": 3948,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1818,9 +1753,9 @@
         "Mystery",
         "Crime"
       ],
-      "popularity": 29.33,
+      "popularity": 28.49,
       "vote_average": 6.2,
-      "vote_count": 1418,
+      "vote_count": 1420,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1839,7 +1774,7 @@
         "Romance",
         "Comedy"
       ],
-      "popularity": 7.75,
+      "popularity": 7.91,
       "vote_average": 7.3,
       "vote_count": 121,
       "physical_dates": {
@@ -1859,7 +1794,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.56,
+      "popularity": 1.96,
       "vote_average": 4.0,
       "vote_count": 2,
       "physical_dates": {
@@ -1881,33 +1816,13 @@
         "TV Movie",
         "Action"
       ],
-      "popularity": 11.53,
+      "popularity": 9.56,
       "vote_average": 6.0,
       "vote_count": 96,
       "physical_dates": {
         "GB": "2026-06-15"
       },
       "trailer_key": "rJY9BC89igE"
-    },
-    {
-      "id": 1639960,
-      "title": "Frankenstein's Bride",
-      "year": "2026",
-      "first_release_date": "2026-02-20",
-      "overview": "On the day of Frankenstein’s Monster’s wedding, villagers riot and kill him. His bride escapes, vows revenge on the townsfolk responsible, and eventually resurrects the Monster – leading a trail of blood in her wake.",
-      "original_language": "en",
-      "poster_path": "/zmeOomyxOSs8w04Nv5OE4V7bv15.jpg",
-      "backdrop_path": "/idnxQjDQpwrcF2UnwHF5ZBkt4H1.jpg",
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 2.09,
-      "vote_average": 5.1,
-      "vote_count": 5,
-      "physical_dates": {
-        "GB": "2026-06-15"
-      },
-      "trailer_key": "qeE_grq3y0s"
     },
     {
       "id": 1418901,
@@ -1922,7 +1837,7 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 2.05,
+      "popularity": 2.26,
       "vote_average": 6.2,
       "vote_count": 14,
       "physical_dates": {
@@ -1931,24 +1846,24 @@
       "trailer_key": "NyDJXrMhwSI"
     },
     {
-      "id": 1766958,
-      "title": "Making Monsters",
+      "id": 1639960,
+      "title": "Frankenstein's Bride",
       "year": "2026",
-      "first_release_date": "2026-06-15",
-      "overview": "SFX and make-up designers Dave and Lou Elsey talk candidly about their inspirations, the joy of their work and their hopes for the future",
+      "first_release_date": "2026-02-20",
+      "overview": "On the day of Frankenstein’s Monster’s wedding, villagers riot and kill him. His bride escapes, vows revenge on the townsfolk responsible, and eventually resurrects the Monster – leading a trail of blood in her wake.",
       "original_language": "en",
-      "poster_path": "/sHDwOIgbkJihArJdtPIQOsswuKQ.jpg",
-      "backdrop_path": "/5XrQOtYnFquUafuFibuPLlJcdcq.jpg",
+      "poster_path": "/zmeOomyxOSs8w04Nv5OE4V7bv15.jpg",
+      "backdrop_path": "/idnxQjDQpwrcF2UnwHF5ZBkt4H1.jpg",
       "genre_names": [
-        "Documentary"
+        "Horror"
       ],
-      "popularity": 1.6,
-      "vote_average": 0.0,
-      "vote_count": 0,
+      "popularity": 2.12,
+      "vote_average": 5.1,
+      "vote_count": 5,
       "physical_dates": {
         "GB": "2026-06-15"
       },
-      "trailer_key": "rYcePVTiy9E"
+      "trailer_key": "qeE_grq3y0s"
     },
     {
       "id": 467905,
@@ -1964,9 +1879,9 @@
         "Thriller",
         "Crime"
       ],
-      "popularity": 9.78,
+      "popularity": 9.42,
       "vote_average": 6.9,
-      "vote_count": 839,
+      "vote_count": 840,
       "physical_dates": {
         "GB": "2026-06-08"
       },
@@ -1985,7 +1900,7 @@
         "Crime",
         "Action"
       ],
-      "popularity": 2.92,
+      "popularity": 2.76,
       "vote_average": 6.8,
       "vote_count": 8,
       "physical_dates": {
@@ -2011,7 +1926,7 @@
       ],
       "popularity": 33.31,
       "vote_average": 8.1,
-      "vote_count": 2504,
+      "vote_count": 2506,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -2029,7 +1944,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.39,
+      "popularity": 2.32,
       "vote_average": 8.0,
       "vote_count": 2,
       "physical_dates": {
@@ -2051,9 +1966,9 @@
         "Adventure",
         "Fantasy"
       ],
-      "popularity": 52.51,
+      "popularity": 50.08,
       "vote_average": 7.6,
-      "vote_count": 4646,
+      "vote_count": 4650,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2073,7 +1988,7 @@
         "History",
         "Drama"
       ],
-      "popularity": 7.24,
+      "popularity": 6.81,
       "vote_average": 6.7,
       "vote_count": 353,
       "physical_dates": {
@@ -2095,7 +2010,7 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 3.75,
+      "popularity": 3.5,
       "vote_average": 6.2,
       "vote_count": 89,
       "physical_dates": {
@@ -2115,7 +2030,7 @@
       "genre_names": [
         "Drama"
       ],
-      "popularity": 6.13,
+      "popularity": 5.37,
       "vote_average": 6.3,
       "vote_count": 453,
       "physical_dates": {
@@ -2137,7 +2052,7 @@
         "Drama",
         "Thriller"
       ],
-      "popularity": 5.26,
+      "popularity": 5.31,
       "vote_average": 7.3,
       "vote_count": 101,
       "physical_dates": {
@@ -2157,7 +2072,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.98,
+      "popularity": 2.72,
       "vote_average": 5.9,
       "vote_count": 78,
       "physical_dates": {
@@ -2179,7 +2094,7 @@
         "Adventure",
         "Horror"
       ],
-      "popularity": 4.97,
+      "popularity": 16.28,
       "vote_average": 3.6,
       "vote_count": 17,
       "physical_dates": {
@@ -2201,7 +2116,7 @@
         "Thriller",
         "Drama"
       ],
-      "popularity": 6.67,
+      "popularity": 5.73,
       "vote_average": 6.1,
       "vote_count": 103,
       "physical_dates": {
@@ -2223,9 +2138,9 @@
         "Comedy",
         "Family"
       ],
-      "popularity": 27.74,
+      "popularity": 27.84,
       "vote_average": 8.0,
-      "vote_count": 1151,
+      "vote_count": 1152,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2245,7 +2160,7 @@
         "Drama",
         "History"
       ],
-      "popularity": 17.61,
+      "popularity": 18.29,
       "vote_average": 6.6,
       "vote_count": 1430,
       "physical_dates": {
@@ -2267,9 +2182,9 @@
         "Thriller",
         "Comedy"
       ],
-      "popularity": 17.29,
+      "popularity": 15.48,
       "vote_average": 7.0,
-      "vote_count": 2473,
+      "vote_count": 2474,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2290,7 +2205,7 @@
         "Science Fiction",
         "Comedy"
       ],
-      "popularity": 4.66,
+      "popularity": 4.43,
       "vote_average": 5.7,
       "vote_count": 23,
       "physical_dates": {
@@ -2312,7 +2227,7 @@
         "Comedy",
         "Thriller"
       ],
-      "popularity": 4.65,
+      "popularity": 5.74,
       "vote_average": 6.3,
       "vote_count": 97,
       "physical_dates": {
@@ -2333,7 +2248,7 @@
         "Crime",
         "Drama"
       ],
-      "popularity": 7.29,
+      "popularity": 6.53,
       "vote_average": 5.5,
       "vote_count": 565,
       "physical_dates": {
@@ -2355,9 +2270,9 @@
         "Crime",
         "Thriller"
       ],
-      "popularity": 28.6,
+      "popularity": 28.11,
       "vote_average": 7.7,
-      "vote_count": 2017,
+      "vote_count": 2018,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2377,7 +2292,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "popularity": 18.27,
+      "popularity": 17.52,
       "vote_average": 7.1,
       "vote_count": 1910,
       "physical_dates": {
@@ -2400,9 +2315,9 @@
         "Action",
         "Comedy"
       ],
-      "popularity": 12.32,
+      "popularity": 11.81,
       "vote_average": 7.1,
-      "vote_count": 1173,
+      "vote_count": 1175,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2421,7 +2336,7 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 11.15,
+      "popularity": 10.54,
       "vote_average": 6.4,
       "vote_count": 968,
       "physical_dates": {
@@ -2444,7 +2359,7 @@
         "Family",
         "Adventure"
       ],
-      "popularity": 2.46,
+      "popularity": 2.76,
       "vote_average": 6.8,
       "vote_count": 6,
       "physical_dates": {
@@ -2464,7 +2379,7 @@
       "genre_names": [
         "Drama"
       ],
-      "popularity": 8.41,
+      "popularity": 9.02,
       "vote_average": 6.1,
       "vote_count": 683,
       "physical_dates": {
@@ -2488,7 +2403,7 @@
         "Animation",
         "Science Fiction"
       ],
-      "popularity": 5.61,
+      "popularity": 5.23,
       "vote_average": 7.5,
       "vote_count": 247,
       "physical_dates": {
@@ -2509,7 +2424,7 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 5.98,
+      "popularity": 5.29,
       "vote_average": 5.7,
       "vote_count": 218,
       "physical_dates": {
@@ -2533,7 +2448,7 @@
         "Crime",
         "Mystery"
       ],
-      "popularity": 14.69,
+      "popularity": 14.1,
       "vote_average": 7.1,
       "vote_count": 1811,
       "physical_dates": {
@@ -2554,7 +2469,7 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 8.97,
+      "popularity": 9.04,
       "vote_average": 6.8,
       "vote_count": 108,
       "physical_dates": {
@@ -2574,7 +2489,7 @@
       "genre_names": [
         "Comedy"
       ],
-      "popularity": 2.08,
+      "popularity": 1.89,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -2595,7 +2510,7 @@
         "Drama",
         "Thriller"
       ],
-      "popularity": 16.55,
+      "popularity": 15.91,
       "vote_average": 7.4,
       "vote_count": 2362,
       "physical_dates": {
@@ -2619,9 +2534,9 @@
         "Comedy",
         "Fantasy"
       ],
-      "popularity": 14.39,
+      "popularity": 14.06,
       "vote_average": 6.8,
-      "vote_count": 365,
+      "vote_count": 366,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2641,7 +2556,7 @@
         "Thriller",
         "Horror"
       ],
-      "popularity": 2.97,
+      "popularity": 2.69,
       "vote_average": 6.1,
       "vote_count": 284,
       "physical_dates": {
@@ -2663,7 +2578,7 @@
         "Drama",
         "Thriller"
       ],
-      "popularity": 9.34,
+      "popularity": 8.97,
       "vote_average": 7.4,
       "vote_count": 484,
       "physical_dates": {
@@ -2684,9 +2599,9 @@
         "Horror",
         "Mystery"
       ],
-      "popularity": 19.38,
+      "popularity": 18.66,
       "vote_average": 5.3,
-      "vote_count": 929,
+      "vote_count": 931,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2706,9 +2621,9 @@
         "Comedy",
         "Horror"
       ],
-      "popularity": 11.34,
+      "popularity": 11.84,
       "vote_average": 5.8,
-      "vote_count": 1533,
+      "vote_count": 1535,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2729,9 +2644,9 @@
         "Adventure",
         "Action"
       ],
-      "popularity": 8.35,
+      "popularity": 7.67,
       "vote_average": 4.6,
-      "vote_count": 79,
+      "vote_count": 80,
       "physical_dates": {
         "US": "2026-03-10"
       },
@@ -2751,7 +2666,7 @@
         "Drama",
         "Family"
       ],
-      "popularity": 4.85,
+      "popularity": 4.5,
       "vote_average": 7.9,
       "vote_count": 228,
       "physical_dates": {
@@ -2773,32 +2688,11 @@
         "Comedy",
         "Science Fiction"
       ],
-      "popularity": 3.17,
+      "popularity": 2.72,
       "vote_average": 4.8,
       "vote_count": 4,
       "physical_dates": {
         "US": "2026-03-10"
-      },
-      "trailer_key": null
-    },
-    {
-      "id": 1386252,
-      "title": "Gambling with the Devil",
-      "year": "2024",
-      "first_release_date": "2024-11-28",
-      "overview": "Dori is a retiree who spends her days drinking mate and playing lottery with Claudia, the woman who helps her clean her house. One day, she is unpleasantly surprised to learn that her neighbor Alicia has suddenly died. Overwhelmed by financial problems, Claudia tells Dori about Necromancy, the ritual by which one can consult the dead about the future. Dori agrees to this practice, thinking that her financial problems will soon be solved. But what she doesn't know is that desecrating the sleep of the dead can have terrifying consequences.",
-      "original_language": "es",
-      "poster_path": "/capEXuKzwUVkys6HiMso8T5T1dI.jpg",
-      "backdrop_path": null,
-      "genre_names": [
-        "Horror",
-        "Comedy"
-      ],
-      "popularity": 1.65,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "physical_dates": {
-        "ES": "2026-03-04"
       },
       "trailer_key": null
     },
@@ -2818,7 +2712,7 @@
         "Mystery",
         "Family"
       ],
-      "popularity": 43.76,
+      "popularity": 43.1,
       "vote_average": 7.7,
       "vote_count": 3650,
       "physical_dates": {
@@ -2840,7 +2734,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "popularity": 17.88,
+      "popularity": 16.79,
       "vote_average": 6.7,
       "vote_count": 2103,
       "physical_dates": {
@@ -2861,9 +2755,9 @@
         "Drama",
         "Romance"
       ],
-      "popularity": 12.08,
+      "popularity": 10.82,
       "vote_average": 7.7,
-      "vote_count": 1740,
+      "vote_count": 1742,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2882,7 +2776,7 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 3.16,
+      "popularity": 3.04,
       "vote_average": 5.5,
       "vote_count": 153,
       "physical_dates": {
@@ -2903,7 +2797,7 @@
         "Comedy",
         "Music"
       ],
-      "popularity": 2.9,
+      "popularity": 2.82,
       "vote_average": 6.9,
       "vote_count": 25,
       "physical_dates": {
@@ -2924,9 +2818,9 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 8.78,
+      "popularity": 8.66,
       "vote_average": 6.4,
-      "vote_count": 190,
+      "vote_count": 194,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2946,7 +2840,7 @@
         "Action",
         "Science Fiction"
       ],
-      "popularity": 4.08,
+      "popularity": 4.32,
       "vote_average": 5.0,
       "vote_count": 3,
       "physical_dates": {
@@ -2968,7 +2862,7 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 11.38,
+      "popularity": 10.21,
       "vote_average": 7.3,
       "vote_count": 1375,
       "physical_dates": {
@@ -2989,7 +2883,7 @@
         "Thriller",
         "Mystery"
       ],
-      "popularity": 2.28,
+      "popularity": 2.49,
       "vote_average": 6.2,
       "vote_count": 31,
       "physical_dates": {
@@ -3009,7 +2903,7 @@
       "genre_names": [
         "Documentary"
       ],
-      "popularity": 2.11,
+      "popularity": 1.76,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
@@ -3031,9 +2925,9 @@
         "Science Fiction",
         "Adventure"
       ],
-      "popularity": 24.72,
+      "popularity": 23.76,
       "vote_average": 7.8,
-      "vote_count": 3878,
+      "vote_count": 3883,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3053,9 +2947,9 @@
         "War",
         "Thriller"
       ],
-      "popularity": 10.04,
+      "popularity": 9.43,
       "vote_average": 7.3,
-      "vote_count": 957,
+      "vote_count": 959,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3074,7 +2968,7 @@
         "Romance",
         "Drama"
       ],
-      "popularity": 9.17,
+      "popularity": 8.62,
       "vote_average": 7.1,
       "vote_count": 607,
       "physical_dates": {
@@ -3095,7 +2989,7 @@
         "Comedy",
         "Drama"
       ],
-      "popularity": 6.18,
+      "popularity": 5.98,
       "vote_average": 7.7,
       "vote_count": 1086,
       "physical_dates": {
@@ -3117,7 +3011,7 @@
         "Action",
         "Adventure"
       ],
-      "popularity": 3.85,
+      "popularity": 3.7,
       "vote_average": 5.9,
       "vote_count": 89,
       "physical_dates": {
@@ -3138,9 +3032,9 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 17.82,
+      "popularity": 16.67,
       "vote_average": 6.6,
-      "vote_count": 1244,
+      "vote_count": 1245,
       "physical_dates": {
         "US": "2026-02-16"
       },
@@ -3158,9 +3052,9 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 9.32,
+      "popularity": 8.77,
       "vote_average": 6.6,
-      "vote_count": 784,
+      "vote_count": 785,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3179,7 +3073,7 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 7.35,
+      "popularity": 7.33,
       "vote_average": 6.1,
       "vote_count": 432,
       "physical_dates": {
@@ -3199,7 +3093,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 2.65,
+      "popularity": 2.23,
       "vote_average": 5.8,
       "vote_count": 56,
       "physical_dates": {
@@ -3221,9 +3115,9 @@
         "Thriller",
         "Comedy"
       ],
-      "popularity": 18.65,
+      "popularity": 18.58,
       "vote_average": 7.3,
-      "vote_count": 2568,
+      "vote_count": 2570,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3243,7 +3137,7 @@
         "Horror",
         "Mystery"
       ],
-      "popularity": 6.99,
+      "popularity": 6.27,
       "vote_average": 5.7,
       "vote_count": 373,
       "physical_dates": {
@@ -3265,7 +3159,7 @@
         "Horror",
         "Action"
       ],
-      "popularity": 2.05,
+      "popularity": 1.85,
       "vote_average": 4.0,
       "vote_count": 13,
       "physical_dates": {
@@ -3286,7 +3180,7 @@
         "Drama",
         "Thriller"
       ],
-      "popularity": 1.41,
+      "popularity": 1.27,
       "vote_average": 5.1,
       "vote_count": 19,
       "physical_dates": {
@@ -3309,7 +3203,7 @@
         "Crime",
         "Thriller"
       ],
-      "popularity": 3.71,
+      "popularity": 3.49,
       "vote_average": 6.2,
       "vote_count": 32,
       "physical_dates": {
@@ -3329,7 +3223,7 @@
       "genre_names": [
         "Comedy"
       ],
-      "popularity": 3.22,
+      "popularity": 2.73,
       "vote_average": 8.0,
       "vote_count": 2,
       "physical_dates": {
@@ -3351,7 +3245,7 @@
         "Thriller",
         "Drama"
       ],
-      "popularity": 5.83,
+      "popularity": 5.59,
       "vote_average": 4.5,
       "vote_count": 9,
       "physical_dates": {
@@ -3395,9 +3289,9 @@
         "Crime",
         "Comedy"
       ],
-      "popularity": 22.15,
+      "popularity": 23.0,
       "vote_average": 7.3,
-      "vote_count": 4488,
+      "vote_count": 4490,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3417,7 +3311,7 @@
         "Action",
         "Thriller"
       ],
-      "popularity": 4.26,
+      "popularity": 4.34,
       "vote_average": 4.9,
       "vote_count": 130,
       "physical_dates": {
@@ -3439,7 +3333,7 @@
         "Thriller",
         "Crime"
       ],
-      "popularity": 3.86,
+      "popularity": 3.81,
       "vote_average": 4.4,
       "vote_count": 77,
       "physical_dates": {
@@ -3461,7 +3355,7 @@
         "Adventure",
         "Romance"
       ],
-      "popularity": 13.62,
+      "popularity": 12.86,
       "vote_average": 6.6,
       "vote_count": 1214,
       "physical_dates": {
@@ -3484,7 +3378,7 @@
         "Mystery",
         "Thriller"
       ],
-      "popularity": 2.8,
+      "popularity": 2.89,
       "vote_average": 5.5,
       "vote_count": 2,
       "physical_dates": {
@@ -3507,7 +3401,7 @@
         "War",
         "Science Fiction"
       ],
-      "popularity": 7.6,
+      "popularity": 6.85,
       "vote_average": 6.5,
       "vote_count": 587,
       "physical_dates": {
@@ -3529,58 +3423,13 @@
         "Adventure",
         "Action"
       ],
-      "popularity": 11.63,
+      "popularity": 11.54,
       "vote_average": 6.4,
       "vote_count": 1709,
       "physical_dates": {
         "US": "2026-01-06"
       },
       "trailer_key": "gNa0j4mQo1k"
-    },
-    {
-      "id": 986097,
-      "title": "HIM",
-      "year": "2025",
-      "first_release_date": "2025-09-17",
-      "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
-      "original_language": "en",
-      "poster_path": "/hFVa74eIxVf0xiBNhmMJtAW2n9e.jpg",
-      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
-      "genre_names": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "popularity": 7.87,
-      "vote_average": 5.6,
-      "vote_count": 474,
-      "physical_dates": {
-        "GB": "2026-01-06",
-        "US": "2025-11-11"
-      },
-      "trailer_key": "hpEy0iOixb4"
-    },
-    {
-      "id": 937941,
-      "title": "Shelby Oaks",
-      "year": "2024",
-      "first_release_date": "2024-07-20",
-      "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
-      "original_language": "en",
-      "poster_path": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
-      "backdrop_path": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
-      "genre_names": [
-        "Horror",
-        "Mystery"
-      ],
-      "popularity": 7.48,
-      "vote_average": 5.7,
-      "vote_count": 334,
-      "physical_dates": {
-        "GB": "2025-12-15",
-        "US": "2026-01-06"
-      },
-      "trailer_key": "B-m1TGIY6Zo"
     },
     {
       "id": 507244,
@@ -3596,13 +3445,58 @@
         "Science Fiction",
         "Comedy"
       ],
-      "popularity": 6.72,
+      "popularity": 6.87,
       "vote_average": 6.2,
-      "vote_count": 370,
+      "vote_count": 371,
       "physical_dates": {
         "US": "2026-01-06"
       },
       "trailer_key": "ZkEjle729tI"
+    },
+    {
+      "id": 937941,
+      "title": "Shelby Oaks",
+      "year": "2024",
+      "first_release_date": "2024-07-20",
+      "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
+      "original_language": "en",
+      "poster_path": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+      "backdrop_path": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+      "genre_names": [
+        "Horror",
+        "Mystery"
+      ],
+      "popularity": 6.71,
+      "vote_average": 5.7,
+      "vote_count": 334,
+      "physical_dates": {
+        "GB": "2025-12-15",
+        "US": "2026-01-06"
+      },
+      "trailer_key": "B-m1TGIY6Zo"
+    },
+    {
+      "id": 986097,
+      "title": "HIM",
+      "year": "2025",
+      "first_release_date": "2025-09-17",
+      "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
+      "original_language": "en",
+      "poster_path": "/hFVa74eIxVf0xiBNhmMJtAW2n9e.jpg",
+      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+      "genre_names": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "popularity": 6.66,
+      "vote_average": 5.6,
+      "vote_count": 474,
+      "physical_dates": {
+        "GB": "2026-01-06",
+        "US": "2025-11-11"
+      },
+      "trailer_key": "hpEy0iOixb4"
     },
     {
       "id": 1386827,
@@ -3617,7 +3511,7 @@
         "Horror",
         "Comedy"
       ],
-      "popularity": 3.43,
+      "popularity": 2.86,
       "vote_average": 5.5,
       "vote_count": 88,
       "physical_dates": {
@@ -3639,34 +3533,13 @@
         "Horror",
         "Science Fiction"
       ],
-      "popularity": 2.18,
+      "popularity": 2.16,
       "vote_average": 6.4,
       "vote_count": 9,
       "physical_dates": {
         "GB": "2025-12-29"
       },
       "trailer_key": "GQGproMEVLo"
-    },
-    {
-      "id": 1197137,
-      "title": "Black Phone 2",
-      "year": "2025",
-      "first_release_date": "2025-09-20",
-      "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-      "original_language": "en",
-      "poster_path": "/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg",
-      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
-      "genre_names": [
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 13.05,
-      "vote_average": 6.6,
-      "vote_count": 1422,
-      "physical_dates": {
-        "US": "2025-12-23"
-      },
-      "trailer_key": "pWNucAcRoBY"
     },
     {
       "id": 604079,
@@ -3682,13 +3555,34 @@
         "Thriller",
         "Horror"
       ],
-      "popularity": 11.96,
+      "popularity": 12.69,
       "vote_average": 6.8,
-      "vote_count": 2128,
+      "vote_count": 2129,
       "physical_dates": {
         "US": "2025-12-23"
       },
       "trailer_key": "Toj3Zxun7aQ"
+    },
+    {
+      "id": 1197137,
+      "title": "Black Phone 2",
+      "year": "2025",
+      "first_release_date": "2025-09-20",
+      "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+      "original_language": "en",
+      "poster_path": "/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg",
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_names": [
+        "Horror",
+        "Thriller"
+      ],
+      "popularity": 11.81,
+      "vote_average": 6.6,
+      "vote_count": 1424,
+      "physical_dates": {
+        "US": "2025-12-23"
+      },
+      "trailer_key": "pWNucAcRoBY"
     },
     {
       "id": 1241921,
@@ -3704,7 +3598,7 @@
         "Fantasy",
         "Drama"
       ],
-      "popularity": 6.49,
+      "popularity": 5.91,
       "vote_average": 6.1,
       "vote_count": 450,
       "physical_dates": {
@@ -3726,9 +3620,9 @@
         "Fantasy",
         "Romance"
       ],
-      "popularity": 29.96,
+      "popularity": 28.73,
       "vote_average": 7.3,
-      "vote_count": 1591,
+      "vote_count": 1594,
       "physical_dates": {
         "GB": "2025-12-22"
       },
@@ -3747,33 +3641,13 @@
         "Horror",
         "Thriller"
       ],
-      "popularity": 5.8,
+      "popularity": 5.51,
       "vote_average": 6.4,
       "vote_count": 769,
       "physical_dates": {
         "ES": "2025-12-17"
       },
       "trailer_key": "WR2btzjmmuc"
-    },
-    {
-      "id": 1679022,
-      "title": "Taken",
-      "year": "2025",
-      "first_release_date": "2025-12-13",
-      "overview": "A newly wealthy man is kidnapped and held for days. Under pressure, he must decide how long he can keep his secret.",
-      "original_language": "es",
-      "poster_path": "/iRmhcTjWu5RuC4m6kJSF6RAgJWS.jpg",
-      "backdrop_path": "/qSFol6O2ctOtulnWHAhbwdoo7IO.jpg",
-      "genre_names": [
-        "Drama"
-      ],
-      "popularity": 1.59,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "ES": "2025-12-13"
-      },
-      "trailer_key": null
     },
     {
       "id": 1235746,
@@ -3788,7 +3662,7 @@
         "Thriller",
         "Action"
       ],
-      "popularity": 6.19,
+      "popularity": 5.37,
       "vote_average": 6.5,
       "vote_count": 512,
       "physical_dates": {
@@ -3812,7 +3686,7 @@
         "Mystery",
         "Drama"
       ],
-      "popularity": 4.04,
+      "popularity": 3.54,
       "vote_average": 5.6,
       "vote_count": 52,
       "physical_dates": {
@@ -3834,9 +3708,9 @@
         "Thriller",
         "Crime"
       ],
-      "popularity": 4.3,
-      "vote_average": 6.8,
-      "vote_count": 159,
+      "popularity": 3.91,
+      "vote_average": 6.9,
+      "vote_count": 160,
       "physical_dates": {
         "GB": "2025-12-08"
       },
@@ -3856,7 +3730,7 @@
         "Drama",
         "Mystery"
       ],
-      "popularity": 3.76,
+      "popularity": 3.35,
       "vote_average": 5.8,
       "vote_count": 279,
       "physical_dates": {
@@ -3878,7 +3752,7 @@
         "Comedy",
         "Action"
       ],
-      "popularity": 4.1,
+      "popularity": 3.48,
       "vote_average": 4.5,
       "vote_count": 21,
       "physical_dates": {
@@ -3898,9 +3772,9 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 22.28,
+      "popularity": 20.41,
       "vote_average": 6.9,
-      "vote_count": 2229,
+      "vote_count": 2231,
       "physical_dates": {
         "US": "2025-11-25"
       },
@@ -3922,7 +3796,7 @@
         "Family",
         "Fantasy"
       ],
-      "popularity": 8.32,
+      "popularity": 7.89,
       "vote_average": 6.7,
       "vote_count": 103,
       "physical_dates": {
@@ -3944,7 +3818,7 @@
         "Comedy",
         "Family"
       ],
-      "popularity": 2.2,
+      "popularity": 2.48,
       "vote_average": 7.5,
       "vote_count": 5,
       "physical_dates": {
@@ -3965,7 +3839,7 @@
         "Horror",
         "Romance"
       ],
-      "popularity": 8.15,
+      "popularity": 8.13,
       "vote_average": 6.9,
       "vote_count": 1441,
       "physical_dates": {
@@ -3988,9 +3862,9 @@
         "Crime",
         "Thriller"
       ],
-      "popularity": 5.03,
+      "popularity": 4.59,
       "vote_average": 5.5,
-      "vote_count": 311,
+      "vote_count": 312,
       "physical_dates": {
         "GB": "2025-11-24"
       },
@@ -4010,7 +3884,7 @@
         "Drama",
         "TV Movie"
       ],
-      "popularity": 2.27,
+      "popularity": 2.05,
       "vote_average": 5.2,
       "vote_count": 5,
       "physical_dates": {
@@ -4030,7 +3904,7 @@
       "genre_names": [
         "Music"
       ],
-      "popularity": 1.99,
+      "popularity": 1.92,
       "vote_average": 8.0,
       "vote_count": 1,
       "physical_dates": {
@@ -4051,7 +3925,7 @@
       "genre_names": [
         "Horror"
       ],
-      "popularity": 8.88,
+      "popularity": 8.21,
       "vote_average": 6.2,
       "vote_count": 1687,
       "physical_dates": {
@@ -4073,7 +3947,7 @@
         "Crime",
         "Action"
       ],
-      "popularity": 13.65,
+      "popularity": 13.09,
       "vote_average": 6.3,
       "vote_count": 2076,
       "physical_dates": {
@@ -4096,7 +3970,7 @@
         "Thriller",
         "Comedy"
       ],
-      "popularity": 8.75,
+      "popularity": 8.93,
       "vote_average": 6.8,
       "vote_count": 1206,
       "physical_dates": {
@@ -4118,7 +3992,7 @@
         "Fantasy",
         "Family"
       ],
-      "popularity": 7.37,
+      "popularity": 7.32,
       "vote_average": 6.8,
       "vote_count": 830,
       "physical_dates": {
@@ -4139,13 +4013,34 @@
         "Drama",
         "Romance"
       ],
-      "popularity": 6.18,
+      "popularity": 5.63,
       "vote_average": 7.1,
       "vote_count": 312,
       "physical_dates": {
         "US": "2025-11-11"
       },
       "trailer_key": "P_30wFRxlnA"
+    },
+    {
+      "id": 975225,
+      "title": "Spinal Tap II: The End Continues",
+      "year": "2025",
+      "first_release_date": "2025-09-09",
+      "overview": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
+      "original_language": "en",
+      "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+      "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
+      "genre_names": [
+        "Comedy",
+        "Music"
+      ],
+      "popularity": 2.57,
+      "vote_average": 6.1,
+      "vote_count": 104,
+      "physical_dates": {
+        "US": "2025-11-11"
+      },
+      "trailer_key": "1ryx-eRSwSs"
     },
     {
       "id": 1100998,
@@ -4162,34 +4057,13 @@
         "Family",
         "Adventure"
       ],
-      "popularity": 2.63,
+      "popularity": 2.37,
       "vote_average": 6.9,
       "vote_count": 8,
       "physical_dates": {
         "US": "2025-11-11"
       },
       "trailer_key": "SA1aHAc7bo0"
-    },
-    {
-      "id": 975225,
-      "title": "Spinal Tap II: The End Continues",
-      "year": "2025",
-      "first_release_date": "2025-09-09",
-      "overview": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
-      "original_language": "en",
-      "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
-      "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
-      "genre_names": [
-        "Comedy",
-        "Music"
-      ],
-      "popularity": 2.38,
-      "vote_average": 6.1,
-      "vote_count": 104,
-      "physical_dates": {
-        "US": "2025-11-11"
-      },
-      "trailer_key": "1ryx-eRSwSs"
     },
     {
       "id": 1031962,
@@ -4205,7 +4079,7 @@
         "Thriller",
         "Mystery"
       ],
-      "popularity": 2.35,
+      "popularity": 2.28,
       "vote_average": 6.4,
       "vote_count": 42,
       "physical_dates": {
@@ -4226,9 +4100,9 @@
         "Action",
         "Drama"
       ],
-      "popularity": 33.29,
+      "popularity": 30.92,
       "vote_average": 7.8,
-      "vote_count": 4953,
+      "vote_count": 4955,
       "physical_dates": {
         "GB": "2025-11-10"
       },
@@ -4249,7 +4123,7 @@
         "Thriller",
         "History"
       ],
-      "popularity": 5.42,
+      "popularity": 5.0,
       "vote_average": 7.1,
       "vote_count": 224,
       "physical_dates": {
@@ -4269,7 +4143,7 @@
       "genre_names": [
         "Music"
       ],
-      "popularity": 1.75,
+      "popularity": 1.51,
       "vote_average": 0.0,
       "vote_count": 0,
       "physical_dates": {
