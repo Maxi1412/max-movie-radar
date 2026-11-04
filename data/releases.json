@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T13:05:07Z",
+  "generated_at": "2026-11-04T22:41:20Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -32,7 +32,7 @@
       ],
       "popularity": 55.39,
       "vote_average": 7.1,
-      "vote_count": 2314,
+      "vote_count": 2317,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -101,7 +101,7 @@
       ],
       "popularity": 29.94,
       "vote_average": 8.0,
-      "vote_count": 3349,
+      "vote_count": 3350,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -190,7 +190,7 @@
       ],
       "popularity": 22.83,
       "vote_average": 7.6,
-      "vote_count": 4035,
+      "vote_count": 4036,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -279,7 +279,7 @@
       ],
       "popularity": 30.2,
       "vote_average": 7.1,
-      "vote_count": 2313,
+      "vote_count": 2314,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -322,7 +322,7 @@
       ],
       "popularity": 13.63,
       "vote_average": 6.4,
-      "vote_count": 675,
+      "vote_count": 676,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -389,26 +389,6 @@
       "trailer_key": "wc2UjmPzN8c"
     },
     {
-      "id": 1793132,
-      "title": "Repo! This Movie: The Anatomy of a Cult",
-      "year": "2026",
-      "first_release_date": "2026-10-13",
-      "overview": "Featuring insights from director Darren Lynn Bousman and cast members, a look at how the dark, cybergoth rock opera Repo! The Genetic Opera – originating from a modest theatrical stage play – blended industrial goth aesthetics, high-camp operatic numbers, and comic-book gore into an enduring midnight-movie cult classic. The feature-length documentary highlights the grassroots fan movement, shadowcasts, and interactive community gatherings, ala The Rocky Horror Picture Show.",
-      "original_language": "en",
-      "poster_path": "/uHyaEQRk6N9MiC0y0gj8rpHyZrb.jpg",
-      "backdrop_path": null,
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 1.99,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-10-13"
-      },
-      "trailer_key": "SaFfp7tdp5w"
-    },
-    {
       "id": 1212763,
       "title": "Evil Dead Burn",
       "year": "2026",
@@ -422,7 +402,7 @@
       ],
       "popularity": 30.38,
       "vote_average": 7.6,
-      "vote_count": 1901,
+      "vote_count": 1903,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -486,7 +466,7 @@
       ],
       "popularity": 70.14,
       "vote_average": 7.5,
-      "vote_count": 1013,
+      "vote_count": 1014,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -593,7 +573,7 @@
       ],
       "popularity": 80.12,
       "vote_average": 8.3,
-      "vote_count": 2808,
+      "vote_count": 2809,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -634,7 +614,7 @@
       ],
       "popularity": 35.33,
       "vote_average": 7.2,
-      "vote_count": 158,
+      "vote_count": 159,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -719,7 +699,7 @@
       ],
       "popularity": 5.51,
       "vote_average": 6.3,
-      "vote_count": 129,
+      "vote_count": 128,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -741,7 +721,7 @@
       ],
       "popularity": 8.82,
       "vote_average": 7.1,
-      "vote_count": 946,
+      "vote_count": 949,
       "physical_dates": {
         "GB": "2026-09-21"
       },
@@ -812,6 +792,27 @@
       "trailer_key": "yx2YuoAnwlQ"
     },
     {
+      "id": 1384040,
+      "title": "Haunted Heist",
+      "year": "2025",
+      "first_release_date": "2025-09-20",
+      "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
+      "original_language": "en",
+      "poster_path": "/fpSuBrNV6wRO2qtPwu27JpHkhzl.jpg",
+      "backdrop_path": "/ttJf17wtEXpt3OCKEY3JkUpwHnO.jpg",
+      "genre_names": [
+        "Horror",
+        "Comedy"
+      ],
+      "popularity": 2.0,
+      "vote_average": 7.2,
+      "vote_count": 5,
+      "physical_dates": {
+        "US": "2026-09-15"
+      },
+      "trailer_key": "HxQ1lws1AFA"
+    },
+    {
       "id": 1263012,
       "title": "Dead Man's Wire",
       "year": "2025",
@@ -851,7 +852,7 @@
       ],
       "popularity": 55.1,
       "vote_average": 7.6,
-      "vote_count": 1366,
+      "vote_count": 1367,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -938,7 +939,7 @@
       ],
       "popularity": 151.01,
       "vote_average": 6.4,
-      "vote_count": 157,
+      "vote_count": 158,
       "physical_dates": {
         "GB": "2026-09-07"
       },
@@ -959,7 +960,7 @@
       ],
       "popularity": 107.97,
       "vote_average": 8.2,
-      "vote_count": 6497,
+      "vote_count": 6506,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -1105,7 +1106,7 @@
       ],
       "popularity": 70.01,
       "vote_average": 7.4,
-      "vote_count": 3949,
+      "vote_count": 3950,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1127,7 +1128,7 @@
       ],
       "popularity": 35.63,
       "vote_average": 7.5,
-      "vote_count": 1959,
+      "vote_count": 1960,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1149,7 +1150,7 @@
       ],
       "popularity": 23.0,
       "vote_average": 7.9,
-      "vote_count": 1892,
+      "vote_count": 1896,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1171,7 +1172,7 @@
       ],
       "popularity": 4.51,
       "vote_average": 5.7,
-      "vote_count": 251,
+      "vote_count": 252,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1193,7 +1194,7 @@
       ],
       "popularity": 4.26,
       "vote_average": 7.0,
-      "vote_count": 353,
+      "vote_count": 354,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1258,7 +1259,7 @@
       ],
       "popularity": 9.17,
       "vote_average": 7.5,
-      "vote_count": 1172,
+      "vote_count": 1173,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1301,7 +1302,7 @@
       ],
       "popularity": 73.45,
       "vote_average": 8.6,
-      "vote_count": 8681,
+      "vote_count": 8685,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1343,7 +1344,7 @@
       ],
       "popularity": 43.59,
       "vote_average": 8.6,
-      "vote_count": 4672,
+      "vote_count": 4673,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1428,7 +1429,7 @@
       ],
       "popularity": 17.35,
       "vote_average": 6.9,
-      "vote_count": 2030,
+      "vote_count": 2032,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1450,7 +1451,7 @@
       ],
       "popularity": 23.37,
       "vote_average": 7.8,
-      "vote_count": 2850,
+      "vote_count": 2852,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1556,7 +1557,7 @@
       ],
       "popularity": 11.68,
       "vote_average": 6.9,
-      "vote_count": 1222,
+      "vote_count": 1223,
       "physical_dates": {
         "GB": "2026-07-06",
         "US": "2026-06-30"
@@ -1599,7 +1600,7 @@
       ],
       "popularity": 21.41,
       "vote_average": 7.0,
-      "vote_count": 1469,
+      "vote_count": 1470,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1687,7 +1688,7 @@
       ],
       "popularity": 18.47,
       "vote_average": 7.5,
-      "vote_count": 1788,
+      "vote_count": 1790,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1733,7 +1734,7 @@
       ],
       "popularity": 41.18,
       "vote_average": 8.2,
-      "vote_count": 3948,
+      "vote_count": 3949,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1781,26 +1782,6 @@
         "US": "2026-06-16"
       },
       "trailer_key": "uYTMroh8pjI"
-    },
-    {
-      "id": 1715818,
-      "title": "Spark Into a Flame",
-      "year": "2026",
-      "first_release_date": "2026-06-15",
-      "overview": "Lin-Manuel Miranda and others set hip-hop and Broadway on fire in The Hamilton Mixtape.",
-      "original_language": "en",
-      "poster_path": "/qngvTSN4goRefJzgpEYUggRo9HH.jpg",
-      "backdrop_path": "/7dYBC45o5xXuVw96W8yNjxSb0ID.jpg",
-      "genre_names": [
-        "Documentary"
-      ],
-      "popularity": 1.96,
-      "vote_average": 4.0,
-      "vote_count": 2,
-      "physical_dates": {
-        "US": "2026-06-16"
-      },
-      "trailer_key": null
     },
     {
       "id": 1083884,
@@ -1968,7 +1949,7 @@
       ],
       "popularity": 50.08,
       "vote_average": 7.6,
-      "vote_count": 4650,
+      "vote_count": 4651,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -1990,7 +1971,7 @@
       ],
       "popularity": 6.81,
       "vote_average": 6.7,
-      "vote_count": 353,
+      "vote_count": 354,
       "physical_dates": {
         "GB": "2026-06-01"
       },
@@ -2074,7 +2055,7 @@
       ],
       "popularity": 2.72,
       "vote_average": 5.9,
-      "vote_count": 78,
+      "vote_count": 79,
       "physical_dates": {
         "GB": "2026-05-25"
       },
@@ -2140,7 +2121,7 @@
       ],
       "popularity": 27.84,
       "vote_average": 8.0,
-      "vote_count": 1152,
+      "vote_count": 1153,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2184,7 +2165,7 @@
       ],
       "popularity": 15.48,
       "vote_average": 7.0,
-      "vote_count": 2474,
+      "vote_count": 2475,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2250,7 +2231,7 @@
       ],
       "popularity": 6.53,
       "vote_average": 5.5,
-      "vote_count": 565,
+      "vote_count": 566,
       "physical_dates": {
         "US": "2026-04-28"
       },
@@ -2272,7 +2253,7 @@
       ],
       "popularity": 28.11,
       "vote_average": 7.7,
-      "vote_count": 2018,
+      "vote_count": 2020,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2294,7 +2275,7 @@
       ],
       "popularity": 17.52,
       "vote_average": 7.1,
-      "vote_count": 1910,
+      "vote_count": 1914,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2317,7 +2298,7 @@
       ],
       "popularity": 11.81,
       "vote_average": 7.1,
-      "vote_count": 1175,
+      "vote_count": 1176,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2338,7 +2319,7 @@
       ],
       "popularity": 10.54,
       "vote_average": 6.4,
-      "vote_count": 968,
+      "vote_count": 969,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2381,7 +2362,7 @@
       ],
       "popularity": 9.02,
       "vote_average": 6.1,
-      "vote_count": 683,
+      "vote_count": 685,
       "physical_dates": {
         "GB": "2026-04-20"
       },
@@ -2450,7 +2431,7 @@
       ],
       "popularity": 14.1,
       "vote_average": 7.1,
-      "vote_count": 1811,
+      "vote_count": 1812,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2476,26 +2457,6 @@
         "US": "2026-04-07"
       },
       "trailer_key": "-smVu1cxPm8"
-    },
-    {
-      "id": 1625383,
-      "title": "Orgy of the Dead 2",
-      "year": "2026",
-      "first_release_date": "2026-01-03",
-      "overview": "Once again, the dead return to land of the living for a night of debauchery as the Princess of the Night and the Emperor host a variety of dancing beauties to either entertain or be banished to hell. A car full of drunken teens crash their car near the graveyard and stumble upon the gruesome scene.",
-      "original_language": "en",
-      "poster_path": "/dTsslPZ1NOYfhXVRxLz30vmB9ex.jpg",
-      "backdrop_path": "/fkOVuT0WT3kImduE5h8sF1K9h5A.jpg",
-      "genre_names": [
-        "Comedy"
-      ],
-      "popularity": 1.89,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-04-07"
-      },
-      "trailer_key": "yQAkfwK1mGI"
     },
     {
       "id": 1317288,
@@ -2601,7 +2562,7 @@
       ],
       "popularity": 18.66,
       "vote_average": 5.3,
-      "vote_count": 931,
+      "vote_count": 933,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2623,7 +2584,7 @@
       ],
       "popularity": 11.84,
       "vote_average": 5.8,
-      "vote_count": 1535,
+      "vote_count": 1536,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2714,7 +2675,7 @@
       ],
       "popularity": 43.1,
       "vote_average": 7.7,
-      "vote_count": 3650,
+      "vote_count": 3651,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2736,7 +2697,7 @@
       ],
       "popularity": 16.79,
       "vote_average": 6.7,
-      "vote_count": 2103,
+      "vote_count": 2105,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2820,7 +2781,7 @@
       ],
       "popularity": 8.66,
       "vote_average": 6.4,
-      "vote_count": 194,
+      "vote_count": 195,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2864,7 +2825,7 @@
       ],
       "popularity": 10.21,
       "vote_average": 7.3,
-      "vote_count": 1375,
+      "vote_count": 1377,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -2927,7 +2888,7 @@
       ],
       "popularity": 23.76,
       "vote_average": 7.8,
-      "vote_count": 3883,
+      "vote_count": 3884,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2949,7 +2910,7 @@
       ],
       "popularity": 9.43,
       "vote_average": 7.3,
-      "vote_count": 959,
+      "vote_count": 960,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -3054,7 +3015,7 @@
       ],
       "popularity": 8.77,
       "vote_average": 6.6,
-      "vote_count": 785,
+      "vote_count": 786,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3075,7 +3036,7 @@
       ],
       "popularity": 7.33,
       "vote_average": 6.1,
-      "vote_count": 432,
+      "vote_count": 433,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -3117,7 +3078,7 @@
       ],
       "popularity": 18.58,
       "vote_average": 7.3,
-      "vote_count": 2570,
+      "vote_count": 2571,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3139,7 +3100,7 @@
       ],
       "popularity": 6.27,
       "vote_average": 5.7,
-      "vote_count": 373,
+      "vote_count": 374,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2026-01-20"
@@ -3291,7 +3252,7 @@
       ],
       "popularity": 23.0,
       "vote_average": 7.3,
-      "vote_count": 4490,
+      "vote_count": 4492,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3403,7 +3364,7 @@
       ],
       "popularity": 6.85,
       "vote_average": 6.5,
-      "vote_count": 587,
+      "vote_count": 588,
       "physical_dates": {
         "GB": "2026-01-19"
       },
@@ -3491,7 +3452,7 @@
       ],
       "popularity": 6.66,
       "vote_average": 5.6,
-      "vote_count": 474,
+      "vote_count": 475,
       "physical_dates": {
         "GB": "2026-01-06",
         "US": "2025-11-11"
@@ -3518,6 +3479,27 @@
         "GB": "2026-01-05"
       },
       "trailer_key": "DENZQmZZ1ok"
+    },
+    {
+      "id": 1481851,
+      "title": "Good Night, and Good Luck",
+      "year": "2025",
+      "first_release_date": "2025-06-07",
+      "overview": "Livestreamed from the penultimate show at the Winter Garden Theatre in New York City, this stage adaptation of George Clooney's 2005 film follows the story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s.",
+      "original_language": "en",
+      "poster_path": "/fINjqjQNWYr7g9nVawzPDenxVO3.jpg",
+      "backdrop_path": "/oXUAgmFAZ389OoYJkJhA9vxK96y.jpg",
+      "genre_names": [
+        "Drama",
+        "History"
+      ],
+      "popularity": 2.11,
+      "vote_average": 7.0,
+      "vote_count": 14,
+      "physical_dates": {
+        "US": "2025-12-30"
+      },
+      "trailer_key": "BoY-o7sCg7k"
     },
     {
       "id": 1174240,
@@ -3557,7 +3539,7 @@
       ],
       "popularity": 12.69,
       "vote_average": 6.8,
-      "vote_count": 2129,
+      "vote_count": 2130,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3629,6 +3611,24 @@
       "trailer_key": "hverb7siYJ8"
     },
     {
+      "id": 1600768,
+      "title": "Donald Farmer's Wild Ride",
+      "year": "2025",
+      "first_release_date": "2025-12-19",
+      "overview": "A quirky, gonzo peek behind the curtain into the mad mind of schlockmeister extraordinaire Donald Farmer. Known as the Budget Master of Tennessee, Farmer is the undisputed king of SOV Cinema, a DIY legend who’s carved a blood-soaked path through five decades of horror, trash, and straight-to-video gold.  Starting in the 1970s with a series of Super 8 films before transitioning to the “profitable” promise of videotape, Farmer found success with hypnotically gory, offbeat features—films that often hid sweet, romantic cores beneath their eye-popping VHS covers. A true original, Donald has been a writer for Fangoria, an actor, and even a reality TV star.",
+      "original_language": "en",
+      "poster_path": "/eCnfUUA5zOc10phy1osZTedxzVz.jpg",
+      "backdrop_path": null,
+      "genre_names": [],
+      "popularity": 2.08,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-19"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1285965,
       "title": "Dangerous Animals",
       "year": "2025",
@@ -3643,7 +3643,7 @@
       ],
       "popularity": 5.51,
       "vote_average": 6.4,
-      "vote_count": 769,
+      "vote_count": 770,
       "physical_dates": {
         "ES": "2025-12-17"
       },
@@ -3709,8 +3709,8 @@
         "Crime"
       ],
       "popularity": 3.91,
-      "vote_average": 6.9,
-      "vote_count": 160,
+      "vote_average": 6.8,
+      "vote_count": 161,
       "physical_dates": {
         "GB": "2025-12-08"
       },
@@ -3774,7 +3774,7 @@
       ],
       "popularity": 20.41,
       "vote_average": 6.9,
-      "vote_count": 2231,
+      "vote_count": 2234,
       "physical_dates": {
         "US": "2025-11-25"
       },
@@ -3949,7 +3949,7 @@
       ],
       "popularity": 13.09,
       "vote_average": 6.3,
-      "vote_count": 2076,
+      "vote_count": 2078,
       "physical_dates": {
         "GB": "2025-11-10",
         "US": "2025-11-11"
@@ -4102,7 +4102,7 @@
       ],
       "popularity": 30.92,
       "vote_average": 7.8,
-      "vote_count": 4955,
+      "vote_count": 4960,
       "physical_dates": {
         "GB": "2025-11-10"
       },
@@ -4125,7 +4125,7 @@
       ],
       "popularity": 5.0,
       "vote_average": 7.1,
-      "vote_count": 224,
+      "vote_count": 225,
       "physical_dates": {
         "GB": "2025-11-10"
       },
