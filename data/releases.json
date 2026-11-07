@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T11:48:40Z",
+  "generated_at": "2026-11-07T20:58:26Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -78,7 +78,7 @@
       ],
       "popularity": 32.07,
       "vote_average": 7.8,
-      "vote_count": 408,
+      "vote_count": 410,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -167,7 +167,7 @@
       ],
       "popularity": 18.23,
       "vote_average": 7.6,
-      "vote_count": 4041,
+      "vote_count": 4042,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -190,7 +190,7 @@
       ],
       "popularity": 33.88,
       "vote_average": 5.4,
-      "vote_count": 308,
+      "vote_count": 312,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-20"
@@ -212,7 +212,7 @@
       ],
       "popularity": 8.71,
       "vote_average": 6.0,
-      "vote_count": 746,
+      "vote_count": 747,
       "physical_dates": {
         "GB": "2026-10-26"
       },
@@ -256,7 +256,7 @@
       ],
       "popularity": 23.62,
       "vote_average": 7.1,
-      "vote_count": 2323,
+      "vote_count": 2324,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -277,7 +277,7 @@
       ],
       "popularity": 14.09,
       "vote_average": 6.4,
-      "vote_count": 254,
+      "vote_count": 255,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -299,7 +299,7 @@
       ],
       "popularity": 10.9,
       "vote_average": 6.4,
-      "vote_count": 677,
+      "vote_count": 679,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -379,7 +379,7 @@
       ],
       "popularity": 25.22,
       "vote_average": 7.6,
-      "vote_count": 1910,
+      "vote_count": 1913,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -443,7 +443,7 @@
       ],
       "popularity": 58.34,
       "vote_average": 7.5,
-      "vote_count": 1019,
+      "vote_count": 1021,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -487,7 +487,7 @@
       ],
       "popularity": 17.84,
       "vote_average": 7.2,
-      "vote_count": 921,
+      "vote_count": 924,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -530,7 +530,7 @@
       ],
       "popularity": 74.03,
       "vote_average": 8.3,
-      "vote_count": 2821,
+      "vote_count": 2822,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -614,7 +614,7 @@
       ],
       "popularity": 6.18,
       "vote_average": 7.7,
-      "vote_count": 141,
+      "vote_count": 142,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -656,7 +656,7 @@
       ],
       "popularity": 4.86,
       "vote_average": 6.3,
-      "vote_count": 129,
+      "vote_count": 130,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -788,7 +788,7 @@
       ],
       "popularity": 47.29,
       "vote_average": 7.6,
-      "vote_count": 1371,
+      "vote_count": 1372,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -833,7 +833,7 @@
       ],
       "popularity": 27.77,
       "vote_average": 6.6,
-      "vote_count": 2698,
+      "vote_count": 2699,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -966,6 +966,26 @@
       "trailer_key": "opwPUoi1YDw"
     },
     {
+      "id": 1763269,
+      "title": "Reviving Robin",
+      "year": "2026",
+      "first_release_date": "2026-09-01",
+      "overview": "Documentary directed and edited by Peter Flynn capturing the entire process of archiving and releasing Robin. Featuring interviews with stars, preservationists, along with newly uncovered outtakes, behind-the-scenes ephemera, and never-before-seen promotional materials",
+      "original_language": "en",
+      "poster_path": "/5BfgY9ioBVrFsfigVgKKrqHuaY4.jpg",
+      "backdrop_path": "/xPvAoK4084JvxYRkelOwZVYJJvD.jpg",
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.84,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2026-09-01"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1741498,
       "title": "LOOP",
       "year": "2026",
@@ -1001,7 +1021,7 @@
       ],
       "popularity": 58.64,
       "vote_average": 7.4,
-      "vote_count": 3957,
+      "vote_count": 3959,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1023,7 +1043,7 @@
       ],
       "popularity": 35.77,
       "vote_average": 7.5,
-      "vote_count": 1966,
+      "vote_count": 1967,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1045,7 +1065,7 @@
       ],
       "popularity": 18.42,
       "vote_average": 7.9,
-      "vote_count": 1903,
+      "vote_count": 1905,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1175,7 +1195,7 @@
       ],
       "popularity": 7.41,
       "vote_average": 7.5,
-      "vote_count": 1174,
+      "vote_count": 1175,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1218,7 +1238,7 @@
       ],
       "popularity": 2152.77,
       "vote_average": 8.6,
-      "vote_count": 8706,
+      "vote_count": 8710,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1239,7 +1259,7 @@
       ],
       "popularity": 14.7,
       "vote_average": 6.8,
-      "vote_count": 1036,
+      "vote_count": 1038,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1290,26 +1310,6 @@
       "trailer_key": "PMd1at7OwiE"
     },
     {
-      "id": 1797107,
-      "title": "Clownsquatch",
-      "year": "2026",
-      "first_release_date": "2026-08-01",
-      "overview": "The Moist Creek locals tell tales of a creature that hunts humans every 13 years. But will anyone believe the local park ranger when he alerts town of a 7 foot monster - wearing greasepaint and a red nose?",
-      "original_language": "en",
-      "poster_path": "/el57DyNkz8SE3h5uGbWXzI5Wxc9.jpg",
-      "backdrop_path": null,
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 1.59,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-08-01"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 1325734,
       "title": "The Drama",
       "year": "2026",
@@ -1333,27 +1333,6 @@
       "trailer_key": "0ZDzsH3XGFA"
     },
     {
-      "id": 1525909,
-      "title": "Keeping Company",
-      "year": "2025",
-      "first_release_date": "2025-10-01",
-      "overview": "A diary.exe of her pixelf- isolation echoes through Robbie's webcam.",
-      "original_language": "en",
-      "poster_path": "/l1yxG7See9ENzPSFABzdFI1gh4t.jpg",
-      "backdrop_path": "/9dd5akfX4CpKAKyOiq7kC2eyNTY.jpg",
-      "genre_names": [
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 1.64,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-07-15"
-      },
-      "trailer_key": null
-    },
-    {
       "id": 1304313,
       "title": "Lee Cronin's The Mummy",
       "year": "2026",
@@ -1368,7 +1347,7 @@
       ],
       "popularity": 21.95,
       "vote_average": 7.8,
-      "vote_count": 2855,
+      "vote_count": 2857,
       "physical_dates": {
         "US": "2026-07-14"
       },
@@ -1452,7 +1431,7 @@
       ],
       "popularity": 44.0,
       "vote_average": 6.1,
-      "vote_count": 393,
+      "vote_count": 394,
       "physical_dates": {
         "GB": "2026-07-06"
       },
@@ -1517,7 +1496,7 @@
       ],
       "popularity": 17.36,
       "vote_average": 7.0,
-      "vote_count": 1473,
+      "vote_count": 1475,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1629,7 +1608,7 @@
       ],
       "popularity": 33.77,
       "vote_average": 8.2,
-      "vote_count": 3962,
+      "vote_count": 3963,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1822,7 +1801,7 @@
       ],
       "popularity": 26.8,
       "vote_average": 8.1,
-      "vote_count": 2514,
+      "vote_count": 2516,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -1844,7 +1823,7 @@
       ],
       "popularity": 44.12,
       "vote_average": 7.6,
-      "vote_count": 4658,
+      "vote_count": 4659,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -1893,29 +1872,6 @@
         "GB": "2026-06-01"
       },
       "trailer_key": "eIQzUWhsX4U"
-    },
-    {
-      "id": 1784313,
-      "title": "Killeidoscope",
-      "year": "2026",
-      "first_release_date": "2026-02-12",
-      "overview": "A tale of vengeance with twins Lenny and Lizzie, their abusive mother, the mysterious bird man, a doll named Gino and a serial murderer known as \"The Killeidoscope Killer\".",
-      "original_language": "en",
-      "poster_path": "/e6QkF8JZ1CZkPY6GwhXhFwiTqmi.jpg",
-      "backdrop_path": "/8iW89KuLLxfPSnmGhmEbYUCcqC8.jpg",
-      "genre_names": [
-        "Action",
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "popularity": 1.52,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "physical_dates": {
-        "US": "2026-06-01"
-      },
-      "trailer_key": "jmujs1k3EYw"
     },
     {
       "id": 1160360,
@@ -2083,7 +2039,7 @@
       ],
       "popularity": 10.86,
       "vote_average": 7.0,
-      "vote_count": 2478,
+      "vote_count": 2481,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2128,7 +2084,7 @@
       ],
       "popularity": 3.9,
       "vote_average": 6.3,
-      "vote_count": 97,
+      "vote_count": 98,
       "physical_dates": {
         "US": "2026-05-01"
       },
@@ -2193,7 +2149,7 @@
       ],
       "popularity": 13.04,
       "vote_average": 7.1,
-      "vote_count": 1917,
+      "vote_count": 1918,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2216,7 +2172,7 @@
       ],
       "popularity": 9.9,
       "vote_average": 7.1,
-      "vote_count": 1180,
+      "vote_count": 1181,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2349,7 +2305,7 @@
       ],
       "popularity": 10.55,
       "vote_average": 7.1,
-      "vote_count": 1814,
+      "vote_count": 1818,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2391,7 +2347,7 @@
       ],
       "popularity": 12.91,
       "vote_average": 7.4,
-      "vote_count": 2370,
+      "vote_count": 2371,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2459,7 +2415,7 @@
       ],
       "popularity": 9.55,
       "vote_average": 7.4,
-      "vote_count": 484,
+      "vote_count": 485,
       "physical_dates": {
         "GB": "2026-03-30"
       },
@@ -2480,7 +2436,7 @@
       ],
       "popularity": 15.8,
       "vote_average": 5.3,
-      "vote_count": 933,
+      "vote_count": 934,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2571,7 +2527,7 @@
       ],
       "popularity": 44.45,
       "vote_average": 7.7,
-      "vote_count": 3656,
+      "vote_count": 3657,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2593,7 +2549,7 @@
       ],
       "popularity": 14.37,
       "vote_average": 6.7,
-      "vote_count": 2107,
+      "vote_count": 2108,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2614,7 +2570,7 @@
       ],
       "popularity": 8.53,
       "vote_average": 7.7,
-      "vote_count": 1745,
+      "vote_count": 1746,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2721,7 +2677,7 @@
       ],
       "popularity": 9.8,
       "vote_average": 7.3,
-      "vote_count": 1378,
+      "vote_count": 1379,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -2784,7 +2740,7 @@
       ],
       "popularity": 20.09,
       "vote_average": 7.8,
-      "vote_count": 3888,
+      "vote_count": 3889,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2891,7 +2847,7 @@
       ],
       "popularity": 13.05,
       "vote_average": 6.6,
-      "vote_count": 1247,
+      "vote_count": 1246,
       "physical_dates": {
         "US": "2026-02-16"
       },
@@ -2997,7 +2953,7 @@
       ],
       "popularity": 13.85,
       "vote_average": 7.3,
-      "vote_count": 2572,
+      "vote_count": 2574,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3111,6 +3067,26 @@
         "GB": "2026-02-02"
       },
       "trailer_key": "K9QiCL3W-q8"
+    },
+    {
+      "id": 1514378,
+      "title": "U.V.F: Underground Video Films",
+      "year": "2026",
+      "first_release_date": "2026-02-02",
+      "overview": "Presented as a forbidden TV broadcast, this horror anthology revives unsettling short films from the world.",
+      "original_language": "en",
+      "poster_path": "/tN1X3MfKUqMKzZOhXmAK911vdaN.jpg",
+      "backdrop_path": "/kCwzz268eFHe9U9H7LTk8mussK5.jpg",
+      "genre_names": [
+        "Horror"
+      ],
+      "popularity": 1.79,
+      "vote_average": 4.5,
+      "vote_count": 2,
+      "physical_dates": {
+        "US": "2026-02-02"
+      },
+      "trailer_key": null
     },
     {
       "id": 1379413,
@@ -3304,7 +3280,7 @@
       ],
       "popularity": 9.03,
       "vote_average": 6.4,
-      "vote_count": 1711,
+      "vote_count": 1712,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3326,7 +3302,7 @@
       ],
       "popularity": 5.47,
       "vote_average": 6.2,
-      "vote_count": 373,
+      "vote_count": 374,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3457,7 +3433,7 @@
       ],
       "popularity": 9.29,
       "vote_average": 6.8,
-      "vote_count": 2138,
+      "vote_count": 2139,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3478,7 +3454,7 @@
       ],
       "popularity": 9.15,
       "vote_average": 6.6,
-      "vote_count": 1426,
+      "vote_count": 1427,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3507,6 +3483,26 @@
       "trailer_key": "xdKP22EaAuU"
     },
     {
+      "id": 1601090,
+      "title": "What is an Ocean… Reconnecting the Cast and Crew of Cloud Atlas",
+      "year": "2025",
+      "first_release_date": "2025-12-23",
+      "overview": "A unique feature-length retrospective documentary bringing together the directors, author David Mitchell, and key cast and crew - including Tom Hanks, Hugh Grant, and Susan Sarandon - to share new reflections and untold stories from the making of Cloud Atlas. The film celebrates the artistry, collaboration, and enduring impact of the Wachowskis and Tom Tykwer's visionary production.",
+      "original_language": "en",
+      "poster_path": "/tw7aQ17lYfZ7Vmi7lNaWIPW0V9F.jpg",
+      "backdrop_path": null,
+      "genre_names": [
+        "Documentary"
+      ],
+      "popularity": 1.76,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-23"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1246049,
       "title": "Dracula",
       "year": "2025",
@@ -3529,6 +3525,24 @@
       "trailer_key": "hverb7siYJ8"
     },
     {
+      "id": 1600768,
+      "title": "Donald Farmer's Wild Ride",
+      "year": "2025",
+      "first_release_date": "2025-12-19",
+      "overview": "A quirky, gonzo peek behind the curtain into the mad mind of schlockmeister extraordinaire Donald Farmer. Known as the Budget Master of Tennessee, Farmer is the undisputed king of SOV Cinema, a DIY legend who’s carved a blood-soaked path through five decades of horror, trash, and straight-to-video gold.  Starting in the 1970s with a series of Super 8 films before transitioning to the “profitable” promise of videotape, Farmer found success with hypnotically gory, offbeat features—films that often hid sweet, romantic cores beneath their eye-popping VHS covers. A true original, Donald has been a writer for Fangoria, an actor, and even a reality TV star.",
+      "original_language": "en",
+      "poster_path": "/eCnfUUA5zOc10phy1osZTedxzVz.jpg",
+      "backdrop_path": null,
+      "genre_names": [],
+      "popularity": 1.79,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "physical_dates": {
+        "US": "2025-12-19"
+      },
+      "trailer_key": null
+    },
+    {
       "id": 1285965,
       "title": "Dangerous Animals",
       "year": "2025",
@@ -3543,7 +3557,7 @@
       ],
       "popularity": 4.3,
       "vote_average": 6.4,
-      "vote_count": 770,
+      "vote_count": 771,
       "physical_dates": {
         "ES": "2025-12-17"
       },
@@ -3719,7 +3733,7 @@
       ],
       "popularity": 5.91,
       "vote_average": 6.9,
-      "vote_count": 1442,
+      "vote_count": 1444,
       "physical_dates": {
         "GB": "2025-11-24",
         "US": "2025-11-11"
@@ -3921,27 +3935,26 @@
       "trailer_key": "1ryx-eRSwSs"
     },
     {
-      "id": 1100998,
-      "title": "SuperKlaus",
-      "year": "2024",
-      "first_release_date": "2024-10-06",
-      "overview": "Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas.",
+      "id": 1031962,
+      "title": "What We Hide",
+      "year": "2025",
+      "first_release_date": "2025-02-08",
+      "overview": "After their mother dies of an overdose, two sisters hide her body to avoid being separated by the foster system, but as their secret threatens to unravel, they must confront the consequences of their desperate choice.",
       "original_language": "en",
-      "poster_path": "/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg",
-      "backdrop_path": "/zldvlkHlHKwrD3kNidMoSNN4Ir6.jpg",
+      "poster_path": "/cQDHU06FsBqNv0r3n3Il3q8jPxY.jpg",
+      "backdrop_path": "/fPSFcnG6onc8NGb246PWcASIlGz.jpg",
       "genre_names": [
-        "Animation",
-        "Comedy",
-        "Family",
-        "Adventure"
+        "Drama",
+        "Thriller",
+        "Mystery"
       ],
-      "popularity": 1.55,
-      "vote_average": 6.9,
-      "vote_count": 8,
+      "popularity": 1.76,
+      "vote_average": 6.4,
+      "vote_count": 42,
       "physical_dates": {
         "US": "2025-11-11"
       },
-      "trailer_key": "SA1aHAc7bo0"
+      "trailer_key": "RBeJRgyqA4k"
     },
     {
       "id": 911430,
@@ -3958,7 +3971,7 @@
       ],
       "popularity": 26.16,
       "vote_average": 7.8,
-      "vote_count": 4969,
+      "vote_count": 4970,
       "physical_dates": {
         "GB": "2025-11-10"
       },
