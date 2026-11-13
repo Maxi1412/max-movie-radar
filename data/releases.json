@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T13:13:16Z",
+  "generated_at": "2026-11-13T22:42:49Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -53,7 +53,7 @@
       ],
       "popularity": 61.64,
       "vote_average": 8.2,
-      "vote_count": 1459,
+      "vote_count": 1460,
       "physical_dates": {
         "GB": "2026-11-09"
       },
@@ -99,7 +99,7 @@
       ],
       "popularity": 12.72,
       "vote_average": 7.2,
-      "vote_count": 796,
+      "vote_count": 798,
       "physical_dates": {
         "GB": "2026-11-09",
         "US": "2026-07-14"
@@ -123,7 +123,7 @@
       ],
       "popularity": 47.83,
       "vote_average": 9.0,
-      "vote_count": 1440,
+      "vote_count": 1441,
       "physical_dates": {
         "GB": "2026-11-02",
         "US": "2026-11-03"
@@ -138,7 +138,7 @@
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "original_language": "en",
       "poster_path": "/7DmtuAK5gYGlMFA45Oxkl1bEpIC.jpg",
-      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "backdrop_path": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
       "genre_names": [
         "Science Fiction",
         "Mystery",
@@ -146,7 +146,7 @@
       ],
       "popularity": 38.88,
       "vote_average": 7.0,
-      "vote_count": 2372,
+      "vote_count": 2377,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -168,7 +168,7 @@
       ],
       "popularity": 23.4,
       "vote_average": 7.8,
-      "vote_count": 414,
+      "vote_count": 417,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -234,7 +234,7 @@
       ],
       "popularity": 18.5,
       "vote_average": 7.6,
-      "vote_count": 4071,
+      "vote_count": 4073,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -337,7 +337,7 @@
       "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
       "original_language": "en",
       "poster_path": "/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
-      "backdrop_path": "/3afHil7EVm655wO2NS6RHxuyicE.jpg",
+      "backdrop_path": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
       "genre_names": [
         "Romance",
         "Comedy"
@@ -428,7 +428,7 @@
       ],
       "popularity": 21.21,
       "vote_average": 7.6,
-      "vote_count": 1946,
+      "vote_count": 1947,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -516,7 +516,7 @@
       ],
       "popularity": 16.8,
       "vote_average": 7.2,
-      "vote_count": 958,
+      "vote_count": 959,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -539,7 +539,7 @@
       ],
       "popularity": 65.08,
       "vote_average": 8.3,
-      "vote_count": 2868,
+      "vote_count": 2871,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -687,7 +687,7 @@
       ],
       "popularity": 5.71,
       "vote_average": 7.1,
-      "vote_count": 959,
+      "vote_count": 960,
       "physical_dates": {
         "GB": "2026-09-21"
       },
@@ -885,7 +885,7 @@
       ],
       "popularity": 73.59,
       "vote_average": 8.2,
-      "vote_count": 6599,
+      "vote_count": 6600,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -969,7 +969,7 @@
       ],
       "popularity": 47.42,
       "vote_average": 7.4,
-      "vote_count": 4010,
+      "vote_count": 4012,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -991,7 +991,7 @@
       ],
       "popularity": 28.45,
       "vote_average": 7.5,
-      "vote_count": 1989,
+      "vote_count": 1990,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1035,8 +1035,8 @@
         "Thriller"
       ],
       "popularity": 7.99,
-      "vote_average": 6.6,
-      "vote_count": 105,
+      "vote_average": 6.7,
+      "vote_count": 106,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1143,7 +1143,7 @@
       ],
       "popularity": 7.56,
       "vote_average": 7.5,
-      "vote_count": 1188,
+      "vote_count": 1189,
       "physical_dates": {
         "GB": "2026-08-17",
         "US": "2026-05-26"
@@ -1186,7 +1186,7 @@
       ],
       "popularity": 633.83,
       "vote_average": 8.6,
-      "vote_count": 8840,
+      "vote_count": 8848,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1207,7 +1207,7 @@
       ],
       "popularity": 15.98,
       "vote_average": 6.8,
-      "vote_count": 1062,
+      "vote_count": 1063,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1228,7 +1228,7 @@
       ],
       "popularity": 33.68,
       "vote_average": 8.6,
-      "vote_count": 4722,
+      "vote_count": 4723,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1250,7 +1250,7 @@
       ],
       "popularity": 23.27,
       "vote_average": 7.0,
-      "vote_count": 2557,
+      "vote_count": 2558,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1300,28 +1300,6 @@
         "US": "2026-07-14"
       },
       "trailer_key": "6wbMsDmJLCs"
-    },
-    {
-      "id": 1331349,
-      "title": "Two Pianos",
-      "year": "2025",
-      "first_release_date": "2025-09-10",
-      "overview": "Returning to France after a long exile, pianist Mathias Vogler reunites with his mentor, Elena, to prepare a concert. In a park, an encounter with a child who looks just like him will lead him to Claude, the woman he once loved.",
-      "original_language": "fr",
-      "poster_path": "/vdmbyk5iic557hCKs0F7gV6DMNh.jpg",
-      "backdrop_path": "/e0fvn0vSAz8nFV8Ty0vMuTJVql5.jpg",
-      "genre_names": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "popularity": 0.69,
-      "vote_average": 5.1,
-      "vote_count": 41,
-      "physical_dates": {
-        "US": "2026-07-14"
-      },
-      "trailer_key": "wPsl4ObXXb8"
     },
     {
       "id": 1287141,
@@ -1625,7 +1603,7 @@
       ],
       "popularity": 9.18,
       "vote_average": 6.9,
-      "vote_count": 862,
+      "vote_count": 864,
       "physical_dates": {
         "GB": "2026-06-08"
       },
@@ -1670,7 +1648,7 @@
       ],
       "popularity": 25.91,
       "vote_average": 8.1,
-      "vote_count": 2527,
+      "vote_count": 2528,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -1692,7 +1670,7 @@
       ],
       "popularity": 41.84,
       "vote_average": 7.6,
-      "vote_count": 4682,
+      "vote_count": 4684,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -1778,7 +1756,7 @@
       ],
       "popularity": 3.86,
       "vote_average": 7.2,
-      "vote_count": 104,
+      "vote_count": 105,
       "physical_dates": {
         "GB": "2026-05-25"
       },
@@ -2039,7 +2017,7 @@
       ],
       "popularity": 13.21,
       "vote_average": 7.1,
-      "vote_count": 1940,
+      "vote_count": 1941,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2062,7 +2040,7 @@
       ],
       "popularity": 9.8,
       "vote_average": 7.1,
-      "vote_count": 1201,
+      "vote_count": 1202,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2237,7 +2215,7 @@
       ],
       "popularity": 12.93,
       "vote_average": 7.4,
-      "vote_count": 2403,
+      "vote_count": 2404,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2318,7 +2296,7 @@
       "first_release_date": "2026-01-21",
       "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
       "original_language": "en",
-      "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+      "poster_path": "/wR7SLLw8me86JTf0a0o3KScJD7r.jpg",
       "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
       "genre_names": [
         "Horror",
@@ -2417,7 +2395,7 @@
       ],
       "popularity": 41.48,
       "vote_average": 7.7,
-      "vote_count": 3684,
+      "vote_count": 3686,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2481,7 +2459,7 @@
       ],
       "popularity": 2.46,
       "vote_average": 6.9,
-      "vote_count": 25,
+      "vote_count": 26,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2523,7 +2501,7 @@
       ],
       "popularity": 5.32,
       "vote_average": 6.5,
-      "vote_count": 214,
+      "vote_count": 217,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2546,7 +2524,7 @@
       ],
       "popularity": 10.06,
       "vote_average": 7.3,
-      "vote_count": 1385,
+      "vote_count": 1386,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -2653,7 +2631,7 @@
       ],
       "popularity": 4.33,
       "vote_average": 7.7,
-      "vote_count": 1093,
+      "vote_count": 1094,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2737,7 +2715,7 @@
       ],
       "popularity": 5.21,
       "vote_average": 6.1,
-      "vote_count": 438,
+      "vote_count": 439,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -2779,7 +2757,7 @@
       ],
       "popularity": 11.52,
       "vote_average": 7.3,
-      "vote_count": 2600,
+      "vote_count": 2602,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -2845,8 +2823,8 @@
         "Thriller"
       ],
       "popularity": 8.4,
-      "vote_average": 6.2,
-      "vote_count": 33,
+      "vote_average": 6.3,
+      "vote_count": 34,
       "physical_dates": {
         "GB": "2026-02-07"
       },
@@ -2912,7 +2890,7 @@
       ],
       "popularity": 18.37,
       "vote_average": 7.3,
-      "vote_count": 4527,
+      "vote_count": 4529,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3327,7 +3305,7 @@
       ],
       "popularity": 15.08,
       "vote_average": 6.9,
-      "vote_count": 2246,
+      "vote_count": 2247,
       "physical_dates": {
         "US": "2025-11-25"
       },
