@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T12:49:40Z",
+  "generated_at": "2026-11-15T21:53:52Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -53,7 +53,7 @@
       ],
       "popularity": 60.5,
       "vote_average": 8.2,
-      "vote_count": 1472,
+      "vote_count": 1473,
       "physical_dates": {
         "GB": "2026-11-09"
       },
@@ -76,7 +76,7 @@
       ],
       "popularity": 25.56,
       "vote_average": 8.0,
-      "vote_count": 3368,
+      "vote_count": 3369,
       "physical_dates": {
         "GB": "2026-11-09",
         "US": "2026-11-03"
@@ -122,7 +122,7 @@
       ],
       "popularity": 55.16,
       "vote_average": 7.0,
-      "vote_count": 2418,
+      "vote_count": 2424,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -145,7 +145,7 @@
       ],
       "popularity": 45.59,
       "vote_average": 9.0,
-      "vote_count": 1447,
+      "vote_count": 1448,
       "physical_dates": {
         "GB": "2026-11-02",
         "US": "2026-11-03"
@@ -168,7 +168,7 @@
       ],
       "popularity": 24.86,
       "vote_average": 7.8,
-      "vote_count": 422,
+      "vote_count": 423,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -234,7 +234,7 @@
       ],
       "popularity": 16.83,
       "vote_average": 7.6,
-      "vote_count": 4076,
+      "vote_count": 4080,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -279,7 +279,7 @@
       ],
       "popularity": 6.9,
       "vote_average": 6.0,
-      "vote_count": 754,
+      "vote_count": 755,
       "physical_dates": {
         "GB": "2026-10-26"
       },
@@ -323,7 +323,7 @@
       ],
       "popularity": 23.46,
       "vote_average": 7.1,
-      "vote_count": 2354,
+      "vote_count": 2356,
       "physical_dates": {
         "US": "2026-10-20"
       },
@@ -472,7 +472,7 @@
       ],
       "popularity": 58.16,
       "vote_average": 7.4,
-      "vote_count": 1060,
+      "vote_count": 1063,
       "physical_dates": {
         "US": "2026-10-06"
       },
@@ -539,7 +539,7 @@
       ],
       "popularity": 67.12,
       "vote_average": 8.3,
-      "vote_count": 2879,
+      "vote_count": 2880,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -559,7 +559,7 @@
       ],
       "popularity": 33.43,
       "vote_average": 6.3,
-      "vote_count": 2141,
+      "vote_count": 2143,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -797,7 +797,7 @@
       ],
       "popularity": 50.07,
       "vote_average": 7.5,
-      "vote_count": 1397,
+      "vote_count": 1398,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -819,7 +819,7 @@
       ],
       "popularity": 31.71,
       "vote_average": 6.6,
-      "vote_count": 2732,
+      "vote_count": 2736,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -863,7 +863,7 @@
       ],
       "popularity": 74.37,
       "vote_average": 8.2,
-      "vote_count": 6622,
+      "vote_count": 6630,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -969,7 +969,7 @@
       ],
       "popularity": 49.76,
       "vote_average": 7.4,
-      "vote_count": 4021,
+      "vote_count": 4024,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -991,7 +991,7 @@
       ],
       "popularity": 26.27,
       "vote_average": 7.5,
-      "vote_count": 1994,
+      "vote_count": 1998,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1013,7 +1013,7 @@
       ],
       "popularity": 16.42,
       "vote_average": 7.9,
-      "vote_count": 1933,
+      "vote_count": 1937,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1186,7 +1186,7 @@
       ],
       "popularity": 323.11,
       "vote_average": 8.6,
-      "vote_count": 8885,
+      "vote_count": 8896,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1207,7 +1207,7 @@
       ],
       "popularity": 14.39,
       "vote_average": 6.8,
-      "vote_count": 1065,
+      "vote_count": 1067,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1228,7 +1228,7 @@
       ],
       "popularity": 32.14,
       "vote_average": 8.6,
-      "vote_count": 4728,
+      "vote_count": 4736,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1273,7 +1273,7 @@
       ],
       "popularity": 14.9,
       "vote_average": 6.9,
-      "vote_count": 2070,
+      "vote_count": 2073,
       "physical_dates": {
         "GB": "2026-07-13",
         "US": "2026-07-28"
@@ -1339,7 +1339,7 @@
       ],
       "popularity": 30.07,
       "vote_average": 6.1,
-      "vote_count": 404,
+      "vote_count": 406,
       "physical_dates": {
         "GB": "2026-07-06"
       },
@@ -1383,7 +1383,7 @@
       ],
       "popularity": 17.63,
       "vote_average": 7.0,
-      "vote_count": 1490,
+      "vote_count": 1491,
       "physical_dates": {
         "US": "2026-06-30"
       },
@@ -1449,7 +1449,7 @@
       ],
       "popularity": 12.4,
       "vote_average": 7.5,
-      "vote_count": 1811,
+      "vote_count": 1812,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1495,7 +1495,7 @@
       ],
       "popularity": 33.35,
       "vote_average": 8.2,
-      "vote_count": 3981,
+      "vote_count": 3986,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1517,7 +1517,7 @@
       ],
       "popularity": 18.41,
       "vote_average": 6.2,
-      "vote_count": 1442,
+      "vote_count": 1445,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1560,7 +1560,7 @@
       ],
       "popularity": 4.08,
       "vote_average": 6.0,
-      "vote_count": 98,
+      "vote_count": 99,
       "physical_dates": {
         "GB": "2026-06-15"
       },
@@ -1582,7 +1582,7 @@
       ],
       "popularity": 9.69,
       "vote_average": 6.9,
-      "vote_count": 871,
+      "vote_count": 872,
       "physical_dates": {
         "GB": "2026-06-08"
       },
@@ -1627,7 +1627,7 @@
       ],
       "popularity": 27.6,
       "vote_average": 8.1,
-      "vote_count": 2533,
+      "vote_count": 2534,
       "physical_dates": {
         "US": "2026-06-02"
       },
@@ -1669,7 +1669,7 @@
       ],
       "popularity": 40.55,
       "vote_average": 7.6,
-      "vote_count": 4691,
+      "vote_count": 4693,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -1755,7 +1755,7 @@
       ],
       "popularity": 6.14,
       "vote_average": 7.2,
-      "vote_count": 108,
+      "vote_count": 112,
       "physical_dates": {
         "GB": "2026-05-25"
       },
@@ -1841,7 +1841,7 @@
       ],
       "popularity": 20.59,
       "vote_average": 8.0,
-      "vote_count": 1160,
+      "vote_count": 1162,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -1862,7 +1862,7 @@
       ],
       "popularity": 13.22,
       "vote_average": 6.6,
-      "vote_count": 1448,
+      "vote_count": 1449,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -1884,7 +1884,7 @@
       ],
       "popularity": 12.05,
       "vote_average": 7.0,
-      "vote_count": 2507,
+      "vote_count": 2509,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -1950,7 +1950,7 @@
       ],
       "popularity": 4.82,
       "vote_average": 5.5,
-      "vote_count": 573,
+      "vote_count": 574,
       "physical_dates": {
         "US": "2026-04-28"
       },
@@ -1994,7 +1994,7 @@
       ],
       "popularity": 23.18,
       "vote_average": 7.7,
-      "vote_count": 2035,
+      "vote_count": 2038,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2016,7 +2016,7 @@
       ],
       "popularity": 12.84,
       "vote_average": 7.1,
-      "vote_count": 1943,
+      "vote_count": 1944,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2039,7 +2039,7 @@
       ],
       "popularity": 9.44,
       "vote_average": 7.1,
-      "vote_count": 1204,
+      "vote_count": 1205,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2060,7 +2060,7 @@
       ],
       "popularity": 6.91,
       "vote_average": 6.4,
-      "vote_count": 976,
+      "vote_count": 977,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2172,7 +2172,7 @@
       ],
       "popularity": 10.58,
       "vote_average": 7.1,
-      "vote_count": 1827,
+      "vote_count": 1829,
       "physical_dates": {
         "US": "2026-04-07"
       },
@@ -2214,7 +2214,7 @@
       ],
       "popularity": 12.21,
       "vote_average": 7.4,
-      "vote_count": 2409,
+      "vote_count": 2410,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2260,7 +2260,7 @@
       ],
       "popularity": 2.56,
       "vote_average": 6.1,
-      "vote_count": 289,
+      "vote_count": 290,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2325,7 +2325,7 @@
       ],
       "popularity": 9.62,
       "vote_average": 5.8,
-      "vote_count": 1544,
+      "vote_count": 1546,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2394,7 +2394,7 @@
       ],
       "popularity": 39.4,
       "vote_average": 7.7,
-      "vote_count": 3691,
+      "vote_count": 3696,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2437,7 +2437,7 @@
       ],
       "popularity": 8.81,
       "vote_average": 7.7,
-      "vote_count": 1764,
+      "vote_count": 1767,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2500,7 +2500,7 @@
       ],
       "popularity": 5.22,
       "vote_average": 6.5,
-      "vote_count": 217,
+      "vote_count": 218,
       "physical_dates": {
         "GB": "2026-03-02",
         "US": "2026-02-17"
@@ -2523,7 +2523,7 @@
       ],
       "popularity": 10.19,
       "vote_average": 7.3,
-      "vote_count": 1388,
+      "vote_count": 1390,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -2544,7 +2544,7 @@
       ],
       "popularity": 2.82,
       "vote_average": 6.2,
-      "vote_count": 31,
+      "vote_count": 32,
       "physical_dates": {
         "GB": "2026-02-23"
       },
@@ -2566,7 +2566,7 @@
       ],
       "popularity": 19.27,
       "vote_average": 7.8,
-      "vote_count": 3912,
+      "vote_count": 3913,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2693,7 +2693,7 @@
       ],
       "popularity": 5.81,
       "vote_average": 6.6,
-      "vote_count": 795,
+      "vote_count": 797,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -2714,7 +2714,7 @@
       ],
       "popularity": 4.97,
       "vote_average": 6.1,
-      "vote_count": 439,
+      "vote_count": 440,
       "physical_dates": {
         "GB": "2026-02-16"
       },
@@ -2756,7 +2756,7 @@
       ],
       "popularity": 11.07,
       "vote_average": 7.3,
-      "vote_count": 2605,
+      "vote_count": 2608,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -2889,7 +2889,7 @@
       ],
       "popularity": 17.86,
       "vote_average": 7.3,
-      "vote_count": 4534,
+      "vote_count": 4537,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -2955,7 +2955,7 @@
       ],
       "popularity": 8.87,
       "vote_average": 6.6,
-      "vote_count": 1227,
+      "vote_count": 1229,
       "physical_dates": {
         "US": "2026-01-20"
       },
@@ -2978,7 +2978,7 @@
       ],
       "popularity": 4.78,
       "vote_average": 6.5,
-      "vote_count": 591,
+      "vote_count": 592,
       "physical_dates": {
         "GB": "2026-01-19"
       },
@@ -3000,7 +3000,7 @@
       ],
       "popularity": 10.5,
       "vote_average": 6.4,
-      "vote_count": 1728,
+      "vote_count": 1729,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3109,7 +3109,7 @@
       ],
       "popularity": 7.79,
       "vote_average": 6.8,
-      "vote_count": 2152,
+      "vote_count": 2154,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3130,7 +3130,7 @@
       ],
       "popularity": 7.51,
       "vote_average": 6.6,
-      "vote_count": 1431,
+      "vote_count": 1432,
       "physical_dates": {
         "US": "2025-12-23"
       },
@@ -3216,7 +3216,7 @@
       ],
       "popularity": 4.49,
       "vote_average": 6.5,
-      "vote_count": 517,
+      "vote_count": 519,
       "physical_dates": {
         "US": "2025-12-09"
       },
@@ -3304,7 +3304,7 @@
       ],
       "popularity": 14.98,
       "vote_average": 6.9,
-      "vote_count": 2249,
+      "vote_count": 2250,
       "physical_dates": {
         "US": "2025-11-25"
       },
@@ -3349,7 +3349,7 @@
       ],
       "popularity": 6.14,
       "vote_average": 6.9,
-      "vote_count": 1458,
+      "vote_count": 1460,
       "physical_dates": {
         "GB": "2025-11-24"
       },
