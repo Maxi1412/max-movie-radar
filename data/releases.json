@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T15:26:36Z",
+  "generated_at": "2026-11-27T01:02:54Z",
   "status": "ready",
   "source": "TMDb",
   "note": "Recent original films only; physical DVD/Blu-ray/UHD release dates in selected countries. Individual disc formats and stock are not verified.",
@@ -75,7 +75,7 @@
       ],
       "popularity": 7.97,
       "vote_average": 5.9,
-      "vote_count": 136,
+      "vote_count": 137,
       "physical_dates": {
         "GB": "2026-11-23"
       },
@@ -118,7 +118,7 @@
       ],
       "popularity": 383.1,
       "vote_average": 8.0,
-      "vote_count": 5503,
+      "vote_count": 5511,
       "physical_dates": {
         "US": "2026-11-17"
       },
@@ -223,7 +223,7 @@
       ],
       "popularity": 53.3,
       "vote_average": 8.2,
-      "vote_count": 1569,
+      "vote_count": 1571,
       "physical_dates": {
         "GB": "2026-11-09"
       },
@@ -246,7 +246,7 @@
       ],
       "popularity": 27.63,
       "vote_average": 8.0,
-      "vote_count": 3392,
+      "vote_count": 3393,
       "physical_dates": {
         "GB": "2026-11-09",
         "US": "2026-11-03"
@@ -269,7 +269,7 @@
       ],
       "popularity": 11.78,
       "vote_average": 7.2,
-      "vote_count": 815,
+      "vote_count": 816,
       "physical_dates": {
         "GB": "2026-11-09",
         "US": "2026-07-14"
@@ -292,7 +292,7 @@
       ],
       "popularity": 67.24,
       "vote_average": 7.0,
-      "vote_count": 2582,
+      "vote_count": 2586,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -338,7 +338,7 @@
       ],
       "popularity": 16.13,
       "vote_average": 7.7,
-      "vote_count": 439,
+      "vote_count": 440,
       "physical_dates": {
         "US": "2026-11-03"
       },
@@ -404,7 +404,7 @@
       ],
       "popularity": 15.25,
       "vote_average": 7.6,
-      "vote_count": 4107,
+      "vote_count": 4108,
       "physical_dates": {
         "GB": "2026-10-26",
         "US": "2026-10-27"
@@ -598,7 +598,7 @@
       ],
       "popularity": 20.54,
       "vote_average": 7.5,
-      "vote_count": 1984,
+      "vote_count": 1985,
       "physical_dates": {
         "GB": "2026-10-12",
         "US": "2026-09-22"
@@ -666,7 +666,7 @@
       ],
       "popularity": 16.83,
       "vote_average": 7.2,
-      "vote_count": 1003,
+      "vote_count": 1004,
       "physical_dates": {
         "GB": "2026-10-05"
       },
@@ -689,7 +689,7 @@
       ],
       "popularity": 66.16,
       "vote_average": 8.2,
-      "vote_count": 2925,
+      "vote_count": 2928,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -709,7 +709,7 @@
       ],
       "popularity": 29.44,
       "vote_average": 6.3,
-      "vote_count": 2164,
+      "vote_count": 2165,
       "physical_dates": {
         "US": "2026-09-22"
       },
@@ -923,7 +923,7 @@
       ],
       "popularity": 5.34,
       "vote_average": 6.5,
-      "vote_count": 275,
+      "vote_count": 276,
       "physical_dates": {
         "GB": "2026-09-14"
       },
@@ -992,7 +992,7 @@
       ],
       "popularity": 25.48,
       "vote_average": 6.6,
-      "vote_count": 2763,
+      "vote_count": 2765,
       "physical_dates": {
         "US": "2026-09-08"
       },
@@ -1013,7 +1013,7 @@
       ],
       "popularity": 79.72,
       "vote_average": 8.2,
-      "vote_count": 6746,
+      "vote_count": 6752,
       "physical_dates": {
         "GB": "2026-09-07",
         "US": "2026-07-14"
@@ -1036,7 +1036,7 @@
       ],
       "popularity": 33.9,
       "vote_average": 6.3,
-      "vote_count": 183,
+      "vote_count": 184,
       "physical_dates": {
         "GB": "2026-09-07"
       },
@@ -1062,26 +1062,6 @@
         "GB": "2026-09-07"
       },
       "trailer_key": "M9tHmu0wNHM"
-    },
-    {
-      "id": 1308972,
-      "title": "Big Baby",
-      "year": "2025",
-      "first_release_date": "2025-10-09",
-      "overview": "A nightmare involving a maniac killer in a baby mask serves as inspiration for horror screenwriter Adam Lewis's new script. As more nightmares, visions, and real life terror being to challenge Adam's sanity, he finds himself in a desperate struggle to control his writing, his reality, and who will be Big Baby's next victim.",
-      "original_language": "en",
-      "poster_path": "/7psYxnfWGwNCJvGLFOYQ197lXW5.jpg",
-      "backdrop_path": "/zQmEEHyAa4iq6Qsn5tGurnswDvo.jpg",
-      "genre_names": [
-        "Horror"
-      ],
-      "popularity": 1.64,
-      "vote_average": 4.3,
-      "vote_count": 6,
-      "physical_dates": {
-        "GB": "2026-09-07"
-      },
-      "trailer_key": "1K4Ggvz08pQ"
     },
     {
       "id": 1526519,
@@ -1119,7 +1099,7 @@
       ],
       "popularity": 48.51,
       "vote_average": 7.4,
-      "vote_count": 4080,
+      "vote_count": 4082,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1141,7 +1121,7 @@
       ],
       "popularity": 25.01,
       "vote_average": 7.4,
-      "vote_count": 2039,
+      "vote_count": 2040,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1161,9 +1141,9 @@
         "Mystery",
         "Family"
       ],
-      "popularity": 15.04,
+      "popularity": 14.78,
       "vote_average": 7.9,
-      "vote_count": 1956,
+      "vote_count": 1959,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1186,7 +1166,7 @@
       ],
       "popularity": 4.74,
       "vote_average": 6.7,
-      "vote_count": 114,
+      "vote_count": 115,
       "physical_dates": {
         "US": "2026-08-25"
       },
@@ -1291,7 +1271,7 @@
       "genre_names": [
         "Drama"
       ],
-      "popularity": 9.91,
+      "popularity": 9.45,
       "vote_average": 7.5,
       "vote_count": 1205,
       "physical_dates": {
@@ -1336,7 +1316,7 @@
       ],
       "popularity": 65.88,
       "vote_average": 8.6,
-      "vote_count": 9030,
+      "vote_count": 9035,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1357,7 +1337,7 @@
       ],
       "popularity": 15.13,
       "vote_average": 6.8,
-      "vote_count": 1093,
+      "vote_count": 1095,
       "physical_dates": {
         "US": "2026-08-11"
       },
@@ -1378,7 +1358,7 @@
       ],
       "popularity": 35.13,
       "vote_average": 8.6,
-      "vote_count": 4781,
+      "vote_count": 4782,
       "physical_dates": {
         "GB": "2026-08-10",
         "US": "2026-07-14"
@@ -1400,7 +1380,7 @@
       ],
       "popularity": 20.06,
       "vote_average": 7.0,
-      "vote_count": 2586,
+      "vote_count": 2587,
       "physical_dates": {
         "GB": "2026-08-03",
         "US": "2026-07-28"
@@ -1423,34 +1403,11 @@
       ],
       "popularity": 20.53,
       "vote_average": 7.7,
-      "vote_count": 2816,
+      "vote_count": 2817,
       "physical_dates": {
         "US": "2026-07-28"
       },
       "trailer_key": "qGyIEis2T2o"
-    },
-    {
-      "id": 1325734,
-      "title": "The Drama",
-      "year": "2026",
-      "first_release_date": "2026-03-17",
-      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "original_language": "en",
-      "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-      "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-      "genre_names": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "popularity": 16.02,
-      "vote_average": 6.9,
-      "vote_count": 2117,
-      "physical_dates": {
-        "GB": "2026-07-13",
-        "US": "2026-07-28"
-      },
-      "trailer_key": "0ZDzsH3XGFA"
     },
     {
       "id": 1304313,
@@ -1496,6 +1453,29 @@
       "trailer_key": "wPsl4ObXXb8"
     },
     {
+      "id": 1325734,
+      "title": "The Drama",
+      "year": "2026",
+      "first_release_date": "2026-03-17",
+      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "original_language": "en",
+      "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "genre_names": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "popularity": 16.02,
+      "vote_average": 6.9,
+      "vote_count": 2121,
+      "physical_dates": {
+        "GB": "2026-07-13",
+        "US": "2026-07-07"
+      },
+      "trailer_key": "0ZDzsH3XGFA"
+    },
+    {
       "id": 1287141,
       "title": "Pillion",
       "year": "2025",
@@ -1533,7 +1513,7 @@
       ],
       "popularity": 13.98,
       "vote_average": 6.1,
-      "vote_count": 412,
+      "vote_count": 413,
       "physical_dates": {
         "GB": "2026-07-06"
       },
@@ -1643,7 +1623,7 @@
       ],
       "popularity": 12.48,
       "vote_average": 7.5,
-      "vote_count": 1826,
+      "vote_count": 1829,
       "physical_dates": {
         "GB": "2026-06-22",
         "US": "2026-06-16"
@@ -1665,7 +1645,7 @@
       ],
       "popularity": 3.24,
       "vote_average": 5.7,
-      "vote_count": 242,
+      "vote_count": 243,
       "physical_dates": {
         "GB": "2026-06-21"
       },
@@ -1689,7 +1669,7 @@
       ],
       "popularity": 37.13,
       "vote_average": 8.2,
-      "vote_count": 4010,
+      "vote_count": 4011,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1711,7 +1691,7 @@
       ],
       "popularity": 17.08,
       "vote_average": 6.2,
-      "vote_count": 1455,
+      "vote_count": 1456,
       "physical_dates": {
         "US": "2026-06-16"
       },
@@ -1759,27 +1739,6 @@
         "GB": "2026-06-15"
       },
       "trailer_key": "rJY9BC89igE"
-    },
-    {
-      "id": 1418901,
-      "title": "Mother's Pride",
-      "year": "2026",
-      "first_release_date": "2026-03-06",
-      "overview": "A comedy about a failing pub, a divided community and a grieving family whose lives are changed by brewing real ale and entering the Great British Beer Awards.",
-      "original_language": "en",
-      "poster_path": "/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
-      "backdrop_path": "/btcpMbFB6PWiqDz0HlRH9kSGas.jpg",
-      "genre_names": [
-        "Comedy",
-        "Drama"
-      ],
-      "popularity": 1.55,
-      "vote_average": 6.2,
-      "vote_count": 14,
-      "physical_dates": {
-        "GB": "2026-06-15"
-      },
-      "trailer_key": "NyDJXrMhwSI"
     },
     {
       "id": 467905,
@@ -1864,7 +1823,7 @@
       ],
       "popularity": 46.21,
       "vote_average": 7.6,
-      "vote_count": 4738,
+      "vote_count": 4741,
       "physical_dates": {
         "GB": "2026-06-01",
         "US": "2026-05-19"
@@ -2057,7 +2016,7 @@
       ],
       "popularity": 13.14,
       "vote_average": 6.6,
-      "vote_count": 1463,
+      "vote_count": 1464,
       "physical_dates": {
         "US": "2026-05-05"
       },
@@ -2079,7 +2038,7 @@
       ],
       "popularity": 12.02,
       "vote_average": 7.0,
-      "vote_count": 2535,
+      "vote_count": 2537,
       "physical_dates": {
         "GB": "2026-05-04",
         "US": "2026-04-21"
@@ -2189,7 +2148,7 @@
       ],
       "popularity": 27.11,
       "vote_average": 7.7,
-      "vote_count": 2062,
+      "vote_count": 2063,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2212,7 +2171,7 @@
       ],
       "popularity": 14.28,
       "vote_average": 7.1,
-      "vote_count": 1239,
+      "vote_count": 1240,
       "physical_dates": {
         "US": "2026-04-21"
       },
@@ -2234,7 +2193,7 @@
       ],
       "popularity": 11.92,
       "vote_average": 7.1,
-      "vote_count": 1965,
+      "vote_count": 1966,
       "physical_dates": {
         "GB": "2026-04-20",
         "US": "2026-04-21"
@@ -2410,7 +2369,7 @@
       ],
       "popularity": 12.94,
       "vote_average": 7.4,
-      "vote_count": 2450,
+      "vote_count": 2452,
       "physical_dates": {
         "US": "2026-03-31"
       },
@@ -2432,7 +2391,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "popularity": 10.11,
+      "popularity": 9.64,
       "vote_average": 6.8,
       "vote_count": 369,
       "physical_dates": {
@@ -2497,7 +2456,7 @@
         "Horror",
         "Mystery"
       ],
-      "popularity": 13.97,
+      "popularity": 13.95,
       "vote_average": 5.3,
       "vote_count": 946,
       "physical_dates": {
@@ -2521,7 +2480,7 @@
       ],
       "popularity": 11.59,
       "vote_average": 5.8,
-      "vote_count": 1559,
+      "vote_count": 1560,
       "physical_dates": {
         "US": "2026-03-17"
       },
@@ -2590,7 +2549,7 @@
       ],
       "popularity": 33.3,
       "vote_average": 7.7,
-      "vote_count": 3720,
+      "vote_count": 3722,
       "physical_dates": {
         "US": "2026-03-03"
       },
@@ -2803,7 +2762,7 @@
         "War",
         "Thriller"
       ],
-      "popularity": 7.81,
+      "popularity": 7.27,
       "vote_average": 7.3,
       "vote_count": 970,
       "physical_dates": {
@@ -2826,7 +2785,7 @@
       ],
       "popularity": 5.99,
       "vote_average": 7.7,
-      "vote_count": 1110,
+      "vote_count": 1111,
       "physical_dates": {
         "US": "2026-02-17"
       },
@@ -2952,7 +2911,7 @@
       ],
       "popularity": 13.64,
       "vote_average": 7.3,
-      "vote_count": 2646,
+      "vote_count": 2649,
       "physical_dates": {
         "GB": "2026-02-09",
         "US": "2025-12-23"
@@ -3085,7 +3044,7 @@
       ],
       "popularity": 31.21,
       "vote_average": 7.3,
-      "vote_count": 4579,
+      "vote_count": 4583,
       "physical_dates": {
         "GB": "2026-01-26",
         "US": "2026-01-20"
@@ -3172,7 +3131,7 @@
         "War",
         "Science Fiction"
       ],
-      "popularity": 5.39,
+      "popularity": 4.9,
       "vote_average": 6.5,
       "vote_count": 594,
       "physical_dates": {
@@ -3196,7 +3155,7 @@
       ],
       "popularity": 9.3,
       "vote_average": 6.4,
-      "vote_count": 1743,
+      "vote_count": 1744,
       "physical_dates": {
         "US": "2026-01-06"
       },
@@ -3281,7 +3240,7 @@
         "Horror",
         "Comedy"
       ],
-      "popularity": 2.23,
+      "popularity": 2.09,
       "vote_average": 5.5,
       "vote_count": 91,
       "physical_dates": {
@@ -3410,9 +3369,9 @@
         "Thriller",
         "Action"
       ],
-      "popularity": 4.49,
+      "popularity": 4.96,
       "vote_average": 6.5,
-      "vote_count": 524,
+      "vote_count": 525,
       "physical_dates": {
         "US": "2025-12-09"
       },
